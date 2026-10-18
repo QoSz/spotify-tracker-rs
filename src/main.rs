@@ -73,6 +73,13 @@ enum Command {
 
 #[tokio::main]
 async fn main() -> ExitCode {
+    // Rust ignores SIGPIPE by default, so `spotify-tracker stats | head` panics
+    // on "failed printing to stdout: Broken pipe". Restore the default action
+    // (terminate quietly), which is what a CLI piped into `head` should do.
+    // SAFETY: called once, before any threads or stdout writes exist.
+    unsafe {
+        libc::signal(libc::SIGPIPE, libc::SIG_DFL);
+    }
     let filter =
         EnvFilter::try_from_default_env().unwrap_or_else(|_| EnvFilter::new("info,rspotify=warn"));
     tracing_subscriber::fmt()

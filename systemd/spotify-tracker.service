@@ -1,0 +1,14 @@
+[Unit]
+Description=Spotify listening history tracker (Rust daemon)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/Documents/Coding-Projects/Rust/spotify-tracker
+ExecStart=%h/Documents/Coding-Projects/Rust/spotify-tracker/target/release/spotify-tracker daemon
+Restart=on-failure
+RestartSec=30
+
+[Install]
+WantedBy=default.target

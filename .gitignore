@@ -1,0 +1,7 @@
+target/
+.env
+*.db
+*.db-wal
+*.db-shm
+.spotify_token.json
+*.log

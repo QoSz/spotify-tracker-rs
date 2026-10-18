@@ -1,6 +1,41 @@
 {
-    "total_plays": 6751,
+    "total_plays": 6755,
     "tracks": [
+        {
+            "song_name": "Love Me The Same",
+            "artists": [
+                "Astrality",
+                "Krysta Youngs"
+            ],
+            "album": "Love Me The Same",
+            "played_at": "18/10/2026 - 13:10:33"
+        },
+        {
+            "song_name": "Drive All Night",
+            "artists": [
+                "Leo Stannard",
+                "Banyan"
+            ],
+            "album": "Drive All Night",
+            "played_at": "18/10/2026 - 13:06:56"
+        },
+        {
+            "song_name": "Be Your Friend",
+            "artists": [
+                "XYSM",
+                "EDGR"
+            ],
+            "album": "Be Your Friend",
+            "played_at": "18/10/2026 - 13:02:34"
+        },
+        {
+            "song_name": "Walk Through Fire",
+            "artists": [
+                "PLVTO"
+            ],
+            "album": "Walk Through Fire",
+            "played_at": "18/10/2026 - 12:59:57"
+        },
         {
             "song_name": "Shade In The Summer",
             "artists": [
@@ -1719,41 +1754,6 @@
             ],
             "album": "Only Me & U",
             "played_at": "14/07/2026 - 08:22:50"
-        },
-        {
-            "song_name": "Drown",
-            "artists": [
-                "FAVE",
-                "255"
-            ],
-            "album": "RnBling",
-            "played_at": "14/07/2026 - 08:19:50"
-        },
-        {
-            "song_name": "See You Again",
-            "artists": [
-                "RUSSI",
-                "Oceanside"
-            ],
-            "album": "See You Again",
-            "played_at": "14/07/2026 - 08:16:42"
-        },
-        {
-            "song_name": "Hey mama",
-            "artists": [
-                "HAMEX"
-            ],
-            "album": "Hey mama",
-            "played_at": "14/07/2026 - 08:13:32"
-        },
-        {
-            "song_name": "KANTE (feat. Fave)",
-            "artists": [
-                "Davido",
-                "FAVE"
-            ],
-            "album": "Timeless",
-            "played_at": "14/07/2026 - 08:10:04"
         }
     ]
 }

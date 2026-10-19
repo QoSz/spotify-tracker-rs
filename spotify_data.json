@@ -1,6 +1,73 @@
 {
-    "total_plays": 6798,
+    "total_plays": 6807,
     "tracks": [
+        {
+            "song_name": "I Could Call You",
+            "artists": [
+                "MYND"
+            ],
+            "album": "I Could Call You",
+            "played_at": "19/10/2026 - 18:30:19"
+        },
+        {
+            "song_name": "Sad People",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon III: The Chosen",
+            "played_at": "19/10/2026 - 18:28:13"
+        },
+        {
+            "song_name": "Hold Out",
+            "artists": [
+                "Lithe",
+                "FRVRFRIDAY"
+            ],
+            "album": "Hold Out",
+            "played_at": "19/10/2026 - 18:25:24"
+        },
+        {
+            "song_name": "Saviour",
+            "artists": [
+                "Palm Skies",
+                "Jamie McCool"
+            ],
+            "album": "Saviour",
+            "played_at": "19/10/2026 - 18:23:29"
+        },
+        {
+            "song_name": "Broken Glass",
+            "artists": [
+                "Walk on Water"
+            ],
+            "album": "Broken Glass",
+            "played_at": "19/10/2026 - 18:21:33"
+        },
+        {
+            "song_name": "Santa Fe",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "Santa Fe",
+            "played_at": "19/10/2026 - 18:18:59"
+        },
+        {
+            "song_name": "Lies",
+            "artists": [
+                "Lenji"
+            ],
+            "album": "Lies",
+            "played_at": "19/10/2026 - 18:16:24"
+        },
+        {
+            "song_name": "You Don't Love Yourself",
+            "artists": [
+                "Tobiahs",
+                "OVI WOOD"
+            ],
+            "album": "TO YOU, BY US (VOL. 1)",
+            "played_at": "19/10/2026 - 18:14:21"
+        },
         {
             "song_name": "so lonely",
             "artists": [
@@ -16,6 +83,15 @@
             ],
             "album": "PAY AS YOU GO",
             "played_at": "19/10/2026 - 14:26:32"
+        },
+        {
+            "song_name": "You Don't Love Yourself",
+            "artists": [
+                "Tobiahs",
+                "OVI WOOD"
+            ],
+            "album": "TO YOU, BY US (VOL. 1)",
+            "played_at": "19/10/2026 - 11:53:29"
         },
         {
             "song_name": "WIDE AWAKE",
@@ -1669,82 +1745,6 @@
             ],
             "album": "Infinite Love",
             "played_at": "16/07/2026 - 09:11:57"
-        },
-        {
-            "song_name": "Inside Out",
-            "artists": [
-                "Astrality",
-                "Tailor"
-            ],
-            "album": "Inside Out",
-            "played_at": "16/07/2026 - 09:08:57"
-        },
-        {
-            "song_name": "Stay",
-            "artists": [
-                "Julien Fade"
-            ],
-            "album": "Stay",
-            "played_at": "16/07/2026 - 09:04:57"
-        },
-        {
-            "song_name": "Dreamin",
-            "artists": [
-                "London Topaz",
-                "ANYLIA"
-            ],
-            "album": "Dreamin",
-            "played_at": "16/07/2026 - 09:01:20"
-        },
-        {
-            "song_name": "Glow",
-            "artists": [
-                "MA:RK"
-            ],
-            "album": "Glow",
-            "played_at": "16/07/2026 - 08:57:52"
-        },
-        {
-            "song_name": "Tell Me",
-            "artists": [
-                "Falden",
-                "Fare"
-            ],
-            "album": "Tell Me",
-            "played_at": "16/07/2026 - 08:55:12"
-        },
-        {
-            "song_name": "Heartbeat",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "16/07/2026 - 08:51:35"
-        },
-        {
-            "song_name": "I Choose You (Night)",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "I Choose You",
-            "played_at": "16/07/2026 - 08:49:07"
-        },
-        {
-            "song_name": "I Choose You (Night)",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "I Choose You",
-            "played_at": "15/07/2026 - 17:30:50"
-        },
-        {
-            "song_name": "Sense of Time",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Sense of Time",
-            "played_at": "15/07/2026 - 17:06:58"
         }
     ]
 }

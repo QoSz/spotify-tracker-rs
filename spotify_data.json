@@ -1,6 +1,14 @@
 {
-    "total_plays": 6807,
+    "total_plays": 6808,
     "tracks": [
+        {
+            "song_name": "Jaded",
+            "artists": [
+                "Re:um"
+            ],
+            "album": "Jaded",
+            "played_at": "19/10/2026 - 18:44:26"
+        },
         {
             "song_name": "I Could Call You",
             "artists": [
@@ -1737,14 +1745,6 @@
             ],
             "album": "What I Need",
             "played_at": "16/07/2026 - 09:16:01"
-        },
-        {
-            "song_name": "Infinite Love",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Infinite Love",
-            "played_at": "16/07/2026 - 09:11:57"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
-    "total_plays": 6755,
+    "total_plays": 6756,
     "tracks": [
+        {
+            "song_name": "Refuse You",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Refuse You",
+            "played_at": "18/10/2026 - 13:52:57"
+        },
         {
             "song_name": "Love Me The Same",
             "artists": [
@@ -1746,14 +1754,6 @@
             ],
             "album": "Onaya",
             "played_at": "14/07/2026 - 08:24:48"
-        },
-        {
-            "song_name": "Only Me & U",
-            "artists": [
-                "R.A.Y.A"
-            ],
-            "album": "Only Me & U",
-            "played_at": "14/07/2026 - 08:22:50"
         }
     ]
 }

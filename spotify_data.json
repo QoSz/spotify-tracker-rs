@@ -1,6 +1,57 @@
 {
-    "total_plays": 6790,
+    "total_plays": 6796,
     "tracks": [
+        {
+            "song_name": "WIDE AWAKE",
+            "artists": [
+                "me n ü",
+                "Sandro Cavazza"
+            ],
+            "album": "WIDE AWAKE",
+            "played_at": "19/10/2026 - 11:21:36"
+        },
+        {
+            "song_name": "Do You Even Know",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Running",
+            "played_at": "19/10/2026 - 11:18:36"
+        },
+        {
+            "song_name": "Slow Dive",
+            "artists": [
+                "feva.",
+                "Kanslor"
+            ],
+            "album": "Slow Dive",
+            "played_at": "19/10/2026 - 11:15:10"
+        },
+        {
+            "song_name": "Ripple",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality",
+            "played_at": "19/10/2026 - 11:11:19"
+        },
+        {
+            "song_name": "Golden Ticket (runaway)",
+            "artists": [
+                "joki"
+            ],
+            "album": "Golden Ticket (runaway)",
+            "played_at": "19/10/2026 - 11:08:45"
+        },
+        {
+            "song_name": "Lost in You",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Lost in You",
+            "played_at": "19/10/2026 - 11:05:41"
+        },
         {
             "song_name": "so lonely",
             "artists": [
@@ -1694,57 +1745,6 @@
             ],
             "album": "Too Tense",
             "played_at": "15/07/2026 - 17:02:01"
-        },
-        {
-            "song_name": "Confess",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Longer Days",
-            "played_at": "15/07/2026 - 16:59:56"
-        },
-        {
-            "song_name": "Jump",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Jump",
-            "played_at": "15/07/2026 - 16:57:05"
-        },
-        {
-            "song_name": "promises",
-            "artists": [
-                "abelon"
-            ],
-            "album": "promises",
-            "played_at": "15/07/2026 - 16:52:20"
-        },
-        {
-            "song_name": "Fix Me",
-            "artists": [
-                "CAKES",
-                "Sam Harper"
-            ],
-            "album": "Fix Me",
-            "played_at": "15/07/2026 - 16:45:37"
-        },
-        {
-            "song_name": "eyes open",
-            "artists": [
-                "kalm",
-                "Aiko"
-            ],
-            "album": "cloud chaser",
-            "played_at": "15/07/2026 - 16:42:37"
-        },
-        {
-            "song_name": "Midnight Zone",
-            "artists": [
-                "Astrality",
-                "TAPE ANGEL"
-            ],
-            "album": "Midnight Zone",
-            "played_at": "15/07/2026 - 16:33:54"
         }
     ]
 }

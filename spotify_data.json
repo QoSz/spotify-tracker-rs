@@ -1,6 +1,289 @@
 {
-    "total_plays": 6756,
+    "total_plays": 6790,
     "tracks": [
+        {
+            "song_name": "so lonely",
+            "artists": [
+                "offrails"
+            ],
+            "album": "so lonely",
+            "played_at": "19/10/2026 - 10:55:54"
+        },
+        {
+            "song_name": "PAY AS YOU GO",
+            "artists": [
+                "Ruby Waters"
+            ],
+            "album": "PAY AS YOU GO",
+            "played_at": "19/10/2026 - 10:53:20"
+        },
+        {
+            "song_name": "Love U",
+            "artists": [
+                "NORRA"
+            ],
+            "album": "Love U",
+            "played_at": "19/10/2026 - 10:50:08"
+        },
+        {
+            "song_name": "Do It All Again",
+            "artists": [
+                "heylucas",
+                "HNE"
+            ],
+            "album": "hey",
+            "played_at": "19/10/2026 - 10:47:26"
+        },
+        {
+            "song_name": "NOMI",
+            "artists": [
+                "UPHORA",
+                "Olivion"
+            ],
+            "album": "NOMI",
+            "played_at": "19/10/2026 - 10:44:14"
+        },
+        {
+            "song_name": "Where The Colors Don't End",
+            "artists": [
+                "Luis Coren",
+                "Why U So"
+            ],
+            "album": "Where The Colors Don't End",
+            "played_at": "19/10/2026 - 10:42:02"
+        },
+        {
+            "song_name": "Refuse You",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Refuse You",
+            "played_at": "19/10/2026 - 10:39:16"
+        },
+        {
+            "song_name": "7am On Bridle Path",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "19/10/2026 - 10:37:51"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "19/10/2026 - 10:29:31"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "19/10/2026 - 10:21:41"
+        },
+        {
+            "song_name": "Raindance (feat. Tems)",
+            "artists": [
+                "Dave",
+                "Tems"
+            ],
+            "album": "The Boy Who Played the Harp",
+            "played_at": "19/10/2026 - 10:08:47"
+        },
+        {
+            "song_name": "Hey",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "19/10/2026 - 10:04:53"
+        },
+        {
+            "song_name": "Shards",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Your Eyes",
+            "played_at": "19/10/2026 - 10:03:12"
+        },
+        {
+            "song_name": "We Run",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "We Run",
+            "played_at": "19/10/2026 - 10:01:19"
+        },
+        {
+            "song_name": "What You Saying",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "What You Saying",
+            "played_at": "19/10/2026 - 09:58:43"
+        },
+        {
+            "song_name": "Slide",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Slide",
+            "played_at": "19/10/2026 - 09:56:38"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "19/10/2026 - 09:53:51"
+        },
+        {
+            "song_name": "Two Things",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "19/10/2026 - 09:51:18"
+        },
+        {
+            "song_name": "Push It",
+            "artists": [
+                "MIND"
+            ],
+            "album": "First Contact",
+            "played_at": "19/10/2026 - 09:49:20"
+        },
+        {
+            "song_name": "Running",
+            "artists": [
+                "Calu",
+                "Asphodelle"
+            ],
+            "album": "Running",
+            "played_at": "19/10/2026 - 09:46:54"
+        },
+        {
+            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+            "artists": [
+                "A$AP Rocky",
+                "Brent Faiyaz"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "19/10/2026 - 09:44:24"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "19/10/2026 - 09:31:03"
+        },
+        {
+            "song_name": "AIN'T SHIT FREE",
+            "artists": [
+                "Matt Corman"
+            ],
+            "album": "AIN'T SHIT FREE",
+            "played_at": "19/10/2026 - 09:27:01"
+        },
+        {
+            "song_name": "Give In",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "19/10/2026 - 09:24:54"
+        },
+        {
+            "song_name": "B's On The Table (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "ICEMAN",
+            "played_at": "19/10/2026 - 09:21:41"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "PRODIGY",
+            "played_at": "19/10/2026 - 09:19:31"
+        },
+        {
+            "song_name": "Are You Real?",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "19/10/2026 - 09:17:34"
+        },
+        {
+            "song_name": "Take Me (To The Moon)",
+            "artists": [
+                "Ian Asher",
+                "D A N N Y"
+            ],
+            "album": "Take Me (To The Moon)",
+            "played_at": "19/10/2026 - 09:14:21"
+        },
+        {
+            "song_name": "TSU",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "19/10/2026 - 09:11:49"
+        },
+        {
+            "song_name": "RUNNING",
+            "artists": [
+                "ASK YOUR FRIENDS"
+            ],
+            "album": "SINCE '06",
+            "played_at": "19/10/2026 - 09:06:48"
+        },
+        {
+            "song_name": "SideLine Watching (Hold Up)",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "The Perfect LUV Tape",
+            "played_at": "19/10/2026 - 09:04:31"
+        },
+        {
+            "song_name": "De Ja With A View",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Evening Demos",
+            "played_at": "19/10/2026 - 09:01:27"
+        },
+        {
+            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
+            "artists": [
+                "ONEFOUR",
+                "Nemzzz",
+                "Segway"
+            ],
+            "album": "Look At Me Now",
+            "played_at": "19/10/2026 - 08:59:25"
+        },
+        {
+            "song_name": "Snow on The Bluff",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Carefree, very",
+            "played_at": "19/10/2026 - 08:56:50"
+        },
         {
             "song_name": "Refuse You",
             "artists": [
@@ -1462,298 +1745,6 @@
             ],
             "album": "Midnight Zone",
             "played_at": "15/07/2026 - 16:33:54"
-        },
-        {
-            "song_name": "Midnight Zone",
-            "artists": [
-                "Astrality",
-                "TAPE ANGEL"
-            ],
-            "album": "Midnight Zone",
-            "played_at": "15/07/2026 - 13:14:16"
-        },
-        {
-            "song_name": "Midnight Zone",
-            "artists": [
-                "Astrality",
-                "TAPE ANGEL"
-            ],
-            "album": "Midnight Zone",
-            "played_at": "15/07/2026 - 09:53:04"
-        },
-        {
-            "song_name": "Tether",
-            "artists": [
-                "Franklin"
-            ],
-            "album": "Tether",
-            "played_at": "15/07/2026 - 09:21:10"
-        },
-        {
-            "song_name": "Heaven",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Heaven",
-            "played_at": "15/07/2026 - 09:18:02"
-        },
-        {
-            "song_name": "Someone to Hold",
-            "artists": [
-                "Nu Aspect",
-                "Tudor"
-            ],
-            "album": "Someone to Hold",
-            "played_at": "15/07/2026 - 09:15:34"
-        },
-        {
-            "song_name": "Silver Lines",
-            "artists": [
-                "Astrality",
-                "Daydream Affiliate"
-            ],
-            "album": "Silver Lines",
-            "played_at": "15/07/2026 - 09:11:50"
-        },
-        {
-            "song_name": "Mess Around (Baby Baby)",
-            "artists": [
-                "Rivo",
-                "Jaquet"
-            ],
-            "album": "Mess Around (Baby Baby)",
-            "played_at": "15/07/2026 - 09:08:12"
-        },
-        {
-            "song_name": "Ghost in My Stereo",
-            "artists": [
-                "MIND",
-                "Sam Welch"
-            ],
-            "album": "Ghost in My Stereo",
-            "played_at": "15/07/2026 - 09:04:27"
-        },
-        {
-            "song_name": "What If You Fly",
-            "artists": [
-                "Oliver River"
-            ],
-            "album": "What If You Fly",
-            "played_at": "15/07/2026 - 09:02:27"
-        },
-        {
-            "song_name": "Haunted By You",
-            "artists": [
-                "Kisaya"
-            ],
-            "album": "Haunted By You",
-            "played_at": "15/07/2026 - 08:59:35"
-        },
-        {
-            "song_name": "Movin' To The Sun",
-            "artists": [
-                "HUGEL",
-                "Imael Angel",
-                "Ultra Naté"
-            ],
-            "album": "Twenty One",
-            "played_at": "15/07/2026 - 08:56:06"
-        },
-        {
-            "song_name": "Playback",
-            "artists": [
-                "Daydream Affiliate"
-            ],
-            "album": "Clocks",
-            "played_at": "15/07/2026 - 08:53:44"
-        },
-        {
-            "song_name": "Release Me",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "feel",
-            "played_at": "15/07/2026 - 08:51:23"
-        },
-        {
-            "song_name": "can i come",
-            "artists": [
-                "kalm"
-            ],
-            "album": "cloud chaser",
-            "played_at": "15/07/2026 - 08:48:18"
-        },
-        {
-            "song_name": "underneath",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "underneath",
-            "played_at": "15/07/2026 - 08:45:57"
-        },
-        {
-            "song_name": "Still Feel You",
-            "artists": [
-                "Why U So"
-            ],
-            "album": "Still Feel You",
-            "played_at": "15/07/2026 - 08:43:43"
-        },
-        {
-            "song_name": "Cherry Blossom",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Cherry Blossom",
-            "played_at": "15/07/2026 - 08:40:43"
-        },
-        {
-            "song_name": "Times Are Changing",
-            "artists": [
-                "Astrality",
-                "Thandi"
-            ],
-            "album": "Times Are Changing",
-            "played_at": "15/07/2026 - 08:38:11"
-        },
-        {
-            "song_name": "Lucid Dreams",
-            "artists": [
-                "Jyye",
-                "Julia Temos"
-            ],
-            "album": "Lucid Dreams",
-            "played_at": "15/07/2026 - 08:35:32"
-        },
-        {
-            "song_name": "If You Had My Love",
-            "artists": [
-                "Paul Schulze",
-                "FŪNKENSTEIN",
-                "LEVII"
-            ],
-            "album": "If You Had My Love",
-            "played_at": "15/07/2026 - 08:32:38"
-        },
-        {
-            "song_name": "Give In",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "15/07/2026 - 08:30:13"
-        },
-        {
-            "song_name": "Reasons",
-            "artists": [
-                "London Topaz",
-                "Clearest"
-            ],
-            "album": "Reasons",
-            "played_at": "15/07/2026 - 08:26:53"
-        },
-        {
-            "song_name": "This Time",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "15/07/2026 - 08:23:16"
-        },
-        {
-            "song_name": "Reason",
-            "artists": [
-                "Nu Aspect"
-            ],
-            "album": "Reason",
-            "played_at": "15/07/2026 - 08:19:42"
-        },
-        {
-            "song_name": "Flipping Burgers",
-            "artists": [
-                "GTO",
-                "Odd Lui"
-            ],
-            "album": "Flipping Burgers",
-            "played_at": "14/07/2026 - 10:07:13"
-        },
-        {
-            "song_name": "Samaya",
-            "artists": [
-                "Space Afro",
-                "Trippynova"
-            ],
-            "album": "Samaya",
-            "played_at": "14/07/2026 - 09:27:11"
-        },
-        {
-            "song_name": "Oya Nami",
-            "artists": [
-                "Ema Feud"
-            ],
-            "album": "Oya Nami",
-            "played_at": "14/07/2026 - 09:25:12"
-        },
-        {
-            "song_name": "Dey Go",
-            "artists": [
-                "The Ironix",
-                "1da Banton",
-                "ATG Musick"
-            ],
-            "album": "Dey Go",
-            "played_at": "14/07/2026 - 09:21:57"
-        },
-        {
-            "song_name": "SOMEONE LIKE YOU",
-            "artists": [
-                "Palm Monkey"
-            ],
-            "album": "ON MY MIND",
-            "played_at": "14/07/2026 - 09:18:15"
-        },
-        {
-            "song_name": "siente el sol",
-            "artists": [
-                "hasso.wav",
-                "MEXI"
-            ],
-            "album": "siente el sol",
-            "played_at": "14/07/2026 - 09:16:02"
-        },
-        {
-            "song_name": "MAKELE",
-            "artists": [
-                "Garnic"
-            ],
-            "album": "MAKELE",
-            "played_at": "14/07/2026 - 09:13:18"
-        },
-        {
-            "song_name": "Damages",
-            "artists": [
-                "Tems"
-            ],
-            "album": "For Broken Ears",
-            "played_at": "14/07/2026 - 09:10:54"
-        },
-        {
-            "song_name": "Damages",
-            "artists": [
-                "Tems"
-            ],
-            "album": "For Broken Ears",
-            "played_at": "14/07/2026 - 09:00:26"
-        },
-        {
-            "song_name": "Onaya",
-            "artists": [
-                "ZERØ PHASE",
-                "Dos Rios",
-                "Serghmarie"
-            ],
-            "album": "Onaya",
-            "played_at": "14/07/2026 - 08:24:48"
         }
     ]
 }

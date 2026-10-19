@@ -1,6 +1,99 @@
 {
-    "total_plays": 6817,
+    "total_plays": 6828,
     "tracks": [
+        {
+            "song_name": "Candlelight",
+            "artists": [
+                "XYSM",
+                "Joywalk"
+            ],
+            "album": "Candlelight",
+            "played_at": "19/10/2026 - 21:24:57"
+        },
+        {
+            "song_name": "best part",
+            "artists": [
+                "mike."
+            ],
+            "album": "best part",
+            "played_at": "19/10/2026 - 21:21:41"
+        },
+        {
+            "song_name": "Bis Der Himmel Leiser Wird",
+            "artists": [
+                "NOVEMBER KID",
+                "Anna Grey"
+            ],
+            "album": "Bis Der Himmel Leiser Wird",
+            "played_at": "19/10/2026 - 21:19:10"
+        },
+        {
+            "song_name": "can i come",
+            "artists": [
+                "kalm"
+            ],
+            "album": "cloud chaser",
+            "played_at": "19/10/2026 - 21:16:58"
+        },
+        {
+            "song_name": "Closer",
+            "artists": [
+                "Last Sun"
+            ],
+            "album": "Closer",
+            "played_at": "19/10/2026 - 21:14:44"
+        },
+        {
+            "song_name": "Caught in a Dream",
+            "artists": [
+                "PALASTIC",
+                "LissA"
+            ],
+            "album": "Caught in a Dream",
+            "played_at": "19/10/2026 - 21:11:49"
+        },
+        {
+            "song_name": "Run Away",
+            "artists": [
+                "Planetopia"
+            ],
+            "album": "Run Away",
+            "played_at": "19/10/2026 - 21:09:10"
+        },
+        {
+            "song_name": "So Hard To Find",
+            "artists": [
+                "Alex Keeper",
+                "MSCH"
+            ],
+            "album": "So Hard To Find",
+            "played_at": "19/10/2026 - 21:06:50"
+        },
+        {
+            "song_name": "Wanna Be Somewhere With You",
+            "artists": [
+                "Rules"
+            ],
+            "album": "Wanna Be Somewhere With You",
+            "played_at": "19/10/2026 - 21:04:11"
+        },
+        {
+            "song_name": "Solar Eclipse (feat. Don Toliver)",
+            "artists": [
+                "Drake",
+                "Don Toliver"
+            ],
+            "album": "HABIBTI (FOMO)",
+            "played_at": "19/10/2026 - 21:00:37"
+        },
+        {
+            "song_name": "My Pocket",
+            "artists": [
+                "Alex Keeper"
+            ],
+            "album": "My Pocket",
+            "played_at": "19/10/2026 - 20:57:06"
+        },
         {
             "song_name": "Tendencies",
             "artists": [
@@ -1653,98 +1746,6 @@
             ],
             "album": "MAKELE",
             "played_at": "16/07/2026 - 14:47:23"
-        },
-        {
-            "song_name": "say it plain",
-            "artists": [
-                "i.am.u."
-            ],
-            "album": "over time",
-            "played_at": "16/07/2026 - 14:34:37"
-        },
-        {
-            "song_name": "Bloom",
-            "artists": [
-                "Astrality",
-                "FLORES"
-            ],
-            "album": "Bloom",
-            "played_at": "16/07/2026 - 14:32:10"
-        },
-        {
-            "song_name": "Running",
-            "artists": [
-                "Calu",
-                "Asphodelle"
-            ],
-            "album": "Running",
-            "played_at": "16/07/2026 - 14:02:47"
-        },
-        {
-            "song_name": "Games",
-            "artists": [
-                "Reiny",
-                "EZIA"
-            ],
-            "album": "Games",
-            "played_at": "16/07/2026 - 14:00:09"
-        },
-        {
-            "song_name": "Into You",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Longer Days",
-            "played_at": "16/07/2026 - 13:56:49"
-        },
-        {
-            "song_name": "Yo No Lo Sé",
-            "artists": [
-                "ERIICE"
-            ],
-            "album": "Yo No Lo Sé",
-            "played_at": "16/07/2026 - 13:53:34"
-        },
-        {
-            "song_name": "Weaker",
-            "artists": [
-                "Nathan C",
-                "RYVM"
-            ],
-            "album": "Weaker",
-            "played_at": "16/07/2026 - 13:47:54"
-        },
-        {
-            "song_name": "in my arms",
-            "artists": [
-                "abelon"
-            ],
-            "album": "in my arms",
-            "played_at": "16/07/2026 - 13:45:00"
-        },
-        {
-            "song_name": "wild rides",
-            "artists": [
-                "daylight"
-            ],
-            "album": "wild rides",
-            "played_at": "16/07/2026 - 13:35:44"
-        },
-        {
-            "song_name": "sweet love",
-            "artists": [
-                "origins"
-            ],
-            "album": "sweet love",
-            "played_at": "16/07/2026 - 13:32:59"
-        },
-        {
-            "song_name": "sweet love",
-            "artists": [
-                "origins"
-            ],
-            "album": "sweet love",
-            "played_at": "16/07/2026 - 13:29:54"
         }
     ]
 }

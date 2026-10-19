@@ -1,6 +1,14 @@
 {
-    "total_plays": 6837,
+    "total_plays": 6838,
     "tracks": [
+        {
+            "song_name": "Refuse You",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Refuse You",
+            "played_at": "19/10/2026 - 21:58:16"
+        },
         {
             "song_name": "Keep It Simple",
             "artists": [
@@ -1742,14 +1750,6 @@
             ],
             "album": "Not About Love",
             "played_at": "16/07/2026 - 18:11:20"
-        },
-        {
-            "song_name": "Your Body",
-            "artists": [
-                "Marten Lou"
-            ],
-            "album": "Your Body",
-            "played_at": "16/07/2026 - 18:07:55"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
-    "total_plays": 6796,
+    "total_plays": 6798,
     "tracks": [
+        {
+            "song_name": "so lonely",
+            "artists": [
+                "offrails"
+            ],
+            "album": "so lonely",
+            "played_at": "19/10/2026 - 14:29:06"
+        },
+        {
+            "song_name": "PAY AS YOU GO",
+            "artists": [
+                "Ruby Waters"
+            ],
+            "album": "PAY AS YOU GO",
+            "played_at": "19/10/2026 - 14:26:32"
+        },
         {
             "song_name": "WIDE AWAKE",
             "artists": [
@@ -1729,22 +1745,6 @@
             ],
             "album": "Sense of Time",
             "played_at": "15/07/2026 - 17:06:58"
-        },
-        {
-            "song_name": "Need You",
-            "artists": [
-                "Crunkz"
-            ],
-            "album": "Need You",
-            "played_at": "15/07/2026 - 17:04:18"
-        },
-        {
-            "song_name": "Too Tense",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "Too Tense",
-            "played_at": "15/07/2026 - 17:02:01"
         }
     ]
 }

@@ -1,6 +1,42 @@
 {
-    "total_plays": 6838,
+    "total_plays": 6842,
     "tracks": [
+        {
+            "song_name": "expectations (feat. Chappell Roan)",
+            "artists": [
+                "Olivia Rodrigo",
+                "Chappell Roan"
+            ],
+            "album": "expectations (feat. Chappell Roan)",
+            "played_at": "20/10/2026 - 07:20:25"
+        },
+        {
+            "song_name": "When Did You Get Hot?",
+            "artists": [
+                "Sabrina Carpenter"
+            ],
+            "album": "Man’s Best Friend",
+            "played_at": "20/10/2026 - 07:16:48"
+        },
+        {
+            "song_name": "Save My Love",
+            "artists": [
+                "Kygo",
+                "Khalid",
+                "Gryffin"
+            ],
+            "album": "Save My Love",
+            "played_at": "20/10/2026 - 07:14:30"
+        },
+        {
+            "song_name": "Where The Colors Don't End",
+            "artists": [
+                "Luis Coren",
+                "Why U So"
+            ],
+            "album": "Where The Colors Don't End",
+            "played_at": "19/10/2026 - 22:10:03"
+        },
         {
             "song_name": "Refuse You",
             "artists": [
@@ -1718,38 +1754,6 @@
             ],
             "album": "SeeMeNow?",
             "played_at": "16/07/2026 - 18:25:42"
-        },
-        {
-            "song_name": "My All",
-            "artists": [
-                "Pascal Junior"
-            ],
-            "album": "My All",
-            "played_at": "16/07/2026 - 18:20:27"
-        },
-        {
-            "song_name": "You Got Me Singin' Like (Ayoo)",
-            "artists": [
-                "Subsurface"
-            ],
-            "album": "You Got Me Singin' Like (Ayoo)",
-            "played_at": "16/07/2026 - 18:16:26"
-        },
-        {
-            "song_name": "echoes",
-            "artists": [
-                "KAYRO"
-            ],
-            "album": "think of me",
-            "played_at": "16/07/2026 - 18:14:15"
-        },
-        {
-            "song_name": "Not About Love",
-            "artists": [
-                "Ben Dooks"
-            ],
-            "album": "Not About Love",
-            "played_at": "16/07/2026 - 18:11:20"
         }
     ]
 }

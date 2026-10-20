@@ -1,6 +1,30 @@
 {
-    "total_plays": 6851,
+    "total_plays": 6854,
     "tracks": [
+        {
+            "song_name": "Man I Need",
+            "artists": [
+                "Olivia Dean"
+            ],
+            "album": "Man I Need",
+            "played_at": "20/10/2026 - 18:59:11"
+        },
+        {
+            "song_name": "SPEED DEMON",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "album": "SWAG II",
+            "played_at": "20/10/2026 - 18:56:14"
+        },
+        {
+            "song_name": "Die On This Hill",
+            "artists": [
+                "SIENNA SPIRO"
+            ],
+            "album": "Die On This Hill",
+            "played_at": "20/10/2026 - 18:52:49"
+        },
         {
             "song_name": "Glide",
             "artists": [
@@ -1734,30 +1758,6 @@
             ],
             "album": "I Met You",
             "played_at": "17/07/2026 - 09:17:33"
-        },
-        {
-            "song_name": "Pull Me In",
-            "artists": [
-                "Medo"
-            ],
-            "album": "Pull Me In",
-            "played_at": "17/07/2026 - 08:15:29"
-        },
-        {
-            "song_name": "We Can Go",
-            "artists": [
-                "Malia"
-            ],
-            "album": "We Can Go",
-            "played_at": "17/07/2026 - 08:13:07"
-        },
-        {
-            "song_name": "Afraid of Love",
-            "artists": [
-                "TRFN"
-            ],
-            "album": "Afraid of Love",
-            "played_at": "17/07/2026 - 08:10:32"
         }
     ]
 }

@@ -1,6 +1,64 @@
 {
-    "total_plays": 6844,
+    "total_plays": 6851,
     "tracks": [
+        {
+            "song_name": "Glide",
+            "artists": [
+                "NEIKED",
+                "Portugal. The Man"
+            ],
+            "album": "Glide",
+            "played_at": "20/10/2026 - 17:38:50"
+        },
+        {
+            "song_name": "Up at Night",
+            "artists": [
+                "Montazona"
+            ],
+            "album": "Butterfly",
+            "played_at": "20/10/2026 - 17:36:09"
+        },
+        {
+            "song_name": "Beachtown",
+            "artists": [
+                "Mo Lowda & the Humble"
+            ],
+            "album": "Mo Lowda & the Humble",
+            "played_at": "20/10/2026 - 17:32:12"
+        },
+        {
+            "song_name": "What I Want (feat. Tate McRae)",
+            "artists": [
+                "Morgan Wallen",
+                "Tate McRae"
+            ],
+            "album": "I’m The Problem",
+            "played_at": "20/10/2026 - 17:31:14"
+        },
+        {
+            "song_name": "Fickle",
+            "artists": [
+                "Newport"
+            ],
+            "album": "Fickle",
+            "played_at": "20/10/2026 - 17:28:24"
+        },
+        {
+            "song_name": "Fickle",
+            "artists": [
+                "Newport"
+            ],
+            "album": "Fickle",
+            "played_at": "20/10/2026 - 16:35:23"
+        },
+        {
+            "song_name": "lacuna",
+            "artists": [
+                "Tim Buds"
+            ],
+            "album": "lacuna",
+            "played_at": "20/10/2026 - 16:22:52"
+        },
         {
             "song_name": "What I Want (feat. Tate McRae)",
             "artists": [
@@ -1700,62 +1758,6 @@
             ],
             "album": "Afraid of Love",
             "played_at": "17/07/2026 - 08:10:32"
-        },
-        {
-            "song_name": "Potential",
-            "artists": [
-                "TRFN"
-            ],
-            "album": "Potential",
-            "played_at": "17/07/2026 - 08:07:22"
-        },
-        {
-            "song_name": "Potential",
-            "artists": [
-                "TRFN"
-            ],
-            "album": "Potential",
-            "played_at": "16/07/2026 - 18:51:05"
-        },
-        {
-            "song_name": "MY MIND",
-            "artists": [
-                "COSMOS JONES"
-            ],
-            "album": "MY MIND",
-            "played_at": "16/07/2026 - 18:41:05"
-        },
-        {
-            "song_name": "IS THIS LOVE?",
-            "artists": [
-                "Palm Monkey"
-            ],
-            "album": "IS THIS LOVE?",
-            "played_at": "16/07/2026 - 18:38:25"
-        },
-        {
-            "song_name": "It's Over Now",
-            "artists": [
-                "NM"
-            ],
-            "album": "It's Over Now",
-            "played_at": "16/07/2026 - 18:35:35"
-        },
-        {
-            "song_name": "THAT HEALING",
-            "artists": [
-                "Naarly"
-            ],
-            "album": "THAT HEALING",
-            "played_at": "16/07/2026 - 18:32:52"
-        },
-        {
-            "song_name": "can't live without you",
-            "artists": [
-                "zone"
-            ],
-            "album": "can't live without you",
-            "played_at": "16/07/2026 - 18:30:39"
         }
     ]
 }

@@ -41,7 +41,7 @@ journalctl --user -u spotify-tracker -f
 <!-- STATS:START -->
 ## Lifetime Stats
 
-**6,842** songs listened to
+**6,843** songs listened to
 
 - **1461** unique artists
 - **1522** unique albums
@@ -54,7 +54,7 @@ journalctl --user -u spotify-tracker -f
 2. MIND (273 plays)
 3. Nu Aspect (214 plays)
 4. Small Town Kid (199 plays)
-5. Astrality (196 plays)
+5. Astrality (197 plays)
 
 ## Listening Streak
 
@@ -67,7 +67,7 @@ journalctl --user -u spotify-tracker -f
 
 ## Listening Time
 
-- **6.8** hours listened (141 plays with known duration)
+- **6.9** hours listened (142 plays with known duration)
 - 6,701 older plays (imported from the legacy tracker) have no duration and are excluded
 
 ## This Year by Month
@@ -81,7 +81,7 @@ journalctl --user -u spotify-tracker -f
 | May | 588 | 0.0 |
 | June | 589 | 0.0 |
 | July | 508 | 0.0 |
-| October | 141 | 6.8 |
+| October | 142 | 6.9 |
 
 ---
 *Automatically updated by spotify-tracker (Rust)*

@@ -1,5 +1,5 @@
 {
-    "total_plays": 6842,
+    "total_plays": 6843,
     "tracks": [
         {
             "song_name": "expectations (feat. Chappell Roan)",
@@ -365,6 +365,15 @@
             ],
             "album": "TO YOU, BY US (VOL. 1)",
             "played_at": "19/10/2026 - 18:14:21"
+        },
+        {
+            "song_name": "Lost in You",
+            "artists": [
+                "Astrality",
+                "Thandi"
+            ],
+            "album": "Lost in You",
+            "played_at": "19/10/2026 - 14:41:08"
         },
         {
             "song_name": "so lonely",
@@ -1746,14 +1755,6 @@
             ],
             "album": "Favorite Place",
             "played_at": "16/07/2026 - 18:28:18"
-        },
-        {
-            "song_name": "SeeMeNow?",
-            "artists": [
-                "AnthP"
-            ],
-            "album": "SeeMeNow?",
-            "played_at": "16/07/2026 - 18:25:42"
         }
     ]
 }

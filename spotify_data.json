@@ -1,6 +1,15 @@
 {
-    "total_plays": 6843,
+    "total_plays": 6844,
     "tracks": [
+        {
+            "song_name": "What I Want (feat. Tate McRae)",
+            "artists": [
+                "Morgan Wallen",
+                "Tate McRae"
+            ],
+            "album": "I’m The Problem",
+            "played_at": "20/10/2026 - 08:17:41"
+        },
         {
             "song_name": "expectations (feat. Chappell Roan)",
             "artists": [
@@ -1747,14 +1756,6 @@
             ],
             "album": "can't live without you",
             "played_at": "16/07/2026 - 18:30:39"
-        },
-        {
-            "song_name": "Favorite Place",
-            "artists": [
-                "Ryan Reed"
-            ],
-            "album": "Favorite Place",
-            "played_at": "16/07/2026 - 18:28:18"
         }
     ]
 }

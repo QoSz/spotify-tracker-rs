@@ -1,6 +1,30 @@
 {
-    "total_plays": 6867,
+    "total_plays": 6870,
     "tracks": [
+        {
+            "song_name": "Spending Time",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Spending Time",
+            "played_at": "21/10/2026 - 17:11:17"
+        },
+        {
+            "song_name": "Home",
+            "artists": [
+                "Don Gianni"
+            ],
+            "album": "Home",
+            "played_at": "21/10/2026 - 17:08:30"
+        },
+        {
+            "song_name": "Feel This",
+            "artists": [
+                "DÏVÄG"
+            ],
+            "album": "Feel This",
+            "played_at": "21/10/2026 - 15:58:25"
+        },
         {
             "song_name": "Regret",
             "artists": [
@@ -1725,43 +1749,6 @@
             ],
             "album": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
             "played_at": "17/07/2026 - 18:13:14"
-        },
-        {
-            "song_name": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
-            "artists": [
-                "Shashwat Sachdev",
-                "Bombay Rockers",
-                "Irshad Kamil",
-                "Khan Saab",
-                "Reble",
-                "Token",
-                "Jasmine Sandlas",
-                "Sudhir Yaduvanshi"
-            ],
-            "album": "Dhurandhar The Revenge - Aari Aari (From \"Dhurandhar The Revenge\")",
-            "played_at": "17/07/2026 - 18:02:53"
-        },
-        {
-            "song_name": "Nashe Si Chadh Gayi",
-            "artists": [
-                "Vishal-Shekhar",
-                "Arijit Singh",
-                "Caralisa Monteiro",
-                "Jaideep Sahni"
-            ],
-            "album": "Befikre",
-            "played_at": "17/07/2026 - 17:59:22"
-        },
-        {
-            "song_name": "Desi Girl",
-            "artists": [
-                "Vishal-Shekhar",
-                "Shankar Mahadevan",
-                "Sunidhi Chauhan",
-                "Vishal Dadlani"
-            ],
-            "album": "Dostana (Original Motion Picture Soundtrack)",
-            "played_at": "17/07/2026 - 17:55:24"
         }
     ]
 }

@@ -1,6 +1,56 @@
 {
-    "total_plays": 6872,
+    "total_plays": 6878,
     "tracks": [
+        {
+            "song_name": "Bis Der Himmel Leiser Wird",
+            "artists": [
+                "NOVEMBER KID",
+                "Anna Grey"
+            ],
+            "album": "Bis Der Himmel Leiser Wird",
+            "played_at": "21/10/2026 - 20:09:07"
+        },
+        {
+            "song_name": "Go Around",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Running",
+            "played_at": "21/10/2026 - 20:06:55"
+        },
+        {
+            "song_name": "NOT ENOUGH",
+            "artists": [
+                "ASK YOUR FRIENDS"
+            ],
+            "album": "NOT ENOUGH",
+            "played_at": "21/10/2026 - 20:04:28"
+        },
+        {
+            "song_name": "Never Someone Like You",
+            "artists": [
+                "Why U So",
+                "Enginse"
+            ],
+            "album": "Never Someone Like You",
+            "played_at": "21/10/2026 - 20:01:29"
+        },
+        {
+            "song_name": "why you do that",
+            "artists": [
+                "yaen"
+            ],
+            "album": "why you do that",
+            "played_at": "21/10/2026 - 19:59:18"
+        },
+        {
+            "song_name": "why you do that",
+            "artists": [
+                "yaen"
+            ],
+            "album": "why you do that",
+            "played_at": "21/10/2026 - 17:50:39"
+        },
         {
             "song_name": "You're a Light",
             "artists": [
@@ -1680,71 +1730,6 @@
             ],
             "album": "Dhurandhar",
             "played_at": "17/07/2026 - 18:45:40"
-        },
-        {
-            "song_name": "Bom Diggy Diggy",
-            "artists": [
-                "Zack Knight",
-                "Jasmin Walia",
-                "Kumaar"
-            ],
-            "album": "Sonu Ke Titu Ki Sweety",
-            "played_at": "17/07/2026 - 18:41:26"
-        },
-        {
-            "song_name": "Tum Hi Ho Bandhu",
-            "artists": [
-                "Pritam",
-                "Neeraj Shridhar",
-                "Kavita Seth"
-            ],
-            "album": "Cocktail (Original Motion Picture Soundtrack)",
-            "played_at": "17/07/2026 - 18:37:27"
-        },
-        {
-            "song_name": "Subha Hone Na De",
-            "artists": [
-                "Pritam",
-                "Mika Singh",
-                "Shefali Alvares"
-            ],
-            "album": "Desi Boyz",
-            "played_at": "17/07/2026 - 18:32:43"
-        },
-        {
-            "song_name": "Badtameez Dil",
-            "artists": [
-                "Pritam",
-                "Benny Dayal",
-                "Shefali Alvares",
-                "Amitabh Bhattacharya"
-            ],
-            "album": "Yeh Jawaani Hai Deewani",
-            "played_at": "17/07/2026 - 18:27:54"
-        },
-        {
-            "song_name": "Sunny Sunny",
-            "artists": [
-                "Yo Yo Honey Singh",
-                "Neha Kakkar"
-            ],
-            "album": "Yaariyan",
-            "played_at": "17/07/2026 - 18:23:41"
-        },
-        {
-            "song_name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
-            "artists": [
-                "Shashwat Sachdev",
-                "Hanumankind",
-                "Jasmine Sandlas",
-                "Sudhir Yaduvanshi",
-                "Charanjit Ahuja",
-                "Muhammad Sadiq",
-                "Ranjit Kaur",
-                "Babu Singh Maan"
-            ],
-            "album": "Dhurandhar - Title Track (From \"Dhurandhar\")",
-            "played_at": "17/07/2026 - 18:19:37"
         }
     ]
 }

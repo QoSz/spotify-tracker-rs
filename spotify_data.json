@@ -1,6 +1,25 @@
 {
-    "total_plays": 6865,
+    "total_plays": 6867,
     "tracks": [
+        {
+            "song_name": "Regret",
+            "artists": [
+                "Astrality",
+                "Arinn",
+                "B-Goss"
+            ],
+            "album": "Regret",
+            "played_at": "21/10/2026 - 15:17:25"
+        },
+        {
+            "song_name": "Good, Bad, Ok",
+            "artists": [
+                "Danny EVIZA",
+                "Sam Welch"
+            ],
+            "album": "Good, Bad, Ok",
+            "played_at": "21/10/2026 - 15:14:45"
+        },
         {
             "song_name": "Sunshine",
             "artists": [
@@ -1743,22 +1762,6 @@
             ],
             "album": "Dostana (Original Motion Picture Soundtrack)",
             "played_at": "17/07/2026 - 17:55:24"
-        },
-        {
-            "song_name": "Play Hard",
-            "artists": [
-                "elsewhere."
-            ],
-            "album": "Play Hard",
-            "played_at": "17/07/2026 - 12:10:32"
-        },
-        {
-            "song_name": "Lost With You - slowed",
-            "artists": [
-                "Luca Noir"
-            ],
-            "album": "Lost With You",
-            "played_at": "17/07/2026 - 11:09:15"
         }
     ]
 }

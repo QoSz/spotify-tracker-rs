@@ -1,6 +1,70 @@
 {
-    "total_plays": 6857,
+    "total_plays": 6865,
     "tracks": [
+        {
+            "song_name": "Sunshine",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Sunshine",
+            "played_at": "21/10/2026 - 15:12:21"
+        },
+        {
+            "song_name": "This Dance",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "This Dance",
+            "played_at": "21/10/2026 - 15:10:05"
+        },
+        {
+            "song_name": "Folded",
+            "artists": [
+                "Kehlani"
+            ],
+            "album": "Kehlani",
+            "played_at": "21/10/2026 - 15:07:39"
+        },
+        {
+            "song_name": "Postman",
+            "artists": [
+                "H:dn"
+            ],
+            "album": "Postman",
+            "played_at": "21/10/2026 - 14:55:08"
+        },
+        {
+            "song_name": "Times We Remember",
+            "artists": [
+                "Palm Skies"
+            ],
+            "album": "Times We Remember",
+            "played_at": "21/10/2026 - 14:52:24"
+        },
+        {
+            "song_name": "Falling",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "Falling",
+            "played_at": "21/10/2026 - 14:49:38"
+        },
+        {
+            "song_name": "What You Got",
+            "artists": [
+                "Quail P"
+            ],
+            "album": "Who Is Quail?",
+            "played_at": "21/10/2026 - 14:47:02"
+        },
+        {
+            "song_name": "Simple - Extended Mix",
+            "artists": [
+                "ItsArius"
+            ],
+            "album": "Simple",
+            "played_at": "21/10/2026 - 14:43:55"
+        },
         {
             "song_name": "We are one",
             "artists": [
@@ -1695,70 +1759,6 @@
             ],
             "album": "Lost With You",
             "played_at": "17/07/2026 - 11:09:15"
-        },
-        {
-            "song_name": "When It's Over",
-            "artists": [
-                "Neon Tide"
-            ],
-            "album": "When It's Over",
-            "played_at": "17/07/2026 - 11:06:40"
-        },
-        {
-            "song_name": "A Kiss - Sped Up",
-            "artists": [
-                "Hyze"
-            ],
-            "album": "A Kiss",
-            "played_at": "17/07/2026 - 11:03:31"
-        },
-        {
-            "song_name": "Slow Heat - Sped Up",
-            "artists": [
-                "MANTOX"
-            ],
-            "album": "Slow Heat",
-            "played_at": "17/07/2026 - 11:01:11"
-        },
-        {
-            "song_name": "Stay Close - Sped Up",
-            "artists": [
-                "Dessina"
-            ],
-            "album": "Stay Close",
-            "played_at": "17/07/2026 - 10:58:06"
-        },
-        {
-            "song_name": "Come Back - Sped Up",
-            "artists": [
-                "Nalys"
-            ],
-            "album": "Come Back",
-            "played_at": "17/07/2026 - 10:55:40"
-        },
-        {
-            "song_name": "Favorite Place - Slowed",
-            "artists": [
-                "Ryan Reed"
-            ],
-            "album": "Favorite Place",
-            "played_at": "17/07/2026 - 10:53:22"
-        },
-        {
-            "song_name": "Love - Slowed",
-            "artists": [
-                "Melion"
-            ],
-            "album": "Love",
-            "played_at": "17/07/2026 - 10:50:34"
-        },
-        {
-            "song_name": "Back To You",
-            "artists": [
-                "NM"
-            ],
-            "album": "Back To You",
-            "played_at": "17/07/2026 - 10:48:01"
         }
     ]
 }

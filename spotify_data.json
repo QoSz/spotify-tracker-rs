@@ -1,6 +1,31 @@
 {
-    "total_plays": 6854,
+    "total_plays": 6857,
     "tracks": [
+        {
+            "song_name": "We are one",
+            "artists": [
+                "ELEZO"
+            ],
+            "album": "We are one",
+            "played_at": "21/10/2026 - 14:40:32"
+        },
+        {
+            "song_name": "When The Sun Don't Shine",
+            "artists": [
+                "WestCoast"
+            ],
+            "album": "When The Sun Don't Shine",
+            "played_at": "21/10/2026 - 14:38:01"
+        },
+        {
+            "song_name": "La Perla",
+            "artists": [
+                "ROSALÍA",
+                "Yahritza Y Su Esencia"
+            ],
+            "album": "LUX",
+            "played_at": "20/10/2026 - 19:11:30"
+        },
         {
             "song_name": "Man I Need",
             "artists": [
@@ -1734,30 +1759,6 @@
             ],
             "album": "Back To You",
             "played_at": "17/07/2026 - 10:48:01"
-        },
-        {
-            "song_name": "Hearts",
-            "artists": [
-                "Zarco"
-            ],
-            "album": "Hearts",
-            "played_at": "17/07/2026 - 10:45:57"
-        },
-        {
-            "song_name": "I Met You",
-            "artists": [
-                "Ryan Reed"
-            ],
-            "album": "I Met You",
-            "played_at": "17/07/2026 - 10:43:20"
-        },
-        {
-            "song_name": "I Met You",
-            "artists": [
-                "Ryan Reed"
-            ],
-            "album": "I Met You",
-            "played_at": "17/07/2026 - 09:17:33"
         }
     ]
 }

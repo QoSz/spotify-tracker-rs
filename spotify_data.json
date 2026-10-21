@@ -1,6 +1,24 @@
 {
-    "total_plays": 6870,
+    "total_plays": 6872,
     "tracks": [
+        {
+            "song_name": "You're a Light",
+            "artists": [
+                "heylucas",
+                "Benji Lewis"
+            ],
+            "album": "hey",
+            "played_at": "21/10/2026 - 17:25:27"
+        },
+        {
+            "song_name": "You're a Light",
+            "artists": [
+                "heylucas",
+                "Benji Lewis"
+            ],
+            "album": "hey",
+            "played_at": "21/10/2026 - 17:23:02"
+        },
         {
             "song_name": "Spending Time",
             "artists": [
@@ -1727,28 +1745,6 @@
             ],
             "album": "Dhurandhar - Title Track (From \"Dhurandhar\")",
             "played_at": "17/07/2026 - 18:19:37"
-        },
-        {
-            "song_name": "Chammak Challo",
-            "artists": [
-                "Vishal-Shekhar",
-                "Akon",
-                "Hamsika Iyer",
-                "Vishal Dadlani",
-                "Niranjan Iyengar"
-            ],
-            "album": "Ra-One",
-            "played_at": "17/07/2026 - 18:17:01"
-        },
-        {
-            "song_name": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
-            "artists": [
-                "Shashwat Sachdev",
-                "Jasmine Sandlas",
-                "Reble"
-            ],
-            "album": "Main Aur Tu (From \"Dhurandhar The Revenge\")",
-            "played_at": "17/07/2026 - 18:13:14"
         }
     ]
 }

@@ -1,6 +1,100 @@
 {
-    "total_plays": 6941,
+    "total_plays": 6952,
     "tracks": [
+        {
+            "song_name": "You're The Only Place I Need",
+            "artists": [
+                "NOVEMBER KID"
+            ],
+            "album": "You're The Only Place I Need",
+            "played_at": "23/10/2026 - 13:41:25"
+        },
+        {
+            "song_name": "I Could Call You",
+            "artists": [
+                "MYND"
+            ],
+            "album": "I Could Call You",
+            "played_at": "23/10/2026 - 13:38:52"
+        },
+        {
+            "song_name": "ALONE ALONE",
+            "artists": [
+                "excape."
+            ],
+            "album": "ALONE ALONE",
+            "played_at": "23/10/2026 - 13:36:45"
+        },
+        {
+            "song_name": "Eachother",
+            "artists": [
+                "PLVTO"
+            ],
+            "album": "Eachother",
+            "played_at": "23/10/2026 - 13:34:27"
+        },
+        {
+            "song_name": "Bis Der Himmel Leiser Wird",
+            "artists": [
+                "NOVEMBER KID",
+                "Anna Grey"
+            ],
+            "album": "Bis Der Himmel Leiser Wird",
+            "played_at": "23/10/2026 - 13:31:51"
+        },
+        {
+            "song_name": "Echoes",
+            "artists": [
+                "Gavin Moss",
+                "RUSSI"
+            ],
+            "album": "Echoes",
+            "played_at": "23/10/2026 - 13:29:38"
+        },
+        {
+            "song_name": "A New Day",
+            "artists": [
+                "Last Sun"
+            ],
+            "album": "A New Day",
+            "played_at": "23/10/2026 - 13:27:37"
+        },
+        {
+            "song_name": "About You",
+            "artists": [
+                "Nohr",
+                "AMRAC"
+            ],
+            "album": "About You",
+            "played_at": "23/10/2026 - 13:24:18"
+        },
+        {
+            "song_name": "I Care",
+            "artists": [
+                "PALASTIC",
+                "Youkii"
+            ],
+            "album": "I Care",
+            "played_at": "23/10/2026 - 13:21:57"
+        },
+        {
+            "song_name": "De Ja With A View",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Evening Demos",
+            "played_at": "23/10/2026 - 13:17:30"
+        },
+        {
+            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
+            "artists": [
+                "ONEFOUR",
+                "Nemzzz",
+                "Segway"
+            ],
+            "album": "Look At Me Now",
+            "played_at": "23/10/2026 - 13:15:27"
+        },
         {
             "song_name": "De Ja With A View",
             "artists": [
@@ -1586,100 +1680,6 @@
             ],
             "album": "Be Your Friend",
             "played_at": "18/10/2026 - 13:02:34"
-        },
-        {
-            "song_name": "Walk Through Fire",
-            "artists": [
-                "PLVTO"
-            ],
-            "album": "Walk Through Fire",
-            "played_at": "18/10/2026 - 12:59:57"
-        },
-        {
-            "song_name": "Shade In The Summer",
-            "artists": [
-                "Lost In Pacific",
-                "Landon Ryle"
-            ],
-            "album": "Shade In The Summer",
-            "played_at": "18/10/2026 - 11:49:57"
-        },
-        {
-            "song_name": "City At Night",
-            "artists": [
-                "RAZZ",
-                "Angie Robba"
-            ],
-            "album": "City At Night",
-            "played_at": "18/10/2026 - 11:47:18"
-        },
-        {
-            "song_name": "Who You Are",
-            "artists": [
-                "CLOVER",
-                "dusk:dawn"
-            ],
-            "album": "Who You Are",
-            "played_at": "18/10/2026 - 11:45:04"
-        },
-        {
-            "song_name": "Eileen",
-            "artists": [
-                "Hechmann",
-                "Luke Alvin"
-            ],
-            "album": "Eileen",
-            "played_at": "18/10/2026 - 11:42:56"
-        },
-        {
-            "song_name": "One More Time",
-            "artists": [
-                "Parada"
-            ],
-            "album": "One More Time",
-            "played_at": "18/10/2026 - 11:40:03"
-        },
-        {
-            "song_name": "One More Time",
-            "artists": [
-                "Parada"
-            ],
-            "album": "One More Time",
-            "played_at": "17/10/2026 - 16:45:11"
-        },
-        {
-            "song_name": "Back Of My Mind",
-            "artists": [
-                "Friends & I"
-            ],
-            "album": "Back Of My Mind",
-            "played_at": "17/10/2026 - 16:15:07"
-        },
-        {
-            "song_name": "Radioactive",
-            "artists": [
-                "Mingue",
-                "Made Of Marble",
-                "sleepy dude"
-            ],
-            "album": "Radioactive",
-            "played_at": "17/10/2026 - 16:13:19"
-        },
-        {
-            "song_name": "See U Later",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "From Me To You Pack",
-            "played_at": "17/10/2026 - 16:11:20"
-        },
-        {
-            "song_name": "I See Colors Again",
-            "artists": [
-                "ERIGO"
-            ],
-            "album": "I See Colors Again",
-            "played_at": "17/10/2026 - 16:09:17"
         }
     ]
 }

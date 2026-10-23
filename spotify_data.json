@@ -1,6 +1,91 @@
 {
-    "total_plays": 6893,
+    "total_plays": 6903,
     "tracks": [
+        {
+            "song_name": "About You",
+            "artists": [
+                "Nohr",
+                "AMRAC"
+            ],
+            "album": "About You",
+            "played_at": "23/10/2026 - 10:11:36"
+        },
+        {
+            "song_name": "A New Day",
+            "artists": [
+                "Last Sun"
+            ],
+            "album": "A New Day",
+            "played_at": "23/10/2026 - 10:09:15"
+        },
+        {
+            "song_name": "Saviour",
+            "artists": [
+                "Palm Skies",
+                "Jamie McCool"
+            ],
+            "album": "Saviour",
+            "played_at": "23/10/2026 - 10:05:55"
+        },
+        {
+            "song_name": "Missing U Again",
+            "artists": [
+                "Diielex"
+            ],
+            "album": "Missing U Again",
+            "played_at": "23/10/2026 - 10:03:59"
+        },
+        {
+            "song_name": "I Care",
+            "artists": [
+                "PALASTIC",
+                "Youkii"
+            ],
+            "album": "I Care",
+            "played_at": "23/10/2026 - 10:00:37"
+        },
+        {
+            "song_name": "ALONE ALONE",
+            "artists": [
+                "excape."
+            ],
+            "album": "ALONE ALONE",
+            "played_at": "23/10/2026 - 09:58:00"
+        },
+        {
+            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
+            "artists": [
+                "A$AP Rocky",
+                "Brent Faiyaz"
+            ],
+            "album": "Don't Be Dumb",
+            "played_at": "23/10/2026 - 09:55:41"
+        },
+        {
+            "song_name": "Baby Baby",
+            "artists": [
+                "Sports"
+            ],
+            "album": "Get A Good Look",
+            "played_at": "23/10/2026 - 09:50:02"
+        },
+        {
+            "song_name": "Fever",
+            "artists": [
+                "heylucas",
+                "Nina Carr"
+            ],
+            "album": "Fever",
+            "played_at": "23/10/2026 - 09:47:06"
+        },
+        {
+            "song_name": "Favorite Place - Slowed",
+            "artists": [
+                "Ryan Reed"
+            ],
+            "album": "Favorite Place",
+            "played_at": "23/10/2026 - 09:44:20"
+        },
         {
             "song_name": "side by side",
             "artists": [
@@ -1599,102 +1684,6 @@
             ],
             "album": "Blue Sky Mentality",
             "played_at": "17/10/2026 - 11:08:37"
-        },
-        {
-            "song_name": "Los Santos",
-            "artists": [
-                "Current Blue"
-            ],
-            "album": "Los Santos",
-            "played_at": "17/10/2026 - 11:06:06"
-        },
-        {
-            "song_name": "Human Condition",
-            "artists": [
-                "The Palms"
-            ],
-            "album": "Mulholland Dr.",
-            "played_at": "17/10/2026 - 11:03:55"
-        },
-        {
-            "song_name": "Coca Cola (From \"Luka Chuppi\")",
-            "artists": [
-                "Tony Kakkar",
-                "Neha Kakkar",
-                "Young Desi",
-                "Tanishk Bagchi"
-            ],
-            "album": "Coca Cola (From \"Luka Chuppi\")",
-            "played_at": "17/07/2026 - 20:19:11"
-        },
-        {
-            "song_name": "Slow Motion",
-            "artists": [
-                "Vishal-Shekhar",
-                "Shreya Ghoshal",
-                "Nakash Aziz"
-            ],
-            "album": "Bharat",
-            "played_at": "17/07/2026 - 20:06:00"
-        },
-        {
-            "song_name": "Dance Basanti",
-            "artists": [
-                "Sachin-Jigar",
-                "Vishal Dadlani",
-                "Anushka Manchanda"
-            ],
-            "album": "Ungli (Original Motion Picture Soundtrack)",
-            "played_at": "17/07/2026 - 20:01:52"
-        },
-        {
-            "song_name": "Aankh Marey",
-            "artists": [
-                "Neha Kakkar",
-                "Mika Singh",
-                "Kumar Sanu"
-            ],
-            "album": "Simmba",
-            "played_at": "17/07/2026 - 19:58:08"
-        },
-        {
-            "song_name": "Kiya Kiya",
-            "artists": [
-                "Anand Raj Anand",
-                "Shweta Pandit",
-                "Anjaan Sagri"
-            ],
-            "album": "Welcome (Original Motion Picture Soundtrack)",
-            "played_at": "17/07/2026 - 19:54:35"
-        },
-        {
-            "song_name": "Zingaat",
-            "artists": [
-                "Ajay-Atul"
-            ],
-            "album": "Dhadak (Original Motion Picture Soundtrack)",
-            "played_at": "17/07/2026 - 19:49:33"
-        },
-        {
-            "song_name": "Thumkeshwari",
-            "artists": [
-                "Sachin-Jigar",
-                "Rashmeet Kaur",
-                "Ash King",
-                "Divya Kumar",
-                "Amitabh Bhattacharya"
-            ],
-            "album": "Bhediya (Original Motion Picture Soundtrack)",
-            "played_at": "17/07/2026 - 19:45:46"
-        },
-        {
-            "song_name": "Chikni Chameli",
-            "artists": [
-                "Ajay-Atul",
-                "Shreya Ghoshal"
-            ],
-            "album": "Chikni Chameli",
-            "played_at": "17/07/2026 - 19:43:03"
         }
     ]
 }

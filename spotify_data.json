@@ -1,6 +1,90 @@
 {
-    "total_plays": 6883,
+    "total_plays": 6893,
     "tracks": [
+        {
+            "song_name": "side by side",
+            "artists": [
+                "drill clinton"
+            ],
+            "album": "u get me.",
+            "played_at": "23/10/2026 - 09:41:39"
+        },
+        {
+            "song_name": "World on Fire",
+            "artists": [
+                "Keanler"
+            ],
+            "album": "World on Fire",
+            "played_at": "23/10/2026 - 09:38:00"
+        },
+        {
+            "song_name": "wildfire",
+            "artists": [
+                "origins"
+            ],
+            "album": "wildfire",
+            "played_at": "23/10/2026 - 09:35:10"
+        },
+        {
+            "song_name": "Ocean Eyes",
+            "artists": [
+                "EleVen"
+            ],
+            "album": "Ocean Eyes",
+            "played_at": "23/10/2026 - 09:31:56"
+        },
+        {
+            "song_name": "Inwood Hill Park",
+            "artists": [
+                "6LACK"
+            ],
+            "album": "Since I Have A Lover",
+            "played_at": "23/10/2026 - 09:28:45"
+        },
+        {
+            "song_name": "You Let Me Go",
+            "artists": [
+                "UPHORA"
+            ],
+            "album": "You Let Me Go",
+            "played_at": "23/10/2026 - 09:25:42"
+        },
+        {
+            "song_name": "All I Feel",
+            "artists": [
+                "Hechmann",
+                "Mark Filip",
+                "solaene"
+            ],
+            "album": "All I Feel",
+            "played_at": "23/10/2026 - 09:23:05"
+        },
+        {
+            "song_name": "Hello (The Sun Is Up Where Are You)",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "Hello (The Sun Is Up Where Are You)",
+            "played_at": "23/10/2026 - 09:20:34"
+        },
+        {
+            "song_name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+            "artists": [
+                "Drake",
+                "Don Toliver",
+                "Yebba"
+            ],
+            "album": "HABIBTI (FOMO)",
+            "played_at": "23/10/2026 - 09:17:29"
+        },
+        {
+            "song_name": "Whisper My Name",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "23/10/2026 - 09:13:41"
+        },
         {
             "song_name": "Test My Love",
             "artists": [
@@ -1611,113 +1695,6 @@
             ],
             "album": "Chikni Chameli",
             "played_at": "17/07/2026 - 19:43:03"
-        },
-        {
-            "song_name": "Dilbar Ki Aankhon Ka (From \"Thamma\") [Feat. Nora Fatehi]",
-            "artists": [
-                "Sachin-Jigar",
-                "Rashmeet Kaur",
-                "Jigar Saraiya",
-                "Amitabh Bhattacharya"
-            ],
-            "album": "Dilbar Ki Aankhon Ka (From \"Thamma\") [Feat. Nora Fatehi]",
-            "played_at": "17/07/2026 - 19:37:59"
-        },
-        {
-            "song_name": "Chogada (From \"Loveyatri\")",
-            "artists": [
-                "Darshan Raval",
-                "Asees Kaur",
-                "Lijo George-Dj Chetas"
-            ],
-            "album": "Chogada (From \"Loveyatri\")",
-            "played_at": "17/07/2026 - 19:35:10"
-        },
-        {
-            "song_name": "Kamli",
-            "artists": [
-                "Pritam",
-                "Sunidhi Chauhan",
-                "Amitabh Bhattacharya"
-            ],
-            "album": "Dhoom:3",
-            "played_at": "17/07/2026 - 19:31:00"
-        },
-        {
-            "song_name": "Kusu Kusu",
-            "artists": [
-                "Tanishk Bagchi",
-                "Zahrah S Khan",
-                "Dev Negi"
-            ],
-            "album": "Satyameva Jayate 2",
-            "played_at": "17/07/2026 - 19:27:04"
-        },
-        {
-            "song_name": "Kyun",
-            "artists": [
-                "Talwiinder",
-                "NDS"
-            ],
-            "album": "Welcome To The Jungle (Original Motion Picture Soundtrack)",
-            "played_at": "17/07/2026 - 19:23:48"
-        },
-        {
-            "song_name": "Kar Gayi Chull",
-            "artists": [
-                "Badshah",
-                "Amaal Mallik",
-                "Fazilpuria",
-                "Sukriti Kakar",
-                "Neha Kakkar"
-            ],
-            "album": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
-            "played_at": "17/07/2026 - 19:20:14"
-        },
-        {
-            "song_name": "The Humma Song",
-            "artists": [
-                "A.R. Rahman",
-                "Badshah",
-                "Tanishk Bagchi",
-                "Shashaa Tirupati",
-                "Jubin Nautiyal"
-            ],
-            "album": "OK Jaanu (Original Motion Picture Soundtrack)",
-            "played_at": "17/07/2026 - 19:17:06"
-        },
-        {
-            "song_name": "Dilliwaali Girlfriend",
-            "artists": [
-                "Pritam",
-                "Arijit Singh",
-                "Sunidhi Chauhan",
-                "Kumaar"
-            ],
-            "album": "Yeh Jawaani Hai Deewani",
-            "played_at": "17/07/2026 - 19:14:06"
-        },
-        {
-            "song_name": "Ainvayi Ainvayi",
-            "artists": [
-                "Salim–Sulaiman",
-                "Salim Merchant",
-                "Sunidhi Chauhan",
-                "Amitabh Bhattacharya"
-            ],
-            "album": "Band Baaja Baaraat",
-            "played_at": "17/07/2026 - 19:09:45"
-        },
-        {
-            "song_name": "The Disco Song",
-            "artists": [
-                "Vishal-Shekhar",
-                "Benny Dayal",
-                "Sunidhi Chauhan",
-                "Nazia Hassan"
-            ],
-            "album": "Student of the Year (Original Motion Picture Soundtrack)",
-            "played_at": "17/07/2026 - 19:05:17"
         }
     ]
 }

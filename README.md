@@ -41,12 +41,12 @@ journalctl --user -u spotify-tracker -f
 <!-- STATS:START -->
 ## Lifetime Stats
 
-**6,918** songs listened to
+**6,930** songs listened to
 
-- **1494** unique artists
-- **1570** unique albums
-- **1948** unique songs
-- **11.5** songs per day (average)
+- **1497** unique artists
+- **1575** unique albums
+- **1954** unique songs
+- **11.6** songs per day (average)
 
 ## Top Artists (All Time)
 
@@ -63,11 +63,11 @@ journalctl --user -u spotify-tracker -f
 
 ## Listening Patterns
 
-- Peak hour: **15:00**
+- Peak hour: **11:00**
 
 ## Listening Time
 
-- **10.6** hours listened (217 plays with known duration)
+- **11.1** hours listened (229 plays with known duration)
 - 6,701 older plays (imported from the legacy tracker) have no duration and are excluded
 
 ## This Year by Month
@@ -81,7 +81,7 @@ journalctl --user -u spotify-tracker -f
 | May | 588 | 0.0 |
 | June | 589 | 0.0 |
 | July | 508 | 0.0 |
-| October | 217 | 10.6 |
+| October | 229 | 11.1 |
 
 ---
 *Automatically updated by spotify-tracker (Rust)*

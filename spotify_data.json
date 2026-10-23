@@ -1,6 +1,48 @@
 {
-    "total_plays": 6878,
+    "total_plays": 6883,
     "tracks": [
+        {
+            "song_name": "Test My Love",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Test My Love",
+            "played_at": "23/10/2026 - 09:10:06"
+        },
+        {
+            "song_name": "Back Of My Mind",
+            "artists": [
+                "Friends & I"
+            ],
+            "album": "Back Of My Mind",
+            "played_at": "23/10/2026 - 09:07:48"
+        },
+        {
+            "song_name": "One More Call",
+            "artists": [
+                "Lynnic",
+                "ItsArius",
+                "Dinia"
+            ],
+            "album": "One More Call",
+            "played_at": "23/10/2026 - 09:06:00"
+        },
+        {
+            "song_name": "Eachother",
+            "artists": [
+                "PLVTO"
+            ],
+            "album": "Eachother",
+            "played_at": "23/10/2026 - 09:03:24"
+        },
+        {
+            "song_name": "i need some space",
+            "artists": [
+                "Dimside"
+            ],
+            "album": "i need some space",
+            "played_at": "23/10/2026 - 09:00:49"
+        },
         {
             "song_name": "Bis Der Himmel Leiser Wird",
             "artists": [
@@ -1676,60 +1718,6 @@
             ],
             "album": "Student of the Year (Original Motion Picture Soundtrack)",
             "played_at": "17/07/2026 - 19:05:17"
-        },
-        {
-            "song_name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-            "artists": [
-                "Jasmine Sandlas",
-                "Garry Sandhu",
-                "Tanishk Bagchi",
-                "Intense"
-            ],
-            "album": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-            "played_at": "17/07/2026 - 18:59:35"
-        },
-        {
-            "song_name": "Jhoome Jo Pathaan",
-            "artists": [
-                "Vishal-Shekhar",
-                "Arijit Singh",
-                "Sukriti Kakar",
-                "Vishal Dadlani",
-                "Shekhar Ravjiani",
-                "Kumaar"
-            ],
-            "album": "Pathaan",
-            "played_at": "17/07/2026 - 18:56:26"
-        },
-        {
-            "song_name": "Naal Nachna",
-            "artists": [
-                "Shashwat Sachdev",
-                "Afsana Khan",
-                "Irshad Kamil",
-                "Reble"
-            ],
-            "album": "Dhurandhar",
-            "played_at": "17/07/2026 - 18:52:57"
-        },
-        {
-            "song_name": "Sheila Ki Jawani",
-            "artists": [
-                "Vishal-Shekhar",
-                "Sunidhi Chauhan",
-                "Vishal Dadlani"
-            ],
-            "album": "Tees Maar Khan",
-            "played_at": "17/07/2026 - 18:50:22"
-        },
-        {
-            "song_name": "Lutt Le Gaya",
-            "artists": [
-                "Shashwat Sachdev",
-                "Simran Chaudhary"
-            ],
-            "album": "Dhurandhar",
-            "played_at": "17/07/2026 - 18:45:40"
         }
     ]
 }

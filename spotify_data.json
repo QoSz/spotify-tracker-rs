@@ -1,6 +1,97 @@
 {
-    "total_plays": 6903,
+    "total_plays": 6914,
     "tracks": [
+        {
+            "song_name": "Tendencies",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Tendencies",
+            "played_at": "23/10/2026 - 10:38:43"
+        },
+        {
+            "song_name": "You're The Only Place I Need",
+            "artists": [
+                "NOVEMBER KID"
+            ],
+            "album": "You're The Only Place I Need",
+            "played_at": "23/10/2026 - 10:36:50"
+        },
+        {
+            "song_name": "we can't hide",
+            "artists": [
+                "Phil Odd"
+            ],
+            "album": "we can't hide",
+            "played_at": "23/10/2026 - 10:34:17"
+        },
+        {
+            "song_name": "Keep On Running",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "Keep On Running",
+            "played_at": "23/10/2026 - 10:32:06"
+        },
+        {
+            "song_name": "Rhythm Of Life",
+            "artists": [
+                "Gavin Moss"
+            ],
+            "album": "Rhythm Of Life",
+            "played_at": "23/10/2026 - 10:29:45"
+        },
+        {
+            "song_name": "Bis Der Himmel Leiser Wird",
+            "artists": [
+                "NOVEMBER KID",
+                "Anna Grey"
+            ],
+            "album": "Bis Der Himmel Leiser Wird",
+            "played_at": "23/10/2026 - 10:27:30"
+        },
+        {
+            "song_name": "Do You Even Know",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Running",
+            "played_at": "23/10/2026 - 10:25:18"
+        },
+        {
+            "song_name": "De Ja With A View",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Evening Demos",
+            "played_at": "23/10/2026 - 10:21:51"
+        },
+        {
+            "song_name": "it felt different",
+            "artists": [
+                "heylucas",
+                "solaene",
+                "Monoko"
+            ],
+            "album": "it felt different",
+            "played_at": "23/10/2026 - 10:19:49"
+        },
+        {
+            "song_name": "Still Live In That Summer",
+            "artists": [
+                "Panuma"
+            ],
+            "album": "Still Live In That Summer",
+            "played_at": "23/10/2026 - 10:16:16"
+        },
+        {
+            "song_name": "Into You",
+            "artists": [
+                "NORRA"
+            ],
+            "album": "Into You",
+            "played_at": "23/10/2026 - 10:14:06"
+        },
         {
             "song_name": "About You",
             "artists": [
@@ -1592,98 +1683,6 @@
             ],
             "album": "NOT CUTE ANYMORE",
             "played_at": "17/10/2026 - 12:31:19"
-        },
-        {
-            "song_name": "Beg For Me - JADE Remix",
-            "artists": [
-                "Lily Allen",
-                "JADE"
-            ],
-            "album": "Beg For Me (Remix)",
-            "played_at": "17/10/2026 - 12:29:45"
-        },
-        {
-            "song_name": "iloveitiloveitiloveit",
-            "artists": [
-                "Bella Kay"
-            ],
-            "album": "iloveitiloveitiloveit",
-            "played_at": "17/10/2026 - 12:06:28"
-        },
-        {
-            "song_name": "Internet Girl",
-            "artists": [
-                "KATSEYE"
-            ],
-            "album": "Internet Girl",
-            "played_at": "17/10/2026 - 12:00:34"
-        },
-        {
-            "song_name": "Another Drink",
-            "artists": [
-                "Marshmello",
-                "Kelsea Ballerini"
-            ],
-            "album": "Another Drink",
-            "played_at": "17/10/2026 - 11:57:57"
-        },
-        {
-            "song_name": "NOT CUTE ANYMORE",
-            "artists": [
-                "ILLIT"
-            ],
-            "album": "NOT CUTE ANYMORE",
-            "played_at": "17/10/2026 - 11:41:40"
-        },
-        {
-            "song_name": "Beg For Me - JADE Remix",
-            "artists": [
-                "Lily Allen",
-                "JADE"
-            ],
-            "album": "Beg For Me (Remix)",
-            "played_at": "17/10/2026 - 11:31:07"
-        },
-        {
-            "song_name": "iloveitiloveitiloveit",
-            "artists": [
-                "Bella Kay"
-            ],
-            "album": "iloveitiloveitiloveit",
-            "played_at": "17/10/2026 - 11:28:24"
-        },
-        {
-            "song_name": "CHANEL",
-            "artists": [
-                "Tyla"
-            ],
-            "album": "CHANEL",
-            "played_at": "17/10/2026 - 11:25:28"
-        },
-        {
-            "song_name": "Another Drink",
-            "artists": [
-                "Marshmello",
-                "Kelsea Ballerini"
-            ],
-            "album": "Another Drink",
-            "played_at": "17/10/2026 - 11:21:22"
-        },
-        {
-            "song_name": "Too Right",
-            "artists": [
-                "tomy wyne"
-            ],
-            "album": "Too Right",
-            "played_at": "17/10/2026 - 11:18:28"
-        },
-        {
-            "song_name": "Home",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Blue Sky Mentality",
-            "played_at": "17/10/2026 - 11:08:37"
         }
     ]
 }

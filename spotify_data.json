@@ -1,6 +1,14 @@
 {
-    "total_plays": 6968,
+    "total_plays": 6969,
     "tracks": [
+        {
+            "song_name": "Go Around",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Running",
+            "played_at": "23/10/2026 - 15:11:11"
+        },
         {
             "song_name": "Home",
             "artists": [
@@ -1669,14 +1677,6 @@
             ],
             "album": "Don't Be Dumb",
             "played_at": "19/10/2026 - 09:44:24"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "19/10/2026 - 09:31:03"
         }
     ]
 }

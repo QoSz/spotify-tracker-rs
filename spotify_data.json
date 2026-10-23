@@ -1,6 +1,32 @@
 {
-    "total_plays": 6938,
+    "total_plays": 6941,
     "tracks": [
+        {
+            "song_name": "De Ja With A View",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Evening Demos",
+            "played_at": "23/10/2026 - 12:23:40"
+        },
+        {
+            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
+            "artists": [
+                "ONEFOUR",
+                "Nemzzz",
+                "Segway"
+            ],
+            "album": "Look At Me Now",
+            "played_at": "23/10/2026 - 12:21:37"
+        },
+        {
+            "song_name": "Snow on The Bluff",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Carefree, very",
+            "played_at": "23/10/2026 - 12:13:08"
+        },
         {
             "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
             "artists": [
@@ -1654,32 +1680,6 @@
             ],
             "album": "I See Colors Again",
             "played_at": "17/10/2026 - 16:09:17"
-        },
-        {
-            "song_name": "ghost",
-            "artists": [
-                "mike."
-            ],
-            "album": "ghost",
-            "played_at": "17/10/2026 - 16:07:08"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "Chris Ruo",
-                "Ben Leuman",
-                "Samyorai"
-            ],
-            "album": "Let It Go",
-            "played_at": "17/10/2026 - 16:04:32"
-        },
-        {
-            "song_name": "Take Our Time",
-            "artists": [
-                "Loverground"
-            ],
-            "album": "Take Our Time",
-            "played_at": "17/10/2026 - 16:01:55"
         }
     ]
 }

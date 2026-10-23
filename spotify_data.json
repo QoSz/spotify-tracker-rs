@@ -1,6 +1,38 @@
 {
-    "total_plays": 6914,
+    "total_plays": 6918,
     "tracks": [
+        {
+            "song_name": "Surfaces",
+            "artists": [
+                "HNE"
+            ],
+            "album": "Surfaces",
+            "played_at": "23/10/2026 - 11:10:35"
+        },
+        {
+            "song_name": "Thank You",
+            "artists": [
+                "H:dn"
+            ],
+            "album": "Thank You",
+            "played_at": "23/10/2026 - 11:07:36"
+        },
+        {
+            "song_name": "Go Around",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Running",
+            "played_at": "23/10/2026 - 10:46:04"
+        },
+        {
+            "song_name": "Jump",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Jump",
+            "played_at": "23/10/2026 - 10:43:37"
+        },
         {
             "song_name": "Tendencies",
             "artists": [
@@ -1651,38 +1683,6 @@
             ],
             "album": "ICEMAN",
             "played_at": "17/10/2026 - 13:14:35"
-        },
-        {
-            "song_name": "I Knew It, I Knew You - From \"Toy Story 5\"",
-            "artists": [
-                "Taylor Swift"
-            ],
-            "album": "I Knew It, I Knew You (From \"Toy Story 5\")",
-            "played_at": "17/10/2026 - 13:10:45"
-        },
-        {
-            "song_name": "I Knew It, I Knew You - From \"Toy Story 5\"",
-            "artists": [
-                "Taylor Swift"
-            ],
-            "album": "I Knew It, I Knew You (From \"Toy Story 5\")",
-            "played_at": "17/10/2026 - 12:57:53"
-        },
-        {
-            "song_name": "12 to 12",
-            "artists": [
-                "sombr"
-            ],
-            "album": "12 to 12",
-            "played_at": "17/10/2026 - 12:35:15"
-        },
-        {
-            "song_name": "NOT CUTE ANYMORE",
-            "artists": [
-                "ILLIT"
-            ],
-            "album": "NOT CUTE ANYMORE",
-            "played_at": "17/10/2026 - 12:31:19"
         }
     ]
 }

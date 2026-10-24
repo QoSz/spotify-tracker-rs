@@ -1,6 +1,62 @@
 {
-    "total_plays": 6976,
+    "total_plays": 6983,
     "tracks": [
+        {
+            "song_name": "Choosin' Texas",
+            "artists": [
+                "Ella Langley"
+            ],
+            "album": "Choosin' Texas",
+            "played_at": "24/10/2026 - 23:21:24"
+        },
+        {
+            "song_name": "Jealous Type",
+            "artists": [
+                "Doja Cat"
+            ],
+            "album": "Jealous Type",
+            "played_at": "24/10/2026 - 23:16:07"
+        },
+        {
+            "song_name": "Loser",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "Deadbeat",
+            "played_at": "24/10/2026 - 23:13:30"
+        },
+        {
+            "song_name": "Love Me Not",
+            "artists": [
+                "Ravyn Lenae"
+            ],
+            "album": "Bird's Eye",
+            "played_at": "24/10/2026 - 23:09:54"
+        },
+        {
+            "song_name": "BIRDS OF A FEATHER",
+            "artists": [
+                "Billie Eilish"
+            ],
+            "album": "HIT ME HARD AND SOFT",
+            "played_at": "24/10/2026 - 23:06:14"
+        },
+        {
+            "song_name": "iloveitiloveitiloveit",
+            "artists": [
+                "Bella Kay"
+            ],
+            "album": "iloveitiloveitiloveit",
+            "played_at": "24/10/2026 - 23:02:50"
+        },
+        {
+            "song_name": "iloveitiloveitiloveit",
+            "artists": [
+                "Bella Kay"
+            ],
+            "album": "iloveitiloveitiloveit",
+            "played_at": "24/10/2026 - 18:36:16"
+        },
         {
             "song_name": "iloveitiloveitiloveit",
             "artists": [
@@ -1622,63 +1678,6 @@
             ],
             "album": "Refuse You",
             "played_at": "19/10/2026 - 10:39:16"
-        },
-        {
-            "song_name": "7am On Bridle Path",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "19/10/2026 - 10:37:51"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "19/10/2026 - 10:29:31"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "19/10/2026 - 10:21:41"
-        },
-        {
-            "song_name": "Raindance (feat. Tems)",
-            "artists": [
-                "Dave",
-                "Tems"
-            ],
-            "album": "The Boy Who Played the Harp",
-            "played_at": "19/10/2026 - 10:08:47"
-        },
-        {
-            "song_name": "Hey",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "19/10/2026 - 10:04:53"
-        },
-        {
-            "song_name": "Shards",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Your Eyes",
-            "played_at": "19/10/2026 - 10:03:12"
-        },
-        {
-            "song_name": "We Run",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "We Run",
-            "played_at": "19/10/2026 - 10:01:19"
         }
     ]
 }

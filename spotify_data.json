@@ -1,6 +1,66 @@
 {
-    "total_plays": 6969,
+    "total_plays": 6976,
     "tracks": [
+        {
+            "song_name": "iloveitiloveitiloveit",
+            "artists": [
+                "Bella Kay"
+            ],
+            "album": "iloveitiloveitiloveit",
+            "played_at": "24/10/2026 - 18:15:05"
+        },
+        {
+            "song_name": "i think i'm addicted",
+            "artists": [
+                "oskar med k",
+                "Haley Joelle"
+            ],
+            "album": "feel",
+            "played_at": "24/10/2026 - 18:12:09"
+        },
+        {
+            "song_name": "the cure",
+            "artists": [
+                "Olivia Rodrigo"
+            ],
+            "album": "the cure",
+            "played_at": "24/10/2026 - 18:09:38"
+        },
+        {
+            "song_name": "Aperture",
+            "artists": [
+                "Harry Styles"
+            ],
+            "album": "Aperture",
+            "played_at": "24/10/2026 - 18:04:47"
+        },
+        {
+            "song_name": "Free Your Mind",
+            "artists": [
+                "Prospa",
+                "Cloonee",
+                "Sybil"
+            ],
+            "album": "Free Your Mind",
+            "played_at": "24/10/2026 - 17:59:43"
+        },
+        {
+            "song_name": "No Broke Boys",
+            "artists": [
+                "Disco Lines",
+                "Tinashe"
+            ],
+            "album": "No Broke Boys",
+            "played_at": "24/10/2026 - 17:56:28"
+        },
+        {
+            "song_name": "stupid song",
+            "artists": [
+                "Olivia Rodrigo"
+            ],
+            "album": "you seem pretty sad for a girl so in love",
+            "played_at": "24/10/2026 - 17:53:51"
+        },
         {
             "song_name": "Go Around",
             "artists": [
@@ -1619,64 +1679,6 @@
             ],
             "album": "We Run",
             "played_at": "19/10/2026 - 10:01:19"
-        },
-        {
-            "song_name": "What You Saying",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "What You Saying",
-            "played_at": "19/10/2026 - 09:58:43"
-        },
-        {
-            "song_name": "Slide",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Slide",
-            "played_at": "19/10/2026 - 09:56:38"
-        },
-        {
-            "song_name": "Out of Reach",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "19/10/2026 - 09:53:51"
-        },
-        {
-            "song_name": "Two Things",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "19/10/2026 - 09:51:18"
-        },
-        {
-            "song_name": "Push It",
-            "artists": [
-                "MIND"
-            ],
-            "album": "First Contact",
-            "played_at": "19/10/2026 - 09:49:20"
-        },
-        {
-            "song_name": "Running",
-            "artists": [
-                "Calu",
-                "Asphodelle"
-            ],
-            "album": "Running",
-            "played_at": "19/10/2026 - 09:46:54"
-        },
-        {
-            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-            "artists": [
-                "A$AP Rocky",
-                "Brent Faiyaz"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "19/10/2026 - 09:44:24"
         }
     ]
 }

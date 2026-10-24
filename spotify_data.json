@@ -1,6 +1,70 @@
 {
-    "total_plays": 6983,
+    "total_plays": 6991,
     "tracks": [
+        {
+            "song_name": "all of me",
+            "artists": [
+                "butter"
+            ],
+            "album": "all of me",
+            "played_at": "24/10/2026 - 23:58:08"
+        },
+        {
+            "song_name": "Running",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Running",
+            "played_at": "24/10/2026 - 23:56:14"
+        },
+        {
+            "song_name": "Lonely",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "Lonely",
+            "played_at": "24/10/2026 - 23:51:59"
+        },
+        {
+            "song_name": "5am in Paris",
+            "artists": [
+                "Mckay"
+            ],
+            "album": "5am in Paris",
+            "played_at": "24/10/2026 - 23:49:19"
+        },
+        {
+            "song_name": "Starry Eyed",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality",
+            "played_at": "24/10/2026 - 23:46:11"
+        },
+        {
+            "song_name": "2013",
+            "artists": [
+                "Billy Sharp"
+            ],
+            "album": "Rose Tint",
+            "played_at": "24/10/2026 - 23:44:01"
+        },
+        {
+            "song_name": "Succubus",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Succubus",
+            "played_at": "24/10/2026 - 23:39:55"
+        },
+        {
+            "song_name": "Now I Know You",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Where Are You Going?",
+            "played_at": "24/10/2026 - 23:37:35"
+        },
         {
             "song_name": "Choosin' Texas",
             "artists": [
@@ -1610,74 +1674,6 @@
             ],
             "album": "Golden Ticket (runaway)",
             "played_at": "19/10/2026 - 11:08:45"
-        },
-        {
-            "song_name": "Lost in You",
-            "artists": [
-                "Astrality",
-                "Thandi"
-            ],
-            "album": "Lost in You",
-            "played_at": "19/10/2026 - 11:05:41"
-        },
-        {
-            "song_name": "so lonely",
-            "artists": [
-                "offrails"
-            ],
-            "album": "so lonely",
-            "played_at": "19/10/2026 - 10:55:54"
-        },
-        {
-            "song_name": "PAY AS YOU GO",
-            "artists": [
-                "Ruby Waters"
-            ],
-            "album": "PAY AS YOU GO",
-            "played_at": "19/10/2026 - 10:53:20"
-        },
-        {
-            "song_name": "Love U",
-            "artists": [
-                "NORRA"
-            ],
-            "album": "Love U",
-            "played_at": "19/10/2026 - 10:50:08"
-        },
-        {
-            "song_name": "Do It All Again",
-            "artists": [
-                "heylucas",
-                "HNE"
-            ],
-            "album": "hey",
-            "played_at": "19/10/2026 - 10:47:26"
-        },
-        {
-            "song_name": "NOMI",
-            "artists": [
-                "UPHORA",
-                "Olivion"
-            ],
-            "album": "NOMI",
-            "played_at": "19/10/2026 - 10:44:14"
-        },
-        {
-            "song_name": "Where The Colors Don't End",
-            "artists": [
-                "Luis Coren",
-                "Why U So"
-            ],
-            "album": "Where The Colors Don't End",
-            "played_at": "19/10/2026 - 10:42:02"
-        },
-        {
-            "song_name": "Refuse You",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Refuse You",
-            "played_at": "19/10/2026 - 10:39:16"
         }
     ]
 }

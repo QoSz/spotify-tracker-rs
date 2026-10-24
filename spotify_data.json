@@ -1,6 +1,23 @@
 {
-    "total_plays": 6991,
+    "total_plays": 6993,
     "tracks": [
+        {
+            "song_name": "Ibiza",
+            "artists": [
+                "Ozara",
+                "Walk on Water"
+            ],
+            "album": "Ibiza",
+            "played_at": "25/10/2026 - 00:02:52"
+        },
+        {
+            "song_name": "Moments",
+            "artists": [
+                "NM"
+            ],
+            "album": "Moments",
+            "played_at": "25/10/2026 - 00:00:20"
+        },
         {
             "song_name": "all of me",
             "artists": [
@@ -1658,22 +1675,6 @@
             ],
             "album": "Slow Dive",
             "played_at": "19/10/2026 - 11:15:10"
-        },
-        {
-            "song_name": "Ripple",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Blue Sky Mentality",
-            "played_at": "19/10/2026 - 11:11:19"
-        },
-        {
-            "song_name": "Golden Ticket (runaway)",
-            "artists": [
-                "joki"
-            ],
-            "album": "Golden Ticket (runaway)",
-            "played_at": "19/10/2026 - 11:08:45"
         }
     ]
 }

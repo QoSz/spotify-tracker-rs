@@ -1,6 +1,73 @@
 {
-    "total_plays": 6996,
+    "total_plays": 7004,
     "tracks": [
+        {
+            "song_name": "places",
+            "artists": [
+                "kenu"
+            ],
+            "album": "places",
+            "played_at": "25/10/2026 - 10:40:58"
+        },
+        {
+            "song_name": "Juggin (feat. Blanco & Finesse Kid)",
+            "artists": [
+                "Chase & Status",
+                "Blanco",
+                "Finessekid"
+            ],
+            "album": "Generic Everything",
+            "played_at": "25/10/2026 - 10:38:32"
+        },
+        {
+            "song_name": "Mercer Hotel",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Mercer Hotel",
+            "played_at": "25/10/2026 - 10:35:51"
+        },
+        {
+            "song_name": "Lean On - Chill Mix",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Lean On (Chill Mix)",
+            "played_at": "25/10/2026 - 10:24:29"
+        },
+        {
+            "song_name": "WANT SMOKE",
+            "artists": [
+                "Matt Corman"
+            ],
+            "album": "WANT SMOKE",
+            "played_at": "25/10/2026 - 10:21:53"
+        },
+        {
+            "song_name": "better when you're home",
+            "artists": [
+                "abelon",
+                "Levelle London"
+            ],
+            "album": "better when you're home",
+            "played_at": "25/10/2026 - 10:19:50"
+        },
+        {
+            "song_name": "find you once",
+            "artists": [
+                "kalm"
+            ],
+            "album": "another lifetime",
+            "played_at": "25/10/2026 - 10:17:11"
+        },
+        {
+            "song_name": "You're Mine",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "You're Mine",
+            "played_at": "25/10/2026 - 10:13:23"
+        },
         {
             "song_name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
             "artists": [
@@ -1610,73 +1677,6 @@
             ],
             "album": "Saviour",
             "played_at": "19/10/2026 - 18:23:29"
-        },
-        {
-            "song_name": "Broken Glass",
-            "artists": [
-                "Walk on Water"
-            ],
-            "album": "Broken Glass",
-            "played_at": "19/10/2026 - 18:21:33"
-        },
-        {
-            "song_name": "Santa Fe",
-            "artists": [
-                "GOBAITH"
-            ],
-            "album": "Santa Fe",
-            "played_at": "19/10/2026 - 18:18:59"
-        },
-        {
-            "song_name": "Lies",
-            "artists": [
-                "Lenji"
-            ],
-            "album": "Lies",
-            "played_at": "19/10/2026 - 18:16:24"
-        },
-        {
-            "song_name": "You Don't Love Yourself",
-            "artists": [
-                "Tobiahs",
-                "OVI WOOD"
-            ],
-            "album": "TO YOU, BY US (VOL. 1)",
-            "played_at": "19/10/2026 - 18:14:21"
-        },
-        {
-            "song_name": "Lost in You",
-            "artists": [
-                "Astrality",
-                "Thandi"
-            ],
-            "album": "Lost in You",
-            "played_at": "19/10/2026 - 14:41:08"
-        },
-        {
-            "song_name": "so lonely",
-            "artists": [
-                "offrails"
-            ],
-            "album": "so lonely",
-            "played_at": "19/10/2026 - 14:29:06"
-        },
-        {
-            "song_name": "PAY AS YOU GO",
-            "artists": [
-                "Ruby Waters"
-            ],
-            "album": "PAY AS YOU GO",
-            "played_at": "19/10/2026 - 14:26:32"
-        },
-        {
-            "song_name": "You Don't Love Yourself",
-            "artists": [
-                "Tobiahs",
-                "OVI WOOD"
-            ],
-            "album": "TO YOU, BY US (VOL. 1)",
-            "played_at": "19/10/2026 - 11:53:29"
         }
     ]
 }

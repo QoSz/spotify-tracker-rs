@@ -1,6 +1,30 @@
 {
-    "total_plays": 7018,
+    "total_plays": 7021,
     "tracks": [
+        {
+            "song_name": "Trust",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Trust",
+            "played_at": "25/10/2026 - 15:11:48"
+        },
+        {
+            "song_name": "places",
+            "artists": [
+                "kenu"
+            ],
+            "album": "places",
+            "played_at": "25/10/2026 - 15:08:59"
+        },
+        {
+            "song_name": "places",
+            "artists": [
+                "kenu"
+            ],
+            "album": "places",
+            "played_at": "25/10/2026 - 13:00:20"
+        },
         {
             "song_name": "Shroom Clouds (feat. reggie & Jeremih)",
             "artists": [
@@ -1655,31 +1679,6 @@
             ],
             "album": "So Hard To Find",
             "played_at": "19/10/2026 - 21:06:50"
-        },
-        {
-            "song_name": "Wanna Be Somewhere With You",
-            "artists": [
-                "Rules"
-            ],
-            "album": "Wanna Be Somewhere With You",
-            "played_at": "19/10/2026 - 21:04:11"
-        },
-        {
-            "song_name": "Solar Eclipse (feat. Don Toliver)",
-            "artists": [
-                "Drake",
-                "Don Toliver"
-            ],
-            "album": "HABIBTI (FOMO)",
-            "played_at": "19/10/2026 - 21:00:37"
-        },
-        {
-            "song_name": "My Pocket",
-            "artists": [
-                "Alex Keeper"
-            ],
-            "album": "My Pocket",
-            "played_at": "19/10/2026 - 20:57:06"
         }
     ]
 }

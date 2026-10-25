@@ -1,6 +1,92 @@
 {
-    "total_plays": 7029,
+    "total_plays": 7039,
     "tracks": [
+        {
+            "song_name": "Feels So Good",
+            "artists": [
+                "Lonelysoul."
+            ],
+            "album": "Feels So Good",
+            "played_at": "25/10/2026 - 16:07:01"
+        },
+        {
+            "song_name": "Free",
+            "artists": [
+                "VisionV",
+                "Sara Phillips"
+            ],
+            "album": "Free",
+            "played_at": "25/10/2026 - 16:04:27"
+        },
+        {
+            "song_name": "Running",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Running",
+            "played_at": "25/10/2026 - 16:01:48"
+        },
+        {
+            "song_name": "Lonely",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "Lonely",
+            "played_at": "25/10/2026 - 15:57:33"
+        },
+        {
+            "song_name": "No Gravity",
+            "artists": [
+                "Toby Rose",
+                "Manaar"
+            ],
+            "album": "No Gravity",
+            "played_at": "25/10/2026 - 15:54:53"
+        },
+        {
+            "song_name": "Tu Hi Disda - Karwa Chauth 2026",
+            "artists": [
+                "Pritam",
+                "Arijit Singh",
+                "Nikhita Gandhi",
+                "Kumaar"
+            ],
+            "album": "Tu Hi Disda - Karwa Chauth 2026",
+            "played_at": "25/10/2026 - 15:52:49"
+        },
+        {
+            "song_name": "WANT SMOKE",
+            "artists": [
+                "Matt Corman"
+            ],
+            "album": "WANT SMOKE",
+            "played_at": "25/10/2026 - 15:51:31"
+        },
+        {
+            "song_name": "Lean On - Chill Mix",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Lean On (Chill Mix)",
+            "played_at": "25/10/2026 - 15:49:28"
+        },
+        {
+            "song_name": "Only You",
+            "artists": [
+                "Lucas Estrada",
+                "Izzy Bizu"
+            ],
+            "album": "Only You",
+            "played_at": "25/10/2026 - 15:46:52"
+        },
+        {
+            "song_name": "Say It in The Daylight",
+            "artists": [
+                "4Rain"
+            ],
+            "album": "Say It in The Daylight",
+            "played_at": "25/10/2026 - 15:45:01"
+        },
         {
             "song_name": "Back To The Start",
             "artists": [
@@ -1594,91 +1680,6 @@
             ],
             "album": "Where The Colors Don't End",
             "played_at": "19/10/2026 - 22:10:03"
-        },
-        {
-            "song_name": "Refuse You",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Refuse You",
-            "played_at": "19/10/2026 - 21:58:16"
-        },
-        {
-            "song_name": "Keep It Simple",
-            "artists": [
-                "Bleu Azur"
-            ],
-            "album": "Keep It Simple",
-            "played_at": "19/10/2026 - 21:56:08"
-        },
-        {
-            "song_name": "I Don't Do This",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Running",
-            "played_at": "19/10/2026 - 21:53:09"
-        },
-        {
-            "song_name": "De Ja With A View",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Evening Demos",
-            "played_at": "19/10/2026 - 21:50:19"
-        },
-        {
-            "song_name": "You Never Know",
-            "artists": [
-                "Parada",
-                "Asphodelle"
-            ],
-            "album": "You Never Know",
-            "played_at": "19/10/2026 - 21:48:17"
-        },
-        {
-            "song_name": "Demons - Massane Remix",
-            "artists": [
-                "Jerro",
-                "Sophia Bel",
-                "Massane"
-            ],
-            "album": "Demons",
-            "played_at": "19/10/2026 - 21:45:23"
-        },
-        {
-            "song_name": "Lapse",
-            "artists": [
-                "ItsArius",
-                "Lynnic",
-                "Vancouver Sleep Clinic"
-            ],
-            "album": "Lapse",
-            "played_at": "19/10/2026 - 21:41:26"
-        },
-        {
-            "song_name": "Lost In You",
-            "artists": [
-                "fwd/slash"
-            ],
-            "album": "Lost In You",
-            "played_at": "19/10/2026 - 21:36:59"
-        },
-        {
-            "song_name": "Leaning On",
-            "artists": [
-                "Lost In Pacific"
-            ],
-            "album": "Leaning On",
-            "played_at": "19/10/2026 - 21:33:50"
-        },
-        {
-            "song_name": "Slow Me Down",
-            "artists": [
-                "H:dn"
-            ],
-            "album": "Slow Me Down",
-            "played_at": "19/10/2026 - 21:27:29"
         }
     ]
 }

@@ -1,6 +1,91 @@
 {
-    "total_plays": 7004,
+    "total_plays": 7014,
     "tracks": [
+        {
+            "song_name": "Only You",
+            "artists": [
+                "Lucas Estrada",
+                "Izzy Bizu"
+            ],
+            "album": "Only You",
+            "played_at": "25/10/2026 - 11:12:05"
+        },
+        {
+            "song_name": "Free",
+            "artists": [
+                "VisionV",
+                "Sara Phillips"
+            ],
+            "album": "Free",
+            "played_at": "25/10/2026 - 11:10:15"
+        },
+        {
+            "song_name": "Come Back To Me",
+            "artists": [
+                "Russ"
+            ],
+            "album": "Come Back To Me",
+            "played_at": "25/10/2026 - 11:07:37"
+        },
+        {
+            "song_name": "Hold On",
+            "artists": [
+                "Lavern"
+            ],
+            "album": "Hold On",
+            "played_at": "25/10/2026 - 11:04:37"
+        },
+        {
+            "song_name": "Back To The Start",
+            "artists": [
+                "BUNT."
+            ],
+            "album": "Levi Did It",
+            "played_at": "25/10/2026 - 11:01:43"
+        },
+        {
+            "song_name": "Tu Hi Disda - Karwa Chauth 2026",
+            "artists": [
+                "Pritam",
+                "Arijit Singh",
+                "Nikhita Gandhi",
+                "Kumaar"
+            ],
+            "album": "Tu Hi Disda - Karwa Chauth 2026",
+            "played_at": "25/10/2026 - 10:54:26"
+        },
+        {
+            "song_name": "Don't Go",
+            "artists": [
+                "PLVTO"
+            ],
+            "album": "Don't Go",
+            "played_at": "25/10/2026 - 10:53:08"
+        },
+        {
+            "song_name": "Brave",
+            "artists": [
+                "Texture"
+            ],
+            "album": "Brave",
+            "played_at": "25/10/2026 - 10:50:45"
+        },
+        {
+            "song_name": "Trust",
+            "artists": [
+                "April Girl"
+            ],
+            "album": "Trust",
+            "played_at": "25/10/2026 - 10:48:19"
+        },
+        {
+            "song_name": "Feels So Good",
+            "artists": [
+                "Lonelysoul."
+            ],
+            "album": "Feels So Good",
+            "played_at": "25/10/2026 - 10:43:32"
+        },
         {
             "song_name": "places",
             "artists": [
@@ -1591,92 +1676,6 @@
             ],
             "album": "One Sided",
             "played_at": "19/10/2026 - 20:41:54"
-        },
-        {
-            "song_name": "Belong",
-            "artists": [
-                "Astrality",
-                "soleil",
-                "Kleeve"
-            ],
-            "album": "Belong",
-            "played_at": "19/10/2026 - 20:38:58"
-        },
-        {
-            "song_name": "No Reason",
-            "artists": [
-                "The Palm Tree Boy"
-            ],
-            "album": "No Reason",
-            "played_at": "19/10/2026 - 20:36:04"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "Chris Ruo",
-                "Ben Leuman",
-                "Samyorai"
-            ],
-            "album": "Let It Go",
-            "played_at": "19/10/2026 - 20:33:22"
-        },
-        {
-            "song_name": "Paper Skies",
-            "artists": [
-                "Harmless Night"
-            ],
-            "album": "Paper Skies",
-            "played_at": "19/10/2026 - 20:30:46"
-        },
-        {
-            "song_name": "Jaded",
-            "artists": [
-                "Re:um"
-            ],
-            "album": "Jaded",
-            "played_at": "19/10/2026 - 20:28:44"
-        },
-        {
-            "song_name": "Jaded",
-            "artists": [
-                "Re:um"
-            ],
-            "album": "Jaded",
-            "played_at": "19/10/2026 - 18:44:26"
-        },
-        {
-            "song_name": "I Could Call You",
-            "artists": [
-                "MYND"
-            ],
-            "album": "I Could Call You",
-            "played_at": "19/10/2026 - 18:30:19"
-        },
-        {
-            "song_name": "Sad People",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon III: The Chosen",
-            "played_at": "19/10/2026 - 18:28:13"
-        },
-        {
-            "song_name": "Hold Out",
-            "artists": [
-                "Lithe",
-                "FRVRFRIDAY"
-            ],
-            "album": "Hold Out",
-            "played_at": "19/10/2026 - 18:25:24"
-        },
-        {
-            "song_name": "Saviour",
-            "artists": [
-                "Palm Skies",
-                "Jamie McCool"
-            ],
-            "album": "Saviour",
-            "played_at": "19/10/2026 - 18:23:29"
         }
     ]
 }

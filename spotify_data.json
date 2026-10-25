@@ -1,6 +1,34 @@
 {
-    "total_plays": 6993,
+    "total_plays": 6996,
     "tracks": [
+        {
+            "song_name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+            "artists": [
+                "Victony",
+                "Don Toliver",
+                "Summer Walker"
+            ],
+            "album": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+            "played_at": "25/10/2026 - 10:11:11"
+        },
+        {
+            "song_name": "From Your Eyes",
+            "artists": [
+                "BUNT.",
+                "Damzz"
+            ],
+            "album": "Levi Did It",
+            "played_at": "25/10/2026 - 10:08:38"
+        },
+        {
+            "song_name": "Free My Mind",
+            "artists": [
+                "RUSSI",
+                "ZILO"
+            ],
+            "album": "Free My Mind",
+            "played_at": "25/10/2026 - 00:16:28"
+        },
         {
             "song_name": "Ibiza",
             "artists": [
@@ -1649,32 +1677,6 @@
             ],
             "album": "TO YOU, BY US (VOL. 1)",
             "played_at": "19/10/2026 - 11:53:29"
-        },
-        {
-            "song_name": "WIDE AWAKE",
-            "artists": [
-                "me n ü",
-                "Sandro Cavazza"
-            ],
-            "album": "WIDE AWAKE",
-            "played_at": "19/10/2026 - 11:21:36"
-        },
-        {
-            "song_name": "Do You Even Know",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Running",
-            "played_at": "19/10/2026 - 11:18:36"
-        },
-        {
-            "song_name": "Slow Dive",
-            "artists": [
-                "feva.",
-                "Kanslor"
-            ],
-            "album": "Slow Dive",
-            "played_at": "19/10/2026 - 11:15:10"
         }
     ]
 }

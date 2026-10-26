@@ -1,6 +1,64 @@
 {
-    "total_plays": 7061,
+    "total_plays": 7068,
     "tracks": [
+        {
+            "song_name": "Love Somebody",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "Love Somebody",
+            "played_at": "26/10/2026 - 18:22:06"
+        },
+        {
+            "song_name": "Lot of Love",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Lot of Love",
+            "played_at": "26/10/2026 - 18:19:21"
+        },
+        {
+            "song_name": "together in my head",
+            "artists": [
+                "Cassia"
+            ],
+            "album": "lemon gelato",
+            "played_at": "26/10/2026 - 18:17:50"
+        },
+        {
+            "song_name": "Tomorrow",
+            "artists": [
+                "LDVC",
+                "Polux",
+                "Mason"
+            ],
+            "album": "Tomorrow",
+            "played_at": "26/10/2026 - 18:15:07"
+        },
+        {
+            "song_name": "pull me closer",
+            "artists": [
+                "elsaaa"
+            ],
+            "album": "pull me closer",
+            "played_at": "26/10/2026 - 18:12:44"
+        },
+        {
+            "song_name": "Lonely In The Rain",
+            "artists": [
+                "Maone"
+            ],
+            "album": "Lonely In The Rain",
+            "played_at": "26/10/2026 - 18:10:34"
+        },
+        {
+            "song_name": "Lonely In The Rain",
+            "artists": [
+                "Maone"
+            ],
+            "album": "Lonely In The Rain",
+            "played_at": "26/10/2026 - 10:00:16"
+        },
         {
             "song_name": "Every Lifetime",
             "artists": [
@@ -1622,65 +1680,6 @@
             ],
             "album": "Home",
             "played_at": "21/10/2026 - 17:08:30"
-        },
-        {
-            "song_name": "Feel This",
-            "artists": [
-                "DÏVÄG"
-            ],
-            "album": "Feel This",
-            "played_at": "21/10/2026 - 15:58:25"
-        },
-        {
-            "song_name": "Regret",
-            "artists": [
-                "Astrality",
-                "Arinn",
-                "B-Goss"
-            ],
-            "album": "Regret",
-            "played_at": "21/10/2026 - 15:17:25"
-        },
-        {
-            "song_name": "Good, Bad, Ok",
-            "artists": [
-                "Danny EVIZA",
-                "Sam Welch"
-            ],
-            "album": "Good, Bad, Ok",
-            "played_at": "21/10/2026 - 15:14:45"
-        },
-        {
-            "song_name": "Sunshine",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Sunshine",
-            "played_at": "21/10/2026 - 15:12:21"
-        },
-        {
-            "song_name": "This Dance",
-            "artists": [
-                "Mizmo"
-            ],
-            "album": "This Dance",
-            "played_at": "21/10/2026 - 15:10:05"
-        },
-        {
-            "song_name": "Folded",
-            "artists": [
-                "Kehlani"
-            ],
-            "album": "Kehlani",
-            "played_at": "21/10/2026 - 15:07:39"
-        },
-        {
-            "song_name": "Postman",
-            "artists": [
-                "H:dn"
-            ],
-            "album": "Postman",
-            "played_at": "21/10/2026 - 14:55:08"
         }
     ]
 }

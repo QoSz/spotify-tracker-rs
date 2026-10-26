@@ -1,6 +1,54 @@
 {
-    "total_plays": 7055,
+    "total_plays": 7061,
     "tracks": [
+        {
+            "song_name": "Every Lifetime",
+            "artists": [
+                "Alex Keeper"
+            ],
+            "album": "Every Lifetime",
+            "played_at": "26/10/2026 - 09:17:23"
+        },
+        {
+            "song_name": "Without You",
+            "artists": [
+                "RUSSI"
+            ],
+            "album": "Without You",
+            "played_at": "26/10/2026 - 09:14:42"
+        },
+        {
+            "song_name": "Sundown",
+            "artists": [
+                "H:dn"
+            ],
+            "album": "Sundown",
+            "played_at": "26/10/2026 - 09:11:56"
+        },
+        {
+            "song_name": "Hold The Horizon",
+            "artists": [
+                "ZOYA"
+            ],
+            "album": "Hold The Horizon",
+            "played_at": "26/10/2026 - 09:09:05"
+        },
+        {
+            "song_name": "Side To Side",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "Side To Side",
+            "played_at": "26/10/2026 - 09:01:44"
+        },
+        {
+            "song_name": "White Lies",
+            "artists": [
+                "Billy Sharp"
+            ],
+            "album": "White Lies",
+            "played_at": "26/10/2026 - 08:57:46"
+        },
         {
             "song_name": "stay a little longer",
             "artists": [
@@ -1633,54 +1681,6 @@
             ],
             "album": "Postman",
             "played_at": "21/10/2026 - 14:55:08"
-        },
-        {
-            "song_name": "Times We Remember",
-            "artists": [
-                "Palm Skies"
-            ],
-            "album": "Times We Remember",
-            "played_at": "21/10/2026 - 14:52:24"
-        },
-        {
-            "song_name": "Falling",
-            "artists": [
-                "Mizmo"
-            ],
-            "album": "Falling",
-            "played_at": "21/10/2026 - 14:49:38"
-        },
-        {
-            "song_name": "What You Got",
-            "artists": [
-                "Quail P"
-            ],
-            "album": "Who Is Quail?",
-            "played_at": "21/10/2026 - 14:47:02"
-        },
-        {
-            "song_name": "Simple - Extended Mix",
-            "artists": [
-                "ItsArius"
-            ],
-            "album": "Simple",
-            "played_at": "21/10/2026 - 14:43:55"
-        },
-        {
-            "song_name": "We are one",
-            "artists": [
-                "ELEZO"
-            ],
-            "album": "We are one",
-            "played_at": "21/10/2026 - 14:40:32"
-        },
-        {
-            "song_name": "When The Sun Don't Shine",
-            "artists": [
-                "WestCoast"
-            ],
-            "album": "When The Sun Don't Shine",
-            "played_at": "21/10/2026 - 14:38:01"
         }
     ]
 }

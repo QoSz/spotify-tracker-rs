@@ -1,6 +1,48 @@
 {
-    "total_plays": 7039,
+    "total_plays": 7044,
     "tracks": [
+        {
+            "song_name": "5am in Paris",
+            "artists": [
+                "Mckay"
+            ],
+            "album": "5am in Paris",
+            "played_at": "26/10/2026 - 07:25:12"
+        },
+        {
+            "song_name": "find you once",
+            "artists": [
+                "kalm"
+            ],
+            "album": "another lifetime",
+            "played_at": "26/10/2026 - 07:23:25"
+        },
+        {
+            "song_name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+            "artists": [
+                "Victony",
+                "Don Toliver",
+                "Summer Walker"
+            ],
+            "album": "SLICK Remix (feat. Don Toliver & Summer Walker)",
+            "played_at": "26/10/2026 - 07:19:51"
+        },
+        {
+            "song_name": "You're Mine",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "You're Mine",
+            "played_at": "26/10/2026 - 07:10:58"
+        },
+        {
+            "song_name": "You're Mine",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "You're Mine",
+            "played_at": "25/10/2026 - 16:31:19"
+        },
         {
             "song_name": "Feels So Good",
             "artists": [
@@ -1635,51 +1677,6 @@
             ],
             "album": "lacuna",
             "played_at": "20/10/2026 - 16:22:52"
-        },
-        {
-            "song_name": "What I Want (feat. Tate McRae)",
-            "artists": [
-                "Morgan Wallen",
-                "Tate McRae"
-            ],
-            "album": "I’m The Problem",
-            "played_at": "20/10/2026 - 08:17:41"
-        },
-        {
-            "song_name": "expectations (feat. Chappell Roan)",
-            "artists": [
-                "Olivia Rodrigo",
-                "Chappell Roan"
-            ],
-            "album": "expectations (feat. Chappell Roan)",
-            "played_at": "20/10/2026 - 07:20:25"
-        },
-        {
-            "song_name": "When Did You Get Hot?",
-            "artists": [
-                "Sabrina Carpenter"
-            ],
-            "album": "Man’s Best Friend",
-            "played_at": "20/10/2026 - 07:16:48"
-        },
-        {
-            "song_name": "Save My Love",
-            "artists": [
-                "Kygo",
-                "Khalid",
-                "Gryffin"
-            ],
-            "album": "Save My Love",
-            "played_at": "20/10/2026 - 07:14:30"
-        },
-        {
-            "song_name": "Where The Colors Don't End",
-            "artists": [
-                "Luis Coren",
-                "Why U So"
-            ],
-            "album": "Where The Colors Don't End",
-            "played_at": "19/10/2026 - 22:10:03"
         }
     ]
 }

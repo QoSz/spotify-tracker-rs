@@ -1,6 +1,92 @@
 {
-    "total_plays": 7045,
+    "total_plays": 7055,
     "tracks": [
+        {
+            "song_name": "stay a little longer",
+            "artists": [
+                "Walk on Water"
+            ],
+            "album": "stay a little longer",
+            "played_at": "26/10/2026 - 08:54:32"
+        },
+        {
+            "song_name": "Let Me Fall",
+            "artists": [
+                "wrongside",
+                "Shiftbach"
+            ],
+            "album": "Let Me Fall",
+            "played_at": "26/10/2026 - 08:51:57"
+        },
+        {
+            "song_name": "Care",
+            "artists": [
+                "Saive"
+            ],
+            "album": "Care",
+            "played_at": "26/10/2026 - 08:48:34"
+        },
+        {
+            "song_name": "Echoes",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "Echoes",
+            "played_at": "26/10/2026 - 08:46:06"
+        },
+        {
+            "song_name": "Shroom Clouds (feat. reggie & Jeremih)",
+            "artists": [
+                "A$AP Rocky",
+                "reggie",
+                "Jeremih"
+            ],
+            "album": "Shroom Clouds (feat. reggie & Jeremih)",
+            "played_at": "26/10/2026 - 08:41:53"
+        },
+        {
+            "song_name": "Mercer Hotel",
+            "artists": [
+                "Lil Mosey"
+            ],
+            "album": "Mercer Hotel",
+            "played_at": "26/10/2026 - 08:38:37"
+        },
+        {
+            "song_name": "Ibiza",
+            "artists": [
+                "Ozara",
+                "Walk on Water"
+            ],
+            "album": "Ibiza",
+            "played_at": "26/10/2026 - 08:36:06"
+        },
+        {
+            "song_name": "Don't Go",
+            "artists": [
+                "PLVTO"
+            ],
+            "album": "Don't Go",
+            "played_at": "26/10/2026 - 08:33:34"
+        },
+        {
+            "song_name": "From Your Eyes",
+            "artists": [
+                "BUNT.",
+                "Damzz"
+            ],
+            "album": "Levi Did It",
+            "played_at": "26/10/2026 - 08:31:11"
+        },
+        {
+            "song_name": "From Your Eyes",
+            "artists": [
+                "BUNT.",
+                "Damzz"
+            ],
+            "album": "Levi Did It",
+            "played_at": "26/10/2026 - 07:46:57"
+        },
         {
             "song_name": "FINE SHXT",
             "artists": [
@@ -1595,89 +1681,6 @@
             ],
             "album": "When The Sun Don't Shine",
             "played_at": "21/10/2026 - 14:38:01"
-        },
-        {
-            "song_name": "La Perla",
-            "artists": [
-                "ROSALÍA",
-                "Yahritza Y Su Esencia"
-            ],
-            "album": "LUX",
-            "played_at": "20/10/2026 - 19:11:30"
-        },
-        {
-            "song_name": "Man I Need",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "Man I Need",
-            "played_at": "20/10/2026 - 18:59:11"
-        },
-        {
-            "song_name": "SPEED DEMON",
-            "artists": [
-                "Justin Bieber"
-            ],
-            "album": "SWAG II",
-            "played_at": "20/10/2026 - 18:56:14"
-        },
-        {
-            "song_name": "Die On This Hill",
-            "artists": [
-                "SIENNA SPIRO"
-            ],
-            "album": "Die On This Hill",
-            "played_at": "20/10/2026 - 18:52:49"
-        },
-        {
-            "song_name": "Glide",
-            "artists": [
-                "NEIKED",
-                "Portugal. The Man"
-            ],
-            "album": "Glide",
-            "played_at": "20/10/2026 - 17:38:50"
-        },
-        {
-            "song_name": "Up at Night",
-            "artists": [
-                "Montazona"
-            ],
-            "album": "Butterfly",
-            "played_at": "20/10/2026 - 17:36:09"
-        },
-        {
-            "song_name": "Beachtown",
-            "artists": [
-                "Mo Lowda & the Humble"
-            ],
-            "album": "Mo Lowda & the Humble",
-            "played_at": "20/10/2026 - 17:32:12"
-        },
-        {
-            "song_name": "What I Want (feat. Tate McRae)",
-            "artists": [
-                "Morgan Wallen",
-                "Tate McRae"
-            ],
-            "album": "I’m The Problem",
-            "played_at": "20/10/2026 - 17:31:14"
-        },
-        {
-            "song_name": "Fickle",
-            "artists": [
-                "Newport"
-            ],
-            "album": "Fickle",
-            "played_at": "20/10/2026 - 17:28:24"
-        },
-        {
-            "song_name": "Fickle",
-            "artists": [
-                "Newport"
-            ],
-            "album": "Fickle",
-            "played_at": "20/10/2026 - 16:35:23"
         }
     ]
 }

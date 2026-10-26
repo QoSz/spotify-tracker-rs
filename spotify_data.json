@@ -1,6 +1,15 @@
 {
-    "total_plays": 7044,
+    "total_plays": 7045,
     "tracks": [
+        {
+            "song_name": "FINE SHXT",
+            "artists": [
+                "Paris Bryant",
+                "Tory Lanez"
+            ],
+            "album": "FINE SHXT",
+            "played_at": "26/10/2026 - 07:28:07"
+        },
         {
             "song_name": "5am in Paris",
             "artists": [
@@ -1669,14 +1678,6 @@
             ],
             "album": "Fickle",
             "played_at": "20/10/2026 - 16:35:23"
-        },
-        {
-            "song_name": "lacuna",
-            "artists": [
-                "Tim Buds"
-            ],
-            "album": "lacuna",
-            "played_at": "20/10/2026 - 16:22:52"
         }
     ]
 }

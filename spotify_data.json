@@ -1,6 +1,215 @@
 {
-    "total_plays": 7068,
+    "total_plays": 7094,
     "tracks": [
+        {
+            "song_name": "moving on",
+            "artists": [
+                "kalm"
+            ],
+            "album": "moving on",
+            "played_at": "27/10/2026 - 15:13:39"
+        },
+        {
+            "song_name": "Something I Need",
+            "artists": [
+                "Offset"
+            ],
+            "album": "Something I Need",
+            "played_at": "27/10/2026 - 13:34:27"
+        },
+        {
+            "song_name": "WILL YOU EVER LET ME KNOW",
+            "artists": [
+                "Dolphin Love"
+            ],
+            "album": "WILL YOU EVER LET ME KNOW",
+            "played_at": "27/10/2026 - 13:32:58"
+        },
+        {
+            "song_name": "Rouge",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Where Are You Going?",
+            "played_at": "27/10/2026 - 13:30:26"
+        },
+        {
+            "song_name": "Rouge",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Where Are You Going?",
+            "played_at": "27/10/2026 - 09:55:58"
+        },
+        {
+            "song_name": "Streetlights",
+            "artists": [
+                "49th & Main"
+            ],
+            "album": "Streetlights",
+            "played_at": "27/10/2026 - 09:39:05"
+        },
+        {
+            "song_name": "Safe Bet",
+            "artists": [
+                "j ember"
+            ],
+            "album": "Safe Bet",
+            "played_at": "27/10/2026 - 09:35:53"
+        },
+        {
+            "song_name": "Ephemeral",
+            "artists": [
+                "Luvlace"
+            ],
+            "album": "Ephemeral",
+            "played_at": "27/10/2026 - 09:32:52"
+        },
+        {
+            "song_name": "Backseat",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "27/10/2026 - 09:29:55"
+        },
+        {
+            "song_name": "Sex & Drugs",
+            "artists": [
+                "Temper City"
+            ],
+            "album": "Sex & Drugs",
+            "played_at": "27/10/2026 - 09:23:38"
+        },
+        {
+            "song_name": "blind",
+            "artists": [
+                "Clubhouse"
+            ],
+            "album": "what a view!",
+            "played_at": "27/10/2026 - 09:20:30"
+        },
+        {
+            "song_name": "NOVOCAINE",
+            "artists": [
+                "Kennedy Cash"
+            ],
+            "album": "LETDOWN",
+            "played_at": "27/10/2026 - 09:17:07"
+        },
+        {
+            "song_name": "alright (feat. The Kid LAROI)",
+            "artists": [
+                "EKKSTACY",
+                "The Kid LAROI"
+            ],
+            "album": "EKKSTACY",
+            "played_at": "27/10/2026 - 09:13:34"
+        },
+        {
+            "song_name": "Back To You",
+            "artists": [
+                "h41dn"
+            ],
+            "album": "Back To You",
+            "played_at": "27/10/2026 - 09:11:31"
+        },
+        {
+            "song_name": "Amends",
+            "artists": [
+                "Marlon Funaki"
+            ],
+            "album": "Overdue",
+            "played_at": "27/10/2026 - 09:08:12"
+        },
+        {
+            "song_name": "talk of the town",
+            "artists": [
+                "Jonah Zed"
+            ],
+            "album": "LOVEGONEBY",
+            "played_at": "27/10/2026 - 09:00:00"
+        },
+        {
+            "song_name": "talk of the town",
+            "artists": [
+                "Jonah Zed"
+            ],
+            "album": "LOVEGONEBY",
+            "played_at": "27/10/2026 - 08:15:17"
+        },
+        {
+            "song_name": "devil´s in the sideroom",
+            "artists": [
+                "Miyu Hansen"
+            ],
+            "album": "devil´s in the sideroom",
+            "played_at": "27/10/2026 - 08:03:33"
+        },
+        {
+            "song_name": "Limited Light",
+            "artists": [
+                "Elijah Blond"
+            ],
+            "album": "Oh, What a Distance",
+            "played_at": "27/10/2026 - 08:00:08"
+        },
+        {
+            "song_name": "london pt. 2",
+            "artists": [
+                "Solo Kei"
+            ],
+            "album": "Wake Up Freezing",
+            "played_at": "27/10/2026 - 07:57:36"
+        },
+        {
+            "song_name": "If I Ever Talk To God",
+            "artists": [
+                "Landon Barker"
+            ],
+            "album": "If I Ever Talk To God",
+            "played_at": "27/10/2026 - 07:55:41"
+        },
+        {
+            "song_name": "Pull Me Under",
+            "artists": [
+                "bby"
+            ],
+            "album": "Pull Me Under",
+            "played_at": "27/10/2026 - 07:53:08"
+        },
+        {
+            "song_name": "Ripple",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality",
+            "played_at": "27/10/2026 - 07:48:22"
+        },
+        {
+            "song_name": "From the Start",
+            "artists": [
+                "Alex Kehm"
+            ],
+            "album": "From the Start",
+            "played_at": "27/10/2026 - 07:45:48"
+        },
+        {
+            "song_name": "Meteor",
+            "artists": [
+                "MORE&MORE"
+            ],
+            "album": "Meteor",
+            "played_at": "27/10/2026 - 07:42:47"
+        },
+        {
+            "song_name": "Something I Need",
+            "artists": [
+                "Offset"
+            ],
+            "album": "Something I Need",
+            "played_at": "26/10/2026 - 18:47:25"
+        },
         {
             "song_name": "Love Somebody",
             "artists": [
@@ -1462,224 +1671,6 @@
             ],
             "album": "Fever",
             "played_at": "23/10/2026 - 09:47:06"
-        },
-        {
-            "song_name": "Favorite Place - Slowed",
-            "artists": [
-                "Ryan Reed"
-            ],
-            "album": "Favorite Place",
-            "played_at": "23/10/2026 - 09:44:20"
-        },
-        {
-            "song_name": "side by side",
-            "artists": [
-                "drill clinton"
-            ],
-            "album": "u get me.",
-            "played_at": "23/10/2026 - 09:41:39"
-        },
-        {
-            "song_name": "World on Fire",
-            "artists": [
-                "Keanler"
-            ],
-            "album": "World on Fire",
-            "played_at": "23/10/2026 - 09:38:00"
-        },
-        {
-            "song_name": "wildfire",
-            "artists": [
-                "origins"
-            ],
-            "album": "wildfire",
-            "played_at": "23/10/2026 - 09:35:10"
-        },
-        {
-            "song_name": "Ocean Eyes",
-            "artists": [
-                "EleVen"
-            ],
-            "album": "Ocean Eyes",
-            "played_at": "23/10/2026 - 09:31:56"
-        },
-        {
-            "song_name": "Inwood Hill Park",
-            "artists": [
-                "6LACK"
-            ],
-            "album": "Since I Have A Lover",
-            "played_at": "23/10/2026 - 09:28:45"
-        },
-        {
-            "song_name": "You Let Me Go",
-            "artists": [
-                "UPHORA"
-            ],
-            "album": "You Let Me Go",
-            "played_at": "23/10/2026 - 09:25:42"
-        },
-        {
-            "song_name": "All I Feel",
-            "artists": [
-                "Hechmann",
-                "Mark Filip",
-                "solaene"
-            ],
-            "album": "All I Feel",
-            "played_at": "23/10/2026 - 09:23:05"
-        },
-        {
-            "song_name": "Hello (The Sun Is Up Where Are You)",
-            "artists": [
-                "Mizmo"
-            ],
-            "album": "Hello (The Sun Is Up Where Are You)",
-            "played_at": "23/10/2026 - 09:20:34"
-        },
-        {
-            "song_name": "Cold Shoulder (feat. Don Toliver & Yebba)",
-            "artists": [
-                "Drake",
-                "Don Toliver",
-                "Yebba"
-            ],
-            "album": "HABIBTI (FOMO)",
-            "played_at": "23/10/2026 - 09:17:29"
-        },
-        {
-            "song_name": "Whisper My Name",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "23/10/2026 - 09:13:41"
-        },
-        {
-            "song_name": "Test My Love",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Test My Love",
-            "played_at": "23/10/2026 - 09:10:06"
-        },
-        {
-            "song_name": "Back Of My Mind",
-            "artists": [
-                "Friends & I"
-            ],
-            "album": "Back Of My Mind",
-            "played_at": "23/10/2026 - 09:07:48"
-        },
-        {
-            "song_name": "One More Call",
-            "artists": [
-                "Lynnic",
-                "ItsArius",
-                "Dinia"
-            ],
-            "album": "One More Call",
-            "played_at": "23/10/2026 - 09:06:00"
-        },
-        {
-            "song_name": "Eachother",
-            "artists": [
-                "PLVTO"
-            ],
-            "album": "Eachother",
-            "played_at": "23/10/2026 - 09:03:24"
-        },
-        {
-            "song_name": "i need some space",
-            "artists": [
-                "Dimside"
-            ],
-            "album": "i need some space",
-            "played_at": "23/10/2026 - 09:00:49"
-        },
-        {
-            "song_name": "Bis Der Himmel Leiser Wird",
-            "artists": [
-                "NOVEMBER KID",
-                "Anna Grey"
-            ],
-            "album": "Bis Der Himmel Leiser Wird",
-            "played_at": "21/10/2026 - 20:09:07"
-        },
-        {
-            "song_name": "Go Around",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Running",
-            "played_at": "21/10/2026 - 20:06:55"
-        },
-        {
-            "song_name": "NOT ENOUGH",
-            "artists": [
-                "ASK YOUR FRIENDS"
-            ],
-            "album": "NOT ENOUGH",
-            "played_at": "21/10/2026 - 20:04:28"
-        },
-        {
-            "song_name": "Never Someone Like You",
-            "artists": [
-                "Why U So",
-                "Enginse"
-            ],
-            "album": "Never Someone Like You",
-            "played_at": "21/10/2026 - 20:01:29"
-        },
-        {
-            "song_name": "why you do that",
-            "artists": [
-                "yaen"
-            ],
-            "album": "why you do that",
-            "played_at": "21/10/2026 - 19:59:18"
-        },
-        {
-            "song_name": "why you do that",
-            "artists": [
-                "yaen"
-            ],
-            "album": "why you do that",
-            "played_at": "21/10/2026 - 17:50:39"
-        },
-        {
-            "song_name": "You're a Light",
-            "artists": [
-                "heylucas",
-                "Benji Lewis"
-            ],
-            "album": "hey",
-            "played_at": "21/10/2026 - 17:25:27"
-        },
-        {
-            "song_name": "You're a Light",
-            "artists": [
-                "heylucas",
-                "Benji Lewis"
-            ],
-            "album": "hey",
-            "played_at": "21/10/2026 - 17:23:02"
-        },
-        {
-            "song_name": "Spending Time",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Spending Time",
-            "played_at": "21/10/2026 - 17:11:17"
-        },
-        {
-            "song_name": "Home",
-            "artists": [
-                "Don Gianni"
-            ],
-            "album": "Home",
-            "played_at": "21/10/2026 - 17:08:30"
         }
     ]
 }

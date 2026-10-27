@@ -1,6 +1,14 @@
 {
-    "total_plays": 7098,
+    "total_plays": 7099,
     "tracks": [
+        {
+            "song_name": "Spend The Night",
+            "artists": [
+                "Alex Adair"
+            ],
+            "album": "Spend The Night",
+            "played_at": "27/10/2026 - 18:37:17"
+        },
         {
             "song_name": "f ur plans",
             "artists": [
@@ -1660,15 +1668,6 @@
             ],
             "album": "Missing U Again",
             "played_at": "23/10/2026 - 10:03:59"
-        },
-        {
-            "song_name": "I Care",
-            "artists": [
-                "PALASTIC",
-                "Youkii"
-            ],
-            "album": "I Care",
-            "played_at": "23/10/2026 - 10:00:37"
         }
     ]
 }

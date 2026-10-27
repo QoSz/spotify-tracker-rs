@@ -1,6 +1,38 @@
 {
-    "total_plays": 7094,
+    "total_plays": 7098,
     "tracks": [
+        {
+            "song_name": "f ur plans",
+            "artists": [
+                "Ninezz"
+            ],
+            "album": "f ur plans",
+            "played_at": "27/10/2026 - 18:22:43"
+        },
+        {
+            "song_name": "stop playing with my heart",
+            "artists": [
+                "kenu"
+            ],
+            "album": "stop playing with my heart",
+            "played_at": "27/10/2026 - 18:19:57"
+        },
+        {
+            "song_name": "Tell Me Why",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "Tell Me Why",
+            "played_at": "27/10/2026 - 18:17:20"
+        },
+        {
+            "song_name": "moving on",
+            "artists": [
+                "kalm"
+            ],
+            "album": "moving on",
+            "played_at": "27/10/2026 - 18:13:59"
+        },
         {
             "song_name": "moving on",
             "artists": [
@@ -1637,40 +1669,6 @@
             ],
             "album": "I Care",
             "played_at": "23/10/2026 - 10:00:37"
-        },
-        {
-            "song_name": "ALONE ALONE",
-            "artists": [
-                "excape."
-            ],
-            "album": "ALONE ALONE",
-            "played_at": "23/10/2026 - 09:58:00"
-        },
-        {
-            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-            "artists": [
-                "A$AP Rocky",
-                "Brent Faiyaz"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "23/10/2026 - 09:55:41"
-        },
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "23/10/2026 - 09:50:02"
-        },
-        {
-            "song_name": "Fever",
-            "artists": [
-                "heylucas",
-                "Nina Carr"
-            ],
-            "album": "Fever",
-            "played_at": "23/10/2026 - 09:47:06"
         }
     ]
 }

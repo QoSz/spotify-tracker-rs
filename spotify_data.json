@@ -1,6 +1,15 @@
 {
-    "total_plays": 7104,
+    "total_plays": 7105,
     "tracks": [
+        {
+            "song_name": "Look into My Eyes",
+            "artists": [
+                "Massane",
+                "Moglii"
+            ],
+            "album": "Look into My Eyes",
+            "played_at": "27/10/2026 - 20:14:13"
+        },
         {
             "song_name": "I Choose You (Night)",
             "artists": [
@@ -1661,14 +1670,6 @@
             ],
             "album": "it felt different",
             "played_at": "23/10/2026 - 10:19:49"
-        },
-        {
-            "song_name": "Still Live In That Summer",
-            "artists": [
-                "Panuma"
-            ],
-            "album": "Still Live In That Summer",
-            "played_at": "23/10/2026 - 10:16:16"
         }
     ]
 }

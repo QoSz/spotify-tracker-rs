@@ -1,6 +1,49 @@
 {
-    "total_plays": 7099,
+    "total_plays": 7104,
     "tracks": [
+        {
+            "song_name": "I Choose You (Night)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "27/10/2026 - 19:43:10"
+        },
+        {
+            "song_name": "Feeling (Hold On You) - heylucas Remix",
+            "artists": [
+                "Rules",
+                "MURPHY",
+                "heylucas"
+            ],
+            "album": "As Soon As I Get Home (EP Remixes)",
+            "played_at": "27/10/2026 - 19:41:12"
+        },
+        {
+            "song_name": "Snow on The Bluff",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Carefree, very",
+            "played_at": "27/10/2026 - 19:38:42"
+        },
+        {
+            "song_name": "I Just Wanna Feel Something",
+            "artists": [
+                "Lithe",
+                "pre kai ro"
+            ],
+            "album": "I Just Wanna Feel Something",
+            "played_at": "27/10/2026 - 19:35:43"
+        },
+        {
+            "song_name": "Spend The Night",
+            "artists": [
+                "Alex Adair"
+            ],
+            "album": "Spend The Night",
+            "played_at": "27/10/2026 - 19:33:02"
+        },
         {
             "song_name": "Spend The Night",
             "artists": [
@@ -1626,48 +1669,6 @@
             ],
             "album": "Still Live In That Summer",
             "played_at": "23/10/2026 - 10:16:16"
-        },
-        {
-            "song_name": "Into You",
-            "artists": [
-                "NORRA"
-            ],
-            "album": "Into You",
-            "played_at": "23/10/2026 - 10:14:06"
-        },
-        {
-            "song_name": "About You",
-            "artists": [
-                "Nohr",
-                "AMRAC"
-            ],
-            "album": "About You",
-            "played_at": "23/10/2026 - 10:11:36"
-        },
-        {
-            "song_name": "A New Day",
-            "artists": [
-                "Last Sun"
-            ],
-            "album": "A New Day",
-            "played_at": "23/10/2026 - 10:09:15"
-        },
-        {
-            "song_name": "Saviour",
-            "artists": [
-                "Palm Skies",
-                "Jamie McCool"
-            ],
-            "album": "Saviour",
-            "played_at": "23/10/2026 - 10:05:55"
-        },
-        {
-            "song_name": "Missing U Again",
-            "artists": [
-                "Diielex"
-            ],
-            "album": "Missing U Again",
-            "played_at": "23/10/2026 - 10:03:59"
         }
     ]
 }

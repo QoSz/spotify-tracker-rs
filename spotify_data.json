@@ -1,6 +1,22 @@
 {
-    "total_plays": 7110,
+    "total_plays": 7112,
     "tracks": [
+        {
+            "song_name": "didibruise",
+            "artists": [
+                "Solo Kei"
+            ],
+            "album": "didibruise",
+            "played_at": "28/10/2026 - 08:27:04"
+        },
+        {
+            "song_name": "Sunsick",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Sunsick",
+            "played_at": "28/10/2026 - 08:24:39"
+        },
         {
             "song_name": "GET A GRIP",
             "artists": [
@@ -1652,22 +1668,6 @@
             ],
             "album": "You're The Only Place I Need",
             "played_at": "23/10/2026 - 10:36:50"
-        },
-        {
-            "song_name": "we can't hide",
-            "artists": [
-                "Phil Odd"
-            ],
-            "album": "we can't hide",
-            "played_at": "23/10/2026 - 10:34:17"
-        },
-        {
-            "song_name": "Keep On Running",
-            "artists": [
-                "Mizmo"
-            ],
-            "album": "Keep On Running",
-            "played_at": "23/10/2026 - 10:32:06"
         }
     ]
 }

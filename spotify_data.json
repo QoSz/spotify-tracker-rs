@@ -1,6 +1,99 @@
 {
-    "total_plays": 7119,
+    "total_plays": 7130,
     "tracks": [
+        {
+            "song_name": "B's On The Table (feat. 21 Savage)",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "ICEMAN",
+            "played_at": "28/10/2026 - 12:08:37"
+        },
+        {
+            "song_name": "NOW OR NEVER",
+            "artists": [
+                "Tkandz",
+                "CXSPER"
+            ],
+            "album": "PRODIGY",
+            "played_at": "28/10/2026 - 11:57:58"
+        },
+        {
+            "song_name": "Are You Real?",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Are You Real?",
+            "played_at": "28/10/2026 - 11:56:02"
+        },
+        {
+            "song_name": "Take Me (To The Moon)",
+            "artists": [
+                "Ian Asher",
+                "D A N N Y"
+            ],
+            "album": "Take Me (To The Moon)",
+            "played_at": "28/10/2026 - 11:52:48"
+        },
+        {
+            "song_name": "TSU",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "28/10/2026 - 11:50:17"
+        },
+        {
+            "song_name": "RUNNING",
+            "artists": [
+                "ASK YOUR FRIENDS"
+            ],
+            "album": "SINCE '06",
+            "played_at": "28/10/2026 - 11:45:15"
+        },
+        {
+            "song_name": "SideLine Watching (Hold Up)",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "The Perfect LUV Tape",
+            "played_at": "28/10/2026 - 11:42:59"
+        },
+        {
+            "song_name": "De Ja With A View",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Evening Demos",
+            "played_at": "28/10/2026 - 11:39:55"
+        },
+        {
+            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
+            "artists": [
+                "ONEFOUR",
+                "Nemzzz",
+                "Segway"
+            ],
+            "album": "Look At Me Now",
+            "played_at": "28/10/2026 - 11:37:52"
+        },
+        {
+            "song_name": "Snow on The Bluff",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Carefree, very",
+            "played_at": "28/10/2026 - 11:35:17"
+        },
+        {
+            "song_name": "Metaphor",
+            "artists": [
+                "Marlon Funaki"
+            ],
+            "album": "Metaphor",
+            "played_at": "28/10/2026 - 09:48:26"
+        },
         {
             "song_name": "Sara's Got Big Plans",
             "artists": [
@@ -1576,98 +1669,6 @@
             ],
             "album": "One More Call",
             "played_at": "23/10/2026 - 11:43:17"
-        },
-        {
-            "song_name": "All I Feel",
-            "artists": [
-                "Hechmann",
-                "Mark Filip",
-                "solaene"
-            ],
-            "album": "All I Feel",
-            "played_at": "23/10/2026 - 11:40:41"
-        },
-        {
-            "song_name": "i need some space",
-            "artists": [
-                "Dimside"
-            ],
-            "album": "i need some space",
-            "played_at": "23/10/2026 - 11:38:09"
-        },
-        {
-            "song_name": "Slow Me Down",
-            "artists": [
-                "H:dn"
-            ],
-            "album": "Slow Me Down",
-            "played_at": "23/10/2026 - 11:35:41"
-        },
-        {
-            "song_name": "Soul Searching",
-            "artists": [
-                "LYOD"
-            ],
-            "album": "Soul Searching",
-            "played_at": "23/10/2026 - 11:33:08"
-        },
-        {
-            "song_name": "Love U - Extended Mix",
-            "artists": [
-                "NORRA"
-            ],
-            "album": "Love U",
-            "played_at": "23/10/2026 - 11:30:50"
-        },
-        {
-            "song_name": "Adoration",
-            "artists": [
-                "Jvson",
-                "LAMB CULTURE."
-            ],
-            "album": "Adoration",
-            "played_at": "23/10/2026 - 11:27:41"
-        },
-        {
-            "song_name": "Say My Name",
-            "artists": [
-                "Eyewitness"
-            ],
-            "album": "Say My Name",
-            "played_at": "23/10/2026 - 11:25:13"
-        },
-        {
-            "song_name": "I Could Call You",
-            "artists": [
-                "MYND"
-            ],
-            "album": "I Could Call You",
-            "played_at": "23/10/2026 - 11:23:14"
-        },
-        {
-            "song_name": "Home",
-            "artists": [
-                "Don Gianni"
-            ],
-            "album": "Home",
-            "played_at": "23/10/2026 - 11:21:08"
-        },
-        {
-            "song_name": "I Gotta Go (Merched)",
-            "artists": [
-                "GOBAITH"
-            ],
-            "album": "I Gotta Go (Merched)",
-            "played_at": "23/10/2026 - 11:18:17"
-        },
-        {
-            "song_name": "Echoes",
-            "artists": [
-                "Gavin Moss",
-                "RUSSI"
-            ],
-            "album": "Echoes",
-            "played_at": "23/10/2026 - 11:15:03"
         }
     ]
 }

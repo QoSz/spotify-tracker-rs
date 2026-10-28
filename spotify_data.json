@@ -1,6 +1,31 @@
 {
-    "total_plays": 7105,
+    "total_plays": 7108,
     "tracks": [
+        {
+            "song_name": "IMY2 (with Kid Cudi)",
+            "artists": [
+                "Drake",
+                "Kid Cudi"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "28/10/2026 - 07:13:18"
+        },
+        {
+            "song_name": "Denver",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Jackman.",
+            "played_at": "28/10/2026 - 07:05:14"
+        },
+        {
+            "song_name": "Snow on The Bluff",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Carefree, very",
+            "played_at": "28/10/2026 - 07:02:42"
+        },
         {
             "song_name": "Look into My Eyes",
             "artists": [
@@ -1644,32 +1669,6 @@
             ],
             "album": "Bis Der Himmel Leiser Wird",
             "played_at": "23/10/2026 - 10:27:30"
-        },
-        {
-            "song_name": "Do You Even Know",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Running",
-            "played_at": "23/10/2026 - 10:25:18"
-        },
-        {
-            "song_name": "De Ja With A View",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Evening Demos",
-            "played_at": "23/10/2026 - 10:21:51"
-        },
-        {
-            "song_name": "it felt different",
-            "artists": [
-                "heylucas",
-                "solaene",
-                "Monoko"
-            ],
-            "album": "it felt different",
-            "played_at": "23/10/2026 - 10:19:49"
         }
     ]
 }

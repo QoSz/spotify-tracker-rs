@@ -1,6 +1,62 @@
 {
-    "total_plays": 7112,
+    "total_plays": 7119,
     "tracks": [
+        {
+            "song_name": "Sara's Got Big Plans",
+            "artists": [
+                "Mo Lowda & the Humble"
+            ],
+            "album": "Tailing the Ghost",
+            "played_at": "28/10/2026 - 09:14:55"
+        },
+        {
+            "song_name": "Ghost",
+            "artists": [
+                "Easy Giant"
+            ],
+            "album": "Ghost",
+            "played_at": "28/10/2026 - 09:12:32"
+        },
+        {
+            "song_name": "i walk this earth all by myself",
+            "artists": [
+                "EKKSTACY"
+            ],
+            "album": "NEGATIVE",
+            "played_at": "28/10/2026 - 09:09:21"
+        },
+        {
+            "song_name": "Close My Eyes",
+            "artists": [
+                "RZGLD"
+            ],
+            "album": "The Fool",
+            "played_at": "28/10/2026 - 09:07:02"
+        },
+        {
+            "song_name": "TELL 'EM YOU'RE MINE",
+            "artists": [
+                "alan vuong"
+            ],
+            "album": "HEAVEN SENT ME",
+            "played_at": "28/10/2026 - 09:04:21"
+        },
+        {
+            "song_name": "Tongue-Tied Ecstasy",
+            "artists": [
+                "just Min"
+            ],
+            "album": "Tongue-Tied Ecstasy",
+            "played_at": "28/10/2026 - 09:01:49"
+        },
+        {
+            "song_name": "who’s your boyfriend",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "hickey",
+            "played_at": "28/10/2026 - 08:59:25"
+        },
         {
             "song_name": "didibruise",
             "artists": [
@@ -1612,62 +1668,6 @@
             ],
             "album": "Echoes",
             "played_at": "23/10/2026 - 11:15:03"
-        },
-        {
-            "song_name": "Brave",
-            "artists": [
-                "Texture"
-            ],
-            "album": "Brave",
-            "played_at": "23/10/2026 - 11:13:02"
-        },
-        {
-            "song_name": "Surfaces",
-            "artists": [
-                "HNE"
-            ],
-            "album": "Surfaces",
-            "played_at": "23/10/2026 - 11:10:35"
-        },
-        {
-            "song_name": "Thank You",
-            "artists": [
-                "H:dn"
-            ],
-            "album": "Thank You",
-            "played_at": "23/10/2026 - 11:07:36"
-        },
-        {
-            "song_name": "Go Around",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Running",
-            "played_at": "23/10/2026 - 10:46:04"
-        },
-        {
-            "song_name": "Jump",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Jump",
-            "played_at": "23/10/2026 - 10:43:37"
-        },
-        {
-            "song_name": "Tendencies",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Tendencies",
-            "played_at": "23/10/2026 - 10:38:43"
-        },
-        {
-            "song_name": "You're The Only Place I Need",
-            "artists": [
-                "NOVEMBER KID"
-            ],
-            "album": "You're The Only Place I Need",
-            "played_at": "23/10/2026 - 10:36:50"
         }
     ]
 }

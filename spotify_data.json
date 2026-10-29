@@ -1,6 +1,14 @@
 {
-    "total_plays": 7130,
+    "total_plays": 7131,
     "tracks": [
+        {
+            "song_name": "I GOT U",
+            "artists": [
+                "Moonkids"
+            ],
+            "album": "I GOT U",
+            "played_at": "29/10/2026 - 13:23:43"
+        },
         {
             "song_name": "B's On The Table (feat. 21 Savage)",
             "artists": [
@@ -1659,16 +1667,6 @@
             ],
             "album": "Missing U Again",
             "played_at": "23/10/2026 - 11:46:39"
-        },
-        {
-            "song_name": "One More Call",
-            "artists": [
-                "Lynnic",
-                "ItsArius",
-                "Dinia"
-            ],
-            "album": "One More Call",
-            "played_at": "23/10/2026 - 11:43:17"
         }
     ]
 }

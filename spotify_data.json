@@ -1,6 +1,126 @@
 {
-    "total_plays": 7131,
+    "total_plays": 7145,
     "tracks": [
+        {
+            "song_name": "Solar Eclipse (feat. Don Toliver)",
+            "artists": [
+                "Drake",
+                "Don Toliver"
+            ],
+            "album": "HABIBTI (FOMO)",
+            "played_at": "29/10/2026 - 14:00:18"
+        },
+        {
+            "song_name": "Slow Me Down",
+            "artists": [
+                "H:dn"
+            ],
+            "album": "Slow Me Down",
+            "played_at": "29/10/2026 - 13:58:37"
+        },
+        {
+            "song_name": "Now that i miss you",
+            "artists": [
+                "Edwardo Atlas",
+                "King Ky"
+            ],
+            "album": "Now that i miss you",
+            "played_at": "29/10/2026 - 13:56:05"
+        },
+        {
+            "song_name": "I Know Some Things",
+            "artists": [
+                "Pulyay",
+                "Marcel"
+            ],
+            "album": "I Know Some Things",
+            "played_at": "29/10/2026 - 13:53:25"
+        },
+        {
+            "song_name": "A MILLION",
+            "artists": [
+                "RUSSI",
+                "George Truly"
+            ],
+            "album": "A MILLION",
+            "played_at": "29/10/2026 - 13:50:57"
+        },
+        {
+            "song_name": "The World Slows Down",
+            "artists": [
+                "NOVEMBER KID"
+            ],
+            "album": "The World Slows Down",
+            "played_at": "29/10/2026 - 13:48:32"
+        },
+        {
+            "song_name": "Woods",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Circles",
+            "played_at": "29/10/2026 - 13:46:11"
+        },
+        {
+            "song_name": "Recognize",
+            "artists": [
+                "Russ",
+                "Jessy Blakemore"
+            ],
+            "album": "Recognize",
+            "played_at": "29/10/2026 - 13:41:32"
+        },
+        {
+            "song_name": "Stay - Sunset Remix",
+            "artists": [
+                "LYOD"
+            ],
+            "album": "Stay (Sunset Remix)",
+            "played_at": "29/10/2026 - 13:38:37"
+        },
+        {
+            "song_name": "Never Someone Like You",
+            "artists": [
+                "Why U So",
+                "Enginse"
+            ],
+            "album": "Never Someone Like You",
+            "played_at": "29/10/2026 - 13:35:59"
+        },
+        {
+            "song_name": "Ibiza",
+            "artists": [
+                "Ozara",
+                "Walk on Water"
+            ],
+            "album": "Ibiza",
+            "played_at": "29/10/2026 - 13:33:49"
+        },
+        {
+            "song_name": "This Dance",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "This Dance",
+            "played_at": "29/10/2026 - 13:31:17"
+        },
+        {
+            "song_name": "float",
+            "artists": [
+                "mike.",
+                "Stevie Daniels"
+            ],
+            "album": "float",
+            "played_at": "29/10/2026 - 13:28:51"
+        },
+        {
+            "song_name": "what it takes",
+            "artists": [
+                "Dizaro"
+            ],
+            "album": "what it takes",
+            "played_at": "29/10/2026 - 13:25:46"
+        },
         {
             "song_name": "I GOT U",
             "artists": [
@@ -1549,124 +1669,6 @@
             ],
             "album": "About You",
             "played_at": "23/10/2026 - 13:24:18"
-        },
-        {
-            "song_name": "I Care",
-            "artists": [
-                "PALASTIC",
-                "Youkii"
-            ],
-            "album": "I Care",
-            "played_at": "23/10/2026 - 13:21:57"
-        },
-        {
-            "song_name": "De Ja With A View",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Evening Demos",
-            "played_at": "23/10/2026 - 13:17:30"
-        },
-        {
-            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
-            "artists": [
-                "ONEFOUR",
-                "Nemzzz",
-                "Segway"
-            ],
-            "album": "Look At Me Now",
-            "played_at": "23/10/2026 - 13:15:27"
-        },
-        {
-            "song_name": "SideLine Watching (Hold Up)",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "The Perfect LUV Tape",
-            "played_at": "23/10/2026 - 12:34:56"
-        },
-        {
-            "song_name": "De Ja With A View",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Evening Demos",
-            "played_at": "23/10/2026 - 12:23:40"
-        },
-        {
-            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
-            "artists": [
-                "ONEFOUR",
-                "Nemzzz",
-                "Segway"
-            ],
-            "album": "Look At Me Now",
-            "played_at": "23/10/2026 - 12:21:37"
-        },
-        {
-            "song_name": "Snow on The Bluff",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Carefree, very",
-            "played_at": "23/10/2026 - 12:13:08"
-        },
-        {
-            "song_name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
-            "artists": [
-                "A$AP Rocky",
-                "Brent Faiyaz"
-            ],
-            "album": "Don't Be Dumb",
-            "played_at": "23/10/2026 - 12:10:06"
-        },
-        {
-            "song_name": "Soul Searching",
-            "artists": [
-                "LYOD"
-            ],
-            "album": "Soul Searching",
-            "played_at": "23/10/2026 - 12:00:21"
-        },
-        {
-            "song_name": "Say My Name",
-            "artists": [
-                "Eyewitness"
-            ],
-            "album": "Say My Name",
-            "played_at": "23/10/2026 - 11:58:03"
-        },
-        {
-            "song_name": "Jump",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Jump",
-            "played_at": "23/10/2026 - 11:56:04"
-        },
-        {
-            "song_name": "Back Of My Mind",
-            "artists": [
-                "Friends & I"
-            ],
-            "album": "Back Of My Mind",
-            "played_at": "23/10/2026 - 11:51:27"
-        },
-        {
-            "song_name": "Surfaces",
-            "artists": [
-                "HNE"
-            ],
-            "album": "Surfaces",
-            "played_at": "23/10/2026 - 11:49:38"
-        },
-        {
-            "song_name": "Missing U Again",
-            "artists": [
-                "Diielex"
-            ],
-            "album": "Missing U Again",
-            "played_at": "23/10/2026 - 11:46:39"
         }
     ]
 }

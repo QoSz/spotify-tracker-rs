@@ -1,6 +1,52 @@
 {
-    "total_plays": 7209,
+    "total_plays": 7214,
     "tracks": [
+        {
+            "song_name": "Nice To Meet You",
+            "artists": [
+                "Myles Smith"
+            ],
+            "album": "My Mess, My Heart, My Life.",
+            "played_at": "30/10/2026 - 19:45:20"
+        },
+        {
+            "song_name": "Move (feat. Camila Cabello & Malachiii)",
+            "artists": [
+                "Stryv",
+                "Camila Cabello",
+                "Malachiii",
+                "Adam Port",
+                "Keinemusik",
+                "Orso"
+            ],
+            "album": "Move (feat. Camila Cabello & Malachiii)",
+            "played_at": "30/10/2026 - 19:42:31"
+        },
+        {
+            "song_name": "End of Beginning",
+            "artists": [
+                "Djo"
+            ],
+            "album": "DECIDE",
+            "played_at": "30/10/2026 - 19:39:37"
+        },
+        {
+            "song_name": "Die With A Smile",
+            "artists": [
+                "Lady Gaga",
+                "Bruno Mars"
+            ],
+            "album": "MAYHEM",
+            "played_at": "30/10/2026 - 19:37:05"
+        },
+        {
+            "song_name": "WHERE IS MY HUSBAND!",
+            "artists": [
+                "RAYE"
+            ],
+            "album": "THIS MUSIC MAY CONTAIN HOPE.",
+            "played_at": "30/10/2026 - 19:33:00"
+        },
         {
             "song_name": "Just Keep Watching (From F1® The Movie)",
             "artists": [
@@ -1625,48 +1671,6 @@
             ],
             "album": "Say It in The Daylight",
             "played_at": "25/10/2026 - 11:30:42"
-        },
-        {
-            "song_name": "Only You",
-            "artists": [
-                "Lucas Estrada",
-                "Izzy Bizu"
-            ],
-            "album": "Only You",
-            "played_at": "25/10/2026 - 11:12:05"
-        },
-        {
-            "song_name": "Free",
-            "artists": [
-                "VisionV",
-                "Sara Phillips"
-            ],
-            "album": "Free",
-            "played_at": "25/10/2026 - 11:10:15"
-        },
-        {
-            "song_name": "Come Back To Me",
-            "artists": [
-                "Russ"
-            ],
-            "album": "Come Back To Me",
-            "played_at": "25/10/2026 - 11:07:37"
-        },
-        {
-            "song_name": "Hold On",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Hold On",
-            "played_at": "25/10/2026 - 11:04:37"
-        },
-        {
-            "song_name": "Back To The Start",
-            "artists": [
-                "BUNT."
-            ],
-            "album": "Levi Did It",
-            "played_at": "25/10/2026 - 11:01:43"
         }
     ]
 }

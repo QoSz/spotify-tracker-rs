@@ -1,6 +1,92 @@
 {
-    "total_plays": 7199,
+    "total_plays": 7209,
     "tracks": [
+        {
+            "song_name": "Just Keep Watching (From F1® The Movie)",
+            "artists": [
+                "Tate McRae",
+                "F1 The Album"
+            ],
+            "album": "Just Keep Watching (From F1® The Movie)",
+            "played_at": "30/10/2026 - 19:29:50"
+        },
+        {
+            "song_name": "Beauty And A Beat",
+            "artists": [
+                "Justin Bieber",
+                "Nicki Minaj"
+            ],
+            "album": "Believe",
+            "played_at": "30/10/2026 - 19:27:35"
+        },
+        {
+            "song_name": "Troubled Waters",
+            "artists": [
+                "Alex Warren"
+            ],
+            "album": "You'll Be Alright, Kid (Chapter 1)",
+            "played_at": "30/10/2026 - 19:23:54"
+        },
+        {
+            "song_name": "People",
+            "artists": [
+                "Libianca"
+            ],
+            "album": "People",
+            "played_at": "30/10/2026 - 19:20:43"
+        },
+        {
+            "song_name": "Headlights (feat. KIDDO)",
+            "artists": [
+                "Alok",
+                "Alan Walker",
+                "KIDDO"
+            ],
+            "album": "Headlights (feat. KIDDO)",
+            "played_at": "30/10/2026 - 19:17:45"
+        },
+        {
+            "song_name": "Messy",
+            "artists": [
+                "Lola Young"
+            ],
+            "album": "This Wasn't Meant For You Anyway",
+            "played_at": "30/10/2026 - 19:15:14"
+        },
+        {
+            "song_name": "Anxiety",
+            "artists": [
+                "Doechii"
+            ],
+            "album": "Alligator Bites Never Heal (Extended)",
+            "played_at": "30/10/2026 - 19:10:37"
+        },
+        {
+            "song_name": "back to friends",
+            "artists": [
+                "sombr"
+            ],
+            "album": "I Barely Know Her",
+            "played_at": "30/10/2026 - 19:06:34"
+        },
+        {
+            "song_name": "Rush",
+            "artists": [
+                "Ayra Starr"
+            ],
+            "album": "19 & Dangerous (Deluxe)",
+            "played_at": "30/10/2026 - 19:03:22"
+        },
+        {
+            "song_name": "Show Me Love (with Tyla)",
+            "artists": [
+                "WizTheMc",
+                "bees & honey",
+                "Tyla"
+            ],
+            "album": "Show Me Love (with Tyla)",
+            "played_at": "30/10/2026 - 19:00:24"
+        },
         {
             "song_name": "Too Sweet",
             "artists": [
@@ -1581,91 +1667,6 @@
             ],
             "album": "Levi Did It",
             "played_at": "25/10/2026 - 11:01:43"
-        },
-        {
-            "song_name": "Tu Hi Disda - Karwa Chauth 2026",
-            "artists": [
-                "Pritam",
-                "Arijit Singh",
-                "Nikhita Gandhi",
-                "Kumaar"
-            ],
-            "album": "Tu Hi Disda - Karwa Chauth 2026",
-            "played_at": "25/10/2026 - 10:54:26"
-        },
-        {
-            "song_name": "Don't Go",
-            "artists": [
-                "PLVTO"
-            ],
-            "album": "Don't Go",
-            "played_at": "25/10/2026 - 10:53:08"
-        },
-        {
-            "song_name": "Brave",
-            "artists": [
-                "Texture"
-            ],
-            "album": "Brave",
-            "played_at": "25/10/2026 - 10:50:45"
-        },
-        {
-            "song_name": "Trust",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Trust",
-            "played_at": "25/10/2026 - 10:48:19"
-        },
-        {
-            "song_name": "Feels So Good",
-            "artists": [
-                "Lonelysoul."
-            ],
-            "album": "Feels So Good",
-            "played_at": "25/10/2026 - 10:43:32"
-        },
-        {
-            "song_name": "places",
-            "artists": [
-                "kenu"
-            ],
-            "album": "places",
-            "played_at": "25/10/2026 - 10:40:58"
-        },
-        {
-            "song_name": "Juggin (feat. Blanco & Finesse Kid)",
-            "artists": [
-                "Chase & Status",
-                "Blanco",
-                "Finessekid"
-            ],
-            "album": "Generic Everything",
-            "played_at": "25/10/2026 - 10:38:32"
-        },
-        {
-            "song_name": "Mercer Hotel",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Mercer Hotel",
-            "played_at": "25/10/2026 - 10:35:51"
-        },
-        {
-            "song_name": "Lean On - Chill Mix",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Lean On (Chill Mix)",
-            "played_at": "25/10/2026 - 10:24:29"
-        },
-        {
-            "song_name": "WANT SMOKE",
-            "artists": [
-                "Matt Corman"
-            ],
-            "album": "WANT SMOKE",
-            "played_at": "25/10/2026 - 10:21:53"
         }
     ]
 }

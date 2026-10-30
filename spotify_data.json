@@ -1,6 +1,75 @@
 {
-    "total_plays": 7191,
+    "total_plays": 7199,
     "tracks": [
+        {
+            "song_name": "Too Sweet",
+            "artists": [
+                "Hozier"
+            ],
+            "album": "Unreal Unearth: Unaired",
+            "played_at": "30/10/2026 - 18:57:34"
+        },
+        {
+            "song_name": "her",
+            "artists": [
+                "JVKE"
+            ],
+            "album": "her",
+            "played_at": "30/10/2026 - 18:53:07"
+        },
+        {
+            "song_name": "Training Season",
+            "artists": [
+                "Dua Lipa"
+            ],
+            "album": "Radical Optimism",
+            "played_at": "30/10/2026 - 18:50:23"
+        },
+        {
+            "song_name": "Mi Chico - Official - Jason Derulo x Melody",
+            "artists": [
+                "DJ Goja",
+                "Jason Derulo",
+                "Melody"
+            ],
+            "album": "Mi Chico (Official - Jason Derulo x Melody)",
+            "played_at": "30/10/2026 - 18:47:00"
+        },
+        {
+            "song_name": "Lose Control",
+            "artists": [
+                "Teddy Swims"
+            ],
+            "album": "I've Tried Everything But Therapy (Part 1)",
+            "played_at": "30/10/2026 - 18:45:02"
+        },
+        {
+            "song_name": "Royalty",
+            "artists": [
+                "Egzod",
+                "Maestro Chives",
+                "Neoni"
+            ],
+            "album": "Royalty",
+            "played_at": "30/10/2026 - 18:41:38"
+        },
+        {
+            "song_name": "For My Hand (feat. Ed Sheeran)",
+            "artists": [
+                "Burna Boy",
+                "Ed Sheeran"
+            ],
+            "album": "Love, Damini",
+            "played_at": "30/10/2026 - 18:38:02"
+        },
+        {
+            "song_name": "Messy",
+            "artists": [
+                "Lola Young"
+            ],
+            "album": "This Wasn't Meant For You Anyway",
+            "played_at": "30/10/2026 - 18:31:20"
+        },
         {
             "song_name": "That’s So True",
             "artists": [
@@ -1597,76 +1666,6 @@
             ],
             "album": "WANT SMOKE",
             "played_at": "25/10/2026 - 10:21:53"
-        },
-        {
-            "song_name": "better when you're home",
-            "artists": [
-                "abelon",
-                "Levelle London"
-            ],
-            "album": "better when you're home",
-            "played_at": "25/10/2026 - 10:19:50"
-        },
-        {
-            "song_name": "find you once",
-            "artists": [
-                "kalm"
-            ],
-            "album": "another lifetime",
-            "played_at": "25/10/2026 - 10:17:11"
-        },
-        {
-            "song_name": "You're Mine",
-            "artists": [
-                "GOBAITH"
-            ],
-            "album": "You're Mine",
-            "played_at": "25/10/2026 - 10:13:23"
-        },
-        {
-            "song_name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
-            "artists": [
-                "Victony",
-                "Don Toliver",
-                "Summer Walker"
-            ],
-            "album": "SLICK Remix (feat. Don Toliver & Summer Walker)",
-            "played_at": "25/10/2026 - 10:11:11"
-        },
-        {
-            "song_name": "From Your Eyes",
-            "artists": [
-                "BUNT.",
-                "Damzz"
-            ],
-            "album": "Levi Did It",
-            "played_at": "25/10/2026 - 10:08:38"
-        },
-        {
-            "song_name": "Free My Mind",
-            "artists": [
-                "RUSSI",
-                "ZILO"
-            ],
-            "album": "Free My Mind",
-            "played_at": "25/10/2026 - 00:16:28"
-        },
-        {
-            "song_name": "Ibiza",
-            "artists": [
-                "Ozara",
-                "Walk on Water"
-            ],
-            "album": "Ibiza",
-            "played_at": "25/10/2026 - 00:02:52"
-        },
-        {
-            "song_name": "Moments",
-            "artists": [
-                "NM"
-            ],
-            "album": "Moments",
-            "played_at": "25/10/2026 - 00:00:20"
         }
     ]
 }

@@ -1,6 +1,247 @@
 {
-    "total_plays": 7145,
+    "total_plays": 7174,
     "tracks": [
+        {
+            "song_name": "16always",
+            "artists": [
+                "Jonah Zed"
+            ],
+            "album": "LOVEWONTWAIT",
+            "played_at": "29/10/2026 - 23:14:48"
+        },
+        {
+            "song_name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+            "artists": [
+                "Drake",
+                "Don Toliver",
+                "Yebba"
+            ],
+            "album": "HABIBTI (FOMO)",
+            "played_at": "29/10/2026 - 23:12:01"
+        },
+        {
+            "song_name": "Something Just Like This",
+            "artists": [
+                "The Chainsmokers",
+                "Coldplay"
+            ],
+            "album": "Memories...Do Not Open",
+            "played_at": "29/10/2026 - 23:08:13"
+        },
+        {
+            "song_name": "You Didn't Know Any Better",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "From Me To You Pack",
+            "played_at": "29/10/2026 - 23:04:13"
+        },
+        {
+            "song_name": "SKIES R BLUE",
+            "artists": [
+                "Evening Elephants"
+            ],
+            "album": "Evening Demos",
+            "played_at": "29/10/2026 - 23:01:50"
+        },
+        {
+            "song_name": "Ripple",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality",
+            "played_at": "29/10/2026 - 23:00:02"
+        },
+        {
+            "song_name": "Tendencies",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Tendencies",
+            "played_at": "29/10/2026 - 22:57:28"
+        },
+        {
+            "song_name": "better when you're home",
+            "artists": [
+                "abelon",
+                "Levelle London"
+            ],
+            "album": "better when you're home",
+            "played_at": "29/10/2026 - 22:55:35"
+        },
+        {
+            "song_name": "wildfire",
+            "artists": [
+                "origins"
+            ],
+            "album": "wildfire",
+            "played_at": "29/10/2026 - 22:52:56"
+        },
+        {
+            "song_name": "lovegoneby",
+            "artists": [
+                "Jonah Zed"
+            ],
+            "album": "LOVEGONEBY",
+            "played_at": "29/10/2026 - 22:49:43"
+        },
+        {
+            "song_name": "Home",
+            "artists": [
+                "Don Gianni"
+            ],
+            "album": "Home",
+            "played_at": "29/10/2026 - 22:46:52"
+        },
+        {
+            "song_name": "Now I Know You",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Where Are You Going?",
+            "played_at": "29/10/2026 - 22:44:01"
+        },
+        {
+            "song_name": "Gory Love",
+            "artists": [
+                "Calabasas"
+            ],
+            "album": "Gory Love",
+            "played_at": "29/10/2026 - 22:40:35"
+        },
+        {
+            "song_name": "Go Crazy",
+            "artists": [
+                "Chris Brown",
+                "Young Thug"
+            ],
+            "album": "Slime & B",
+            "played_at": "29/10/2026 - 22:38:26"
+        },
+        {
+            "song_name": "Something I Need",
+            "artists": [
+                "Offset"
+            ],
+            "album": "Something I Need",
+            "played_at": "29/10/2026 - 22:35:36"
+        },
+        {
+            "song_name": "Lean On - Chill Mix",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Lean On (Chill Mix)",
+            "played_at": "29/10/2026 - 22:33:18"
+        },
+        {
+            "song_name": "The One That You Call",
+            "artists": [
+                "Mackenzy Mackay"
+            ],
+            "album": "The One That You Call",
+            "played_at": "29/10/2026 - 22:30:41"
+        },
+        {
+            "song_name": "Good Enough",
+            "artists": [
+                "Bronze Whale"
+            ],
+            "album": "Good Enough",
+            "played_at": "29/10/2026 - 22:28:58"
+        },
+        {
+            "song_name": "If I Ever Talk To God",
+            "artists": [
+                "Landon Barker"
+            ],
+            "album": "If I Ever Talk To God",
+            "played_at": "29/10/2026 - 22:25:31"
+        },
+        {
+            "song_name": "Tinted",
+            "artists": [
+                "N.D.A.Y.I."
+            ],
+            "album": "Tinted",
+            "played_at": "29/10/2026 - 22:22:58"
+        },
+        {
+            "song_name": "Waiting All My Life",
+            "artists": [
+                "JLV"
+            ],
+            "album": "Waiting All My Life",
+            "played_at": "29/10/2026 - 22:19:39"
+        },
+        {
+            "song_name": "Hesitate - Reimagined",
+            "artists": [
+                "Meltt",
+                "Bayonne",
+                "New Constellations"
+            ],
+            "album": "Hesitate (Reimagined)",
+            "played_at": "29/10/2026 - 22:16:32"
+        },
+        {
+            "song_name": "Sex & Drugs",
+            "artists": [
+                "Temper City"
+            ],
+            "album": "Sex & Drugs",
+            "played_at": "29/10/2026 - 22:13:02"
+        },
+        {
+            "song_name": "why they care",
+            "artists": [
+                "Mosaé"
+            ],
+            "album": "why they care",
+            "played_at": "29/10/2026 - 22:09:54"
+        },
+        {
+            "song_name": "Switch",
+            "artists": [
+                "6LACK"
+            ],
+            "album": "East Atlanta Love Letter",
+            "played_at": "29/10/2026 - 22:07:09"
+        },
+        {
+            "song_name": "The Unknown",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "The Unknown",
+            "played_at": "29/10/2026 - 22:03:49"
+        },
+        {
+            "song_name": "No Gravity",
+            "artists": [
+                "Toby Rose",
+                "Manaar"
+            ],
+            "album": "No Gravity",
+            "played_at": "29/10/2026 - 22:00:44"
+        },
+        {
+            "song_name": "Hello (The Sun Is Up Where Are You)",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "Hello (The Sun Is Up Where Are You)",
+            "played_at": "29/10/2026 - 21:58:40"
+        },
+        {
+            "song_name": "Solar Eclipse (feat. Don Toliver)",
+            "artists": [
+                "Drake",
+                "Don Toliver"
+            ],
+            "album": "HABIBTI (FOMO)",
+            "played_at": "29/10/2026 - 21:55:35"
+        },
         {
             "song_name": "Solar Eclipse (feat. Don Toliver)",
             "artists": [
@@ -1426,249 +1667,6 @@
             ],
             "album": "feel",
             "played_at": "24/10/2026 - 18:12:09"
-        },
-        {
-            "song_name": "the cure",
-            "artists": [
-                "Olivia Rodrigo"
-            ],
-            "album": "the cure",
-            "played_at": "24/10/2026 - 18:09:38"
-        },
-        {
-            "song_name": "Aperture",
-            "artists": [
-                "Harry Styles"
-            ],
-            "album": "Aperture",
-            "played_at": "24/10/2026 - 18:04:47"
-        },
-        {
-            "song_name": "Free Your Mind",
-            "artists": [
-                "Prospa",
-                "Cloonee",
-                "Sybil"
-            ],
-            "album": "Free Your Mind",
-            "played_at": "24/10/2026 - 17:59:43"
-        },
-        {
-            "song_name": "No Broke Boys",
-            "artists": [
-                "Disco Lines",
-                "Tinashe"
-            ],
-            "album": "No Broke Boys",
-            "played_at": "24/10/2026 - 17:56:28"
-        },
-        {
-            "song_name": "stupid song",
-            "artists": [
-                "Olivia Rodrigo"
-            ],
-            "album": "you seem pretty sad for a girl so in love",
-            "played_at": "24/10/2026 - 17:53:51"
-        },
-        {
-            "song_name": "Go Around",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Running",
-            "played_at": "23/10/2026 - 15:11:11"
-        },
-        {
-            "song_name": "Home",
-            "artists": [
-                "Don Gianni"
-            ],
-            "album": "Home",
-            "played_at": "23/10/2026 - 14:29:27"
-        },
-        {
-            "song_name": "All I Feel",
-            "artists": [
-                "Hechmann",
-                "Mark Filip",
-                "solaene"
-            ],
-            "album": "All I Feel",
-            "played_at": "23/10/2026 - 14:26:37"
-        },
-        {
-            "song_name": "Favorite Place - Slowed",
-            "artists": [
-                "Ryan Reed"
-            ],
-            "album": "Favorite Place",
-            "played_at": "23/10/2026 - 14:24:05"
-        },
-        {
-            "song_name": "Inwood Hill Park",
-            "artists": [
-                "6LACK"
-            ],
-            "album": "Since I Have A Lover",
-            "played_at": "23/10/2026 - 14:21:24"
-        },
-        {
-            "song_name": "Rhythm Of Life",
-            "artists": [
-                "Gavin Moss"
-            ],
-            "album": "Rhythm Of Life",
-            "played_at": "23/10/2026 - 14:18:21"
-        },
-        {
-            "song_name": "Keep On Running",
-            "artists": [
-                "Mizmo"
-            ],
-            "album": "Keep On Running",
-            "played_at": "23/10/2026 - 14:16:06"
-        },
-        {
-            "song_name": "Surfaces",
-            "artists": [
-                "HNE"
-            ],
-            "album": "Surfaces",
-            "played_at": "23/10/2026 - 14:13:45"
-        },
-        {
-            "song_name": "World on Fire",
-            "artists": [
-                "Keanler"
-            ],
-            "album": "World on Fire",
-            "played_at": "23/10/2026 - 14:10:46"
-        },
-        {
-            "song_name": "Still Live In That Summer",
-            "artists": [
-                "Panuma"
-            ],
-            "album": "Still Live In That Summer",
-            "played_at": "23/10/2026 - 14:07:56"
-        },
-        {
-            "song_name": "wildfire",
-            "artists": [
-                "origins"
-            ],
-            "album": "wildfire",
-            "played_at": "23/10/2026 - 14:05:46"
-        },
-        {
-            "song_name": "side by side",
-            "artists": [
-                "drill clinton"
-            ],
-            "album": "u get me.",
-            "played_at": "23/10/2026 - 14:02:33"
-        },
-        {
-            "song_name": "Ocean Eyes",
-            "artists": [
-                "EleVen"
-            ],
-            "album": "Ocean Eyes",
-            "played_at": "23/10/2026 - 13:58:53"
-        },
-        {
-            "song_name": "Adoration",
-            "artists": [
-                "Jvson",
-                "LAMB CULTURE."
-            ],
-            "album": "Adoration",
-            "played_at": "23/10/2026 - 13:55:41"
-        },
-        {
-            "song_name": "Whisper My Name",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "23/10/2026 - 13:53:13"
-        },
-        {
-            "song_name": "Cold Shoulder (feat. Don Toliver & Yebba)",
-            "artists": [
-                "Drake",
-                "Don Toliver",
-                "Yebba"
-            ],
-            "album": "HABIBTI (FOMO)",
-            "played_at": "23/10/2026 - 13:45:13"
-        },
-        {
-            "song_name": "You're The Only Place I Need",
-            "artists": [
-                "NOVEMBER KID"
-            ],
-            "album": "You're The Only Place I Need",
-            "played_at": "23/10/2026 - 13:41:25"
-        },
-        {
-            "song_name": "I Could Call You",
-            "artists": [
-                "MYND"
-            ],
-            "album": "I Could Call You",
-            "played_at": "23/10/2026 - 13:38:52"
-        },
-        {
-            "song_name": "ALONE ALONE",
-            "artists": [
-                "excape."
-            ],
-            "album": "ALONE ALONE",
-            "played_at": "23/10/2026 - 13:36:45"
-        },
-        {
-            "song_name": "Eachother",
-            "artists": [
-                "PLVTO"
-            ],
-            "album": "Eachother",
-            "played_at": "23/10/2026 - 13:34:27"
-        },
-        {
-            "song_name": "Bis Der Himmel Leiser Wird",
-            "artists": [
-                "NOVEMBER KID",
-                "Anna Grey"
-            ],
-            "album": "Bis Der Himmel Leiser Wird",
-            "played_at": "23/10/2026 - 13:31:51"
-        },
-        {
-            "song_name": "Echoes",
-            "artists": [
-                "Gavin Moss",
-                "RUSSI"
-            ],
-            "album": "Echoes",
-            "played_at": "23/10/2026 - 13:29:38"
-        },
-        {
-            "song_name": "A New Day",
-            "artists": [
-                "Last Sun"
-            ],
-            "album": "A New Day",
-            "played_at": "23/10/2026 - 13:27:37"
-        },
-        {
-            "song_name": "About You",
-            "artists": [
-                "Nohr",
-                "AMRAC"
-            ],
-            "album": "About You",
-            "played_at": "23/10/2026 - 13:24:18"
         }
     ]
 }

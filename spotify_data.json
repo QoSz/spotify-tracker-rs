@@ -1,6 +1,63 @@
 {
-    "total_plays": 7176,
+    "total_plays": 7183,
     "tracks": [
+        {
+            "song_name": "Great Expectation",
+            "artists": [
+                "SIENNA SPIRO"
+            ],
+            "album": "Visitor",
+            "played_at": "30/10/2026 - 17:56:43"
+        },
+        {
+            "song_name": "Nicole Kidman",
+            "artists": [
+                "ADÉLA"
+            ],
+            "album": "PRIMA",
+            "played_at": "30/10/2026 - 17:53:56"
+        },
+        {
+            "song_name": "Man I Need",
+            "artists": [
+                "Olivia Dean"
+            ],
+            "album": "Man I Need",
+            "played_at": "30/10/2026 - 17:50:11"
+        },
+        {
+            "song_name": "Rein Me In (with Olivia Dean)",
+            "artists": [
+                "Sam Fender",
+                "Olivia Dean"
+            ],
+            "album": "People Watching (Deluxe Edition)",
+            "played_at": "30/10/2026 - 17:47:14"
+        },
+        {
+            "song_name": "Stop The Wedding!",
+            "artists": [
+                "Ashe"
+            ],
+            "album": "The Girl Of Your Dreams",
+            "played_at": "30/10/2026 - 17:41:41"
+        },
+        {
+            "song_name": "Housewife",
+            "artists": [
+                "Tate McRae"
+            ],
+            "album": "Housewife",
+            "played_at": "30/10/2026 - 17:38:29"
+        },
+        {
+            "song_name": "Babydoll",
+            "artists": [
+                "Jamie Miller"
+            ],
+            "album": "Babydoll",
+            "played_at": "30/10/2026 - 17:35:07"
+        },
         {
             "song_name": "Lonely",
             "artists": [
@@ -1610,62 +1667,6 @@
             ],
             "album": "Where Are You Going?",
             "played_at": "24/10/2026 - 23:37:35"
-        },
-        {
-            "song_name": "Choosin' Texas",
-            "artists": [
-                "Ella Langley"
-            ],
-            "album": "Choosin' Texas",
-            "played_at": "24/10/2026 - 23:21:24"
-        },
-        {
-            "song_name": "Jealous Type",
-            "artists": [
-                "Doja Cat"
-            ],
-            "album": "Jealous Type",
-            "played_at": "24/10/2026 - 23:16:07"
-        },
-        {
-            "song_name": "Loser",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "Deadbeat",
-            "played_at": "24/10/2026 - 23:13:30"
-        },
-        {
-            "song_name": "Love Me Not",
-            "artists": [
-                "Ravyn Lenae"
-            ],
-            "album": "Bird's Eye",
-            "played_at": "24/10/2026 - 23:09:54"
-        },
-        {
-            "song_name": "BIRDS OF A FEATHER",
-            "artists": [
-                "Billie Eilish"
-            ],
-            "album": "HIT ME HARD AND SOFT",
-            "played_at": "24/10/2026 - 23:06:14"
-        },
-        {
-            "song_name": "iloveitiloveitiloveit",
-            "artists": [
-                "Bella Kay"
-            ],
-            "album": "iloveitiloveitiloveit",
-            "played_at": "24/10/2026 - 23:02:50"
-        },
-        {
-            "song_name": "iloveitiloveitiloveit",
-            "artists": [
-                "Bella Kay"
-            ],
-            "album": "iloveitiloveitiloveit",
-            "played_at": "24/10/2026 - 18:36:16"
         }
     ]
 }

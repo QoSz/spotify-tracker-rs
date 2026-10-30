@@ -1,6 +1,70 @@
 {
-    "total_plays": 7183,
+    "total_plays": 7191,
     "tracks": [
+        {
+            "song_name": "That’s So True",
+            "artists": [
+                "Gracie Abrams"
+            ],
+            "album": "The Secret of Us (Deluxe)",
+            "played_at": "30/10/2026 - 18:26:43"
+        },
+        {
+            "song_name": "End of Beginning",
+            "artists": [
+                "Djo"
+            ],
+            "album": "DECIDE",
+            "played_at": "30/10/2026 - 18:24:04"
+        },
+        {
+            "song_name": "Hurts So Good",
+            "artists": [
+                "Astrid S"
+            ],
+            "album": "Leave It Beautiful (Complete)",
+            "played_at": "30/10/2026 - 18:21:32"
+        },
+        {
+            "song_name": "Sailor Song",
+            "artists": [
+                "Gigi Perez"
+            ],
+            "album": "At The Beach, In Every Life",
+            "played_at": "30/10/2026 - 18:18:10"
+        },
+        {
+            "song_name": "Too Sweet",
+            "artists": [
+                "Hozier"
+            ],
+            "album": "Unreal Unearth: Unaired",
+            "played_at": "30/10/2026 - 18:14:45"
+        },
+        {
+            "song_name": "Slow It Down",
+            "artists": [
+                "Benson Boone"
+            ],
+            "album": "Fireworks & Rollerblades",
+            "played_at": "30/10/2026 - 18:10:41"
+        },
+        {
+            "song_name": "the cure",
+            "artists": [
+                "Olivia Rodrigo"
+            ],
+            "album": "you seem pretty sad for a girl so in love",
+            "played_at": "30/10/2026 - 18:05:18"
+        },
+        {
+            "song_name": "Choosin' Texas",
+            "artists": [
+                "Ella Langley"
+            ],
+            "album": "Dandelion",
+            "played_at": "30/10/2026 - 18:00:28"
+        },
         {
             "song_name": "Great Expectation",
             "artists": [
@@ -1603,70 +1667,6 @@
             ],
             "album": "Moments",
             "played_at": "25/10/2026 - 00:00:20"
-        },
-        {
-            "song_name": "all of me",
-            "artists": [
-                "butter"
-            ],
-            "album": "all of me",
-            "played_at": "24/10/2026 - 23:58:08"
-        },
-        {
-            "song_name": "Running",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Running",
-            "played_at": "24/10/2026 - 23:56:14"
-        },
-        {
-            "song_name": "Lonely",
-            "artists": [
-                "George Truly"
-            ],
-            "album": "Lonely",
-            "played_at": "24/10/2026 - 23:51:59"
-        },
-        {
-            "song_name": "5am in Paris",
-            "artists": [
-                "Mckay"
-            ],
-            "album": "5am in Paris",
-            "played_at": "24/10/2026 - 23:49:19"
-        },
-        {
-            "song_name": "Starry Eyed",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Blue Sky Mentality",
-            "played_at": "24/10/2026 - 23:46:11"
-        },
-        {
-            "song_name": "2013",
-            "artists": [
-                "Billy Sharp"
-            ],
-            "album": "Rose Tint",
-            "played_at": "24/10/2026 - 23:44:01"
-        },
-        {
-            "song_name": "Succubus",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Succubus",
-            "played_at": "24/10/2026 - 23:39:55"
-        },
-        {
-            "song_name": "Now I Know You",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Where Are You Going?",
-            "played_at": "24/10/2026 - 23:37:35"
         }
     ]
 }

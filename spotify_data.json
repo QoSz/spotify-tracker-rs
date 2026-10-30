@@ -1,6 +1,14 @@
 {
-    "total_plays": 7175,
+    "total_plays": 7176,
     "tracks": [
+        {
+            "song_name": "Lonely",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "Lonely",
+            "played_at": "30/10/2026 - 09:08:43"
+        },
         {
             "song_name": "Lonely",
             "artists": [
@@ -1658,14 +1666,6 @@
             ],
             "album": "iloveitiloveitiloveit",
             "played_at": "24/10/2026 - 18:36:16"
-        },
-        {
-            "song_name": "iloveitiloveitiloveit",
-            "artists": [
-                "Bella Kay"
-            ],
-            "album": "iloveitiloveitiloveit",
-            "played_at": "24/10/2026 - 18:15:05"
         }
     ]
 }

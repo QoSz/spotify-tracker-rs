@@ -1,6 +1,14 @@
 {
-    "total_plays": 7174,
+    "total_plays": 7175,
     "tracks": [
+        {
+            "song_name": "Lonely",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "Lonely",
+            "played_at": "30/10/2026 - 00:10:45"
+        },
         {
             "song_name": "16always",
             "artists": [
@@ -1658,15 +1666,6 @@
             ],
             "album": "iloveitiloveitiloveit",
             "played_at": "24/10/2026 - 18:15:05"
-        },
-        {
-            "song_name": "i think i'm addicted",
-            "artists": [
-                "oskar med k",
-                "Haley Joelle"
-            ],
-            "album": "feel",
-            "played_at": "24/10/2026 - 18:12:09"
         }
     ]
 }

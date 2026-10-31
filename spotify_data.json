@@ -1,6 +1,16 @@
 {
-    "total_plays": 7214,
+    "total_plays": 7215,
     "tracks": [
+        {
+            "song_name": "Papaoutai - Afro Soul",
+            "artists": [
+                "mikeeysmind",
+                "Chill77",
+                "Unjaps"
+            ],
+            "album": "Papaoutai (Afro Soul)",
+            "played_at": "30/10/2026 - 19:59:11"
+        },
         {
             "song_name": "Nice To Meet You",
             "artists": [
@@ -1663,14 +1673,6 @@
             ],
             "album": "No Gravity",
             "played_at": "25/10/2026 - 12:16:35"
-        },
-        {
-            "song_name": "Say It in The Daylight",
-            "artists": [
-                "4Rain"
-            ],
-            "album": "Say It in The Daylight",
-            "played_at": "25/10/2026 - 11:30:42"
         }
     ]
 }

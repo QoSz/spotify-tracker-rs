@@ -1,6 +1,134 @@
 {
-    "total_plays": 7215,
+    "total_plays": 7231,
     "tracks": [
+        {
+            "song_name": "Searching",
+            "artists": [
+                "Pallas Haze"
+            ],
+            "album": "Searching",
+            "played_at": "31/10/2026 - 18:33:32"
+        },
+        {
+            "song_name": "Dance It Out",
+            "artists": [
+                "Zimmer90"
+            ],
+            "album": "Endless Summer",
+            "played_at": "31/10/2026 - 18:27:12"
+        },
+        {
+            "song_name": "car",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "hickey",
+            "played_at": "31/10/2026 - 18:24:05"
+        },
+        {
+            "song_name": "TELL 'EM YOU'RE MINE",
+            "artists": [
+                "alan vuong"
+            ],
+            "album": "HEAVEN SENT ME",
+            "played_at": "31/10/2026 - 18:20:54"
+        },
+        {
+            "song_name": "ONLY U",
+            "artists": [
+                "Newport"
+            ],
+            "album": "ONLY U",
+            "played_at": "31/10/2026 - 18:18:22"
+        },
+        {
+            "song_name": "Headlights",
+            "artists": [
+                "In Color"
+            ],
+            "album": "Headlights",
+            "played_at": "31/10/2026 - 18:14:48"
+        },
+        {
+            "song_name": "Feeling Good",
+            "artists": [
+                "SUPER-Hi"
+            ],
+            "album": "Feeling Good",
+            "played_at": "31/10/2026 - 18:12:05"
+        },
+        {
+            "song_name": "Catacombs",
+            "artists": [
+                "Krooked Kings"
+            ],
+            "album": "Shiver",
+            "played_at": "31/10/2026 - 18:08:42"
+        },
+        {
+            "song_name": "Your Number",
+            "artists": [
+                "thebandfriday"
+            ],
+            "album": "Take Flight",
+            "played_at": "31/10/2026 - 18:05:52"
+        },
+        {
+            "song_name": "Jungle",
+            "artists": [
+                "Somebody's Child"
+            ],
+            "album": "Jungle",
+            "played_at": "31/10/2026 - 18:02:04"
+        },
+        {
+            "song_name": "Firebird",
+            "artists": [
+                "Common Saints"
+            ],
+            "album": "Firebird",
+            "played_at": "31/10/2026 - 15:22:39"
+        },
+        {
+            "song_name": "20 Missed Calls",
+            "artists": [
+                "Billy Sharp"
+            ],
+            "album": "20 Missed Calls",
+            "played_at": "31/10/2026 - 15:11:07"
+        },
+        {
+            "song_name": "Daydream",
+            "artists": [
+                "Will Swinton"
+            ],
+            "album": "Daydream",
+            "played_at": "31/10/2026 - 15:08:07"
+        },
+        {
+            "song_name": "Memory Loss",
+            "artists": [
+                "Krooked Kings"
+            ],
+            "album": "Shiver",
+            "played_at": "31/10/2026 - 15:05:29"
+        },
+        {
+            "song_name": "Driver",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Driver",
+            "played_at": "31/10/2026 - 15:02:05"
+        },
+        {
+            "song_name": "All This Waiting",
+            "artists": [
+                "Wakely"
+            ],
+            "album": "Kind Eyes",
+            "played_at": "31/10/2026 - 14:59:26"
+        },
         {
             "song_name": "Papaoutai - Afro Soul",
             "artists": [
@@ -1536,143 +1664,6 @@
             ],
             "album": "Lean On (Chill Mix)",
             "played_at": "25/10/2026 - 15:49:28"
-        },
-        {
-            "song_name": "Only You",
-            "artists": [
-                "Lucas Estrada",
-                "Izzy Bizu"
-            ],
-            "album": "Only You",
-            "played_at": "25/10/2026 - 15:46:52"
-        },
-        {
-            "song_name": "Say It in The Daylight",
-            "artists": [
-                "4Rain"
-            ],
-            "album": "Say It in The Daylight",
-            "played_at": "25/10/2026 - 15:45:01"
-        },
-        {
-            "song_name": "Back To The Start",
-            "artists": [
-                "BUNT."
-            ],
-            "album": "Levi Did It",
-            "played_at": "25/10/2026 - 15:42:56"
-        },
-        {
-            "song_name": "Hold On",
-            "artists": [
-                "Lavern"
-            ],
-            "album": "Hold On",
-            "played_at": "25/10/2026 - 15:29:53"
-        },
-        {
-            "song_name": "Juggin (feat. Blanco & Finesse Kid)",
-            "artists": [
-                "Chase & Status",
-                "Blanco",
-                "Finessekid"
-            ],
-            "album": "Generic Everything",
-            "played_at": "25/10/2026 - 15:26:59"
-        },
-        {
-            "song_name": "Free My Mind",
-            "artists": [
-                "RUSSI",
-                "ZILO"
-            ],
-            "album": "Free My Mind",
-            "played_at": "25/10/2026 - 15:24:19"
-        },
-        {
-            "song_name": "Moments",
-            "artists": [
-                "NM"
-            ],
-            "album": "Moments",
-            "played_at": "25/10/2026 - 15:22:06"
-        },
-        {
-            "song_name": "Come Back To Me",
-            "artists": [
-                "Russ"
-            ],
-            "album": "Come Back To Me",
-            "played_at": "25/10/2026 - 15:19:54"
-        },
-        {
-            "song_name": "better when you're home",
-            "artists": [
-                "abelon",
-                "Levelle London"
-            ],
-            "album": "better when you're home",
-            "played_at": "25/10/2026 - 15:16:54"
-        },
-        {
-            "song_name": "Brave",
-            "artists": [
-                "Texture"
-            ],
-            "album": "Brave",
-            "played_at": "25/10/2026 - 15:14:15"
-        },
-        {
-            "song_name": "Trust",
-            "artists": [
-                "April Girl"
-            ],
-            "album": "Trust",
-            "played_at": "25/10/2026 - 15:11:48"
-        },
-        {
-            "song_name": "places",
-            "artists": [
-                "kenu"
-            ],
-            "album": "places",
-            "played_at": "25/10/2026 - 15:08:59"
-        },
-        {
-            "song_name": "places",
-            "artists": [
-                "kenu"
-            ],
-            "album": "places",
-            "played_at": "25/10/2026 - 13:00:20"
-        },
-        {
-            "song_name": "Shroom Clouds (feat. reggie & Jeremih)",
-            "artists": [
-                "A$AP Rocky",
-                "reggie",
-                "Jeremih"
-            ],
-            "album": "Shroom Clouds (feat. reggie & Jeremih)",
-            "played_at": "25/10/2026 - 12:22:46"
-        },
-        {
-            "song_name": "FINE SHXT",
-            "artists": [
-                "Paris Bryant",
-                "Tory Lanez"
-            ],
-            "album": "FINE SHXT",
-            "played_at": "25/10/2026 - 12:19:30"
-        },
-        {
-            "song_name": "No Gravity",
-            "artists": [
-                "Toby Rose",
-                "Manaar"
-            ],
-            "album": "No Gravity",
-            "played_at": "25/10/2026 - 12:16:35"
         }
     ]
 }

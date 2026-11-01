@@ -1,5 +1,5 @@
 {
-    "total_plays": 7249,
+    "total_plays": 7250,
     "tracks": [
         {
             "song_name": "Maliwa",
@@ -124,6 +124,14 @@
             ],
             "album": "Papaoutai (Afro Soul)",
             "played_at": "01/11/2026 - 12:16:10"
+        },
+        {
+            "song_name": "Change",
+            "artists": [
+                "LAUREL"
+            ],
+            "album": "PALPITATIONS",
+            "played_at": "01/11/2026 - 11:41:32"
         },
         {
             "song_name": "TOO LATE FOR YOU",
@@ -1649,14 +1657,6 @@
             ],
             "album": "Shroom Clouds (feat. reggie & Jeremih)",
             "played_at": "26/10/2026 - 08:41:53"
-        },
-        {
-            "song_name": "Mercer Hotel",
-            "artists": [
-                "Lil Mosey"
-            ],
-            "album": "Mercer Hotel",
-            "played_at": "26/10/2026 - 08:38:37"
         }
     ]
 }

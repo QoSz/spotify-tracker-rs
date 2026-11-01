@@ -1,6 +1,154 @@
 {
-    "total_plays": 7231,
+    "total_plays": 7249,
     "tracks": [
+        {
+            "song_name": "Maliwa",
+            "artists": [
+                "Aureline"
+            ],
+            "album": "Maliwa",
+            "played_at": "01/11/2026 - 13:02:39"
+        },
+        {
+            "song_name": "stupid song",
+            "artists": [
+                "Olivia Rodrigo"
+            ],
+            "album": "you seem pretty sad for a girl so in love",
+            "played_at": "01/11/2026 - 13:00:30"
+        },
+        {
+            "song_name": "see it in your face",
+            "artists": [
+                "Stevie Daniels",
+                "mike."
+            ],
+            "album": "#witwisd",
+            "played_at": "01/11/2026 - 12:57:07"
+        },
+        {
+            "song_name": "What You Got",
+            "artists": [
+                "Quail P"
+            ],
+            "album": "Who Is Quail?",
+            "played_at": "01/11/2026 - 12:54:31"
+        },
+        {
+            "song_name": "my turn",
+            "artists": [
+                "origins"
+            ],
+            "album": "my turn",
+            "played_at": "01/11/2026 - 12:51:24"
+        },
+        {
+            "song_name": "My Left",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "My Left",
+            "played_at": "01/11/2026 - 12:48:40"
+        },
+        {
+            "song_name": "You and Me",
+            "artists": [
+                "heylucas"
+            ],
+            "album": "hey",
+            "played_at": "01/11/2026 - 12:45:57"
+        },
+        {
+            "song_name": "All My Love",
+            "artists": [
+                "Elderbrook"
+            ],
+            "album": "Why Do We Shake In The Cold?",
+            "played_at": "01/11/2026 - 12:43:21"
+        },
+        {
+            "song_name": "Fever",
+            "artists": [
+                "Emmit Fenn"
+            ],
+            "album": "Fever",
+            "played_at": "01/11/2026 - 12:39:57"
+        },
+        {
+            "song_name": "About You",
+            "artists": [
+                "Nohr",
+                "AMRAC"
+            ],
+            "album": "About You",
+            "played_at": "01/11/2026 - 12:36:15"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "01/11/2026 - 12:33:53"
+        },
+        {
+            "song_name": "Wanna Be Somewhere With You - Extended Mix",
+            "artists": [
+                "Rules"
+            ],
+            "album": "Wanna Be Somewhere With You",
+            "played_at": "01/11/2026 - 12:29:52"
+        },
+        {
+            "song_name": "Let It Go",
+            "artists": [
+                "LNDRS"
+            ],
+            "album": "Let It Go",
+            "played_at": "01/11/2026 - 12:24:34"
+        },
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "01/11/2026 - 12:22:11"
+        },
+        {
+            "song_name": "Papaoutai - Afro Soul",
+            "artists": [
+                "mikeeysmind",
+                "Chill77",
+                "Unjaps"
+            ],
+            "album": "Papaoutai (Afro Soul)",
+            "played_at": "01/11/2026 - 12:16:10"
+        },
+        {
+            "song_name": "TOO LATE FOR YOU",
+            "artists": [
+                "alan vuong"
+            ],
+            "album": "HEAVEN SENT ME",
+            "played_at": "01/11/2026 - 11:30:40"
+        },
+        {
+            "song_name": "TREEHOUSE",
+            "artists": [
+                "tomy wyne"
+            ],
+            "album": "TREEHOUSE",
+            "played_at": "01/11/2026 - 11:26:09"
+        },
+        {
+            "song_name": "There's A Locked Up Safe",
+            "artists": [
+                "The Lanes"
+            ],
+            "album": "There's A Locked Up Safe",
+            "played_at": "01/11/2026 - 11:23:01"
+        },
         {
             "song_name": "Searching",
             "artists": [
@@ -1509,161 +1657,6 @@
             ],
             "album": "Mercer Hotel",
             "played_at": "26/10/2026 - 08:38:37"
-        },
-        {
-            "song_name": "Ibiza",
-            "artists": [
-                "Ozara",
-                "Walk on Water"
-            ],
-            "album": "Ibiza",
-            "played_at": "26/10/2026 - 08:36:06"
-        },
-        {
-            "song_name": "Don't Go",
-            "artists": [
-                "PLVTO"
-            ],
-            "album": "Don't Go",
-            "played_at": "26/10/2026 - 08:33:34"
-        },
-        {
-            "song_name": "From Your Eyes",
-            "artists": [
-                "BUNT.",
-                "Damzz"
-            ],
-            "album": "Levi Did It",
-            "played_at": "26/10/2026 - 08:31:11"
-        },
-        {
-            "song_name": "From Your Eyes",
-            "artists": [
-                "BUNT.",
-                "Damzz"
-            ],
-            "album": "Levi Did It",
-            "played_at": "26/10/2026 - 07:46:57"
-        },
-        {
-            "song_name": "FINE SHXT",
-            "artists": [
-                "Paris Bryant",
-                "Tory Lanez"
-            ],
-            "album": "FINE SHXT",
-            "played_at": "26/10/2026 - 07:28:07"
-        },
-        {
-            "song_name": "5am in Paris",
-            "artists": [
-                "Mckay"
-            ],
-            "album": "5am in Paris",
-            "played_at": "26/10/2026 - 07:25:12"
-        },
-        {
-            "song_name": "find you once",
-            "artists": [
-                "kalm"
-            ],
-            "album": "another lifetime",
-            "played_at": "26/10/2026 - 07:23:25"
-        },
-        {
-            "song_name": "SLICK Remix (feat. Don Toliver & Summer Walker)",
-            "artists": [
-                "Victony",
-                "Don Toliver",
-                "Summer Walker"
-            ],
-            "album": "SLICK Remix (feat. Don Toliver & Summer Walker)",
-            "played_at": "26/10/2026 - 07:19:51"
-        },
-        {
-            "song_name": "You're Mine",
-            "artists": [
-                "GOBAITH"
-            ],
-            "album": "You're Mine",
-            "played_at": "26/10/2026 - 07:10:58"
-        },
-        {
-            "song_name": "You're Mine",
-            "artists": [
-                "GOBAITH"
-            ],
-            "album": "You're Mine",
-            "played_at": "25/10/2026 - 16:31:19"
-        },
-        {
-            "song_name": "Feels So Good",
-            "artists": [
-                "Lonelysoul."
-            ],
-            "album": "Feels So Good",
-            "played_at": "25/10/2026 - 16:07:01"
-        },
-        {
-            "song_name": "Free",
-            "artists": [
-                "VisionV",
-                "Sara Phillips"
-            ],
-            "album": "Free",
-            "played_at": "25/10/2026 - 16:04:27"
-        },
-        {
-            "song_name": "Running",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Running",
-            "played_at": "25/10/2026 - 16:01:48"
-        },
-        {
-            "song_name": "Lonely",
-            "artists": [
-                "George Truly"
-            ],
-            "album": "Lonely",
-            "played_at": "25/10/2026 - 15:57:33"
-        },
-        {
-            "song_name": "No Gravity",
-            "artists": [
-                "Toby Rose",
-                "Manaar"
-            ],
-            "album": "No Gravity",
-            "played_at": "25/10/2026 - 15:54:53"
-        },
-        {
-            "song_name": "Tu Hi Disda - Karwa Chauth 2026",
-            "artists": [
-                "Pritam",
-                "Arijit Singh",
-                "Nikhita Gandhi",
-                "Kumaar"
-            ],
-            "album": "Tu Hi Disda - Karwa Chauth 2026",
-            "played_at": "25/10/2026 - 15:52:49"
-        },
-        {
-            "song_name": "WANT SMOKE",
-            "artists": [
-                "Matt Corman"
-            ],
-            "album": "WANT SMOKE",
-            "played_at": "25/10/2026 - 15:51:31"
-        },
-        {
-            "song_name": "Lean On - Chill Mix",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Lean On (Chill Mix)",
-            "played_at": "25/10/2026 - 15:49:28"
         }
     ]
 }

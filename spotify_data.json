@@ -1,6 +1,15 @@
 {
-    "total_plays": 7250,
+    "total_plays": 7251,
     "tracks": [
+        {
+            "song_name": "what did you do ?",
+            "artists": [
+                "Holseek",
+                "Noche"
+            ],
+            "album": "what did you do ?",
+            "played_at": "01/11/2026 - 13:17:04"
+        },
         {
             "song_name": "Maliwa",
             "artists": [
@@ -1647,16 +1656,6 @@
             ],
             "album": "Echoes",
             "played_at": "26/10/2026 - 08:46:06"
-        },
-        {
-            "song_name": "Shroom Clouds (feat. reggie & Jeremih)",
-            "artists": [
-                "A$AP Rocky",
-                "reggie",
-                "Jeremih"
-            ],
-            "album": "Shroom Clouds (feat. reggie & Jeremih)",
-            "played_at": "26/10/2026 - 08:41:53"
         }
     ]
 }

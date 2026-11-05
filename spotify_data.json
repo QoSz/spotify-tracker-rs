@@ -1,6 +1,95 @@
 {
-    "total_plays": 7291,
+    "total_plays": 7302,
     "tracks": [
+        {
+            "song_name": "what it takes",
+            "artists": [
+                "Dizaro"
+            ],
+            "album": "what it takes",
+            "played_at": "05/11/2026 - 17:37:24"
+        },
+        {
+            "song_name": "Sex & Drugs",
+            "artists": [
+                "Temper City"
+            ],
+            "album": "Sex & Drugs",
+            "played_at": "05/11/2026 - 17:35:11"
+        },
+        {
+            "song_name": "my turn",
+            "artists": [
+                "origins"
+            ],
+            "album": "my turn",
+            "played_at": "05/11/2026 - 17:31:55"
+        },
+        {
+            "song_name": "lost lost",
+            "artists": [
+                "Muffled Hour"
+            ],
+            "album": "lost lost",
+            "played_at": "05/11/2026 - 17:29:11"
+        },
+        {
+            "song_name": "Mr. Rager",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon II: The Legend Of Mr. Rager",
+            "played_at": "05/11/2026 - 17:27:33"
+        },
+        {
+            "song_name": "Feel This",
+            "artists": [
+                "DÏVÄG"
+            ],
+            "album": "Feel This",
+            "played_at": "05/11/2026 - 17:22:46"
+        },
+        {
+            "song_name": "If I Ever Talk To God",
+            "artists": [
+                "Landon Barker"
+            ],
+            "album": "If I Ever Talk To God",
+            "played_at": "05/11/2026 - 17:19:51"
+        },
+        {
+            "song_name": "A New Day",
+            "artists": [
+                "Last Sun"
+            ],
+            "album": "A New Day",
+            "played_at": "05/11/2026 - 17:17:18"
+        },
+        {
+            "song_name": "lovely",
+            "artists": [
+                "Yara Lina."
+            ],
+            "album": "lovely",
+            "played_at": "05/11/2026 - 17:13:58"
+        },
+        {
+            "song_name": "No Gravity",
+            "artists": [
+                "Toby Rose",
+                "Manaar"
+            ],
+            "album": "No Gravity",
+            "played_at": "05/11/2026 - 17:11:27"
+        },
+        {
+            "song_name": "Dance It Out",
+            "artists": [
+                "Zimmer90"
+            ],
+            "album": "Endless Summer",
+            "played_at": "05/11/2026 - 17:09:22"
+        },
         {
             "song_name": "Tinted",
             "artists": [
@@ -1575,95 +1664,6 @@
             ],
             "album": "As Soon As I Get Home (EP Remixes)",
             "played_at": "27/10/2026 - 19:41:12"
-        },
-        {
-            "song_name": "Snow on The Bluff",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Carefree, very",
-            "played_at": "27/10/2026 - 19:38:42"
-        },
-        {
-            "song_name": "I Just Wanna Feel Something",
-            "artists": [
-                "Lithe",
-                "pre kai ro"
-            ],
-            "album": "I Just Wanna Feel Something",
-            "played_at": "27/10/2026 - 19:35:43"
-        },
-        {
-            "song_name": "Spend The Night",
-            "artists": [
-                "Alex Adair"
-            ],
-            "album": "Spend The Night",
-            "played_at": "27/10/2026 - 19:33:02"
-        },
-        {
-            "song_name": "Spend The Night",
-            "artists": [
-                "Alex Adair"
-            ],
-            "album": "Spend The Night",
-            "played_at": "27/10/2026 - 18:37:17"
-        },
-        {
-            "song_name": "f ur plans",
-            "artists": [
-                "Ninezz"
-            ],
-            "album": "f ur plans",
-            "played_at": "27/10/2026 - 18:22:43"
-        },
-        {
-            "song_name": "stop playing with my heart",
-            "artists": [
-                "kenu"
-            ],
-            "album": "stop playing with my heart",
-            "played_at": "27/10/2026 - 18:19:57"
-        },
-        {
-            "song_name": "Tell Me Why",
-            "artists": [
-                "GOBAITH"
-            ],
-            "album": "Tell Me Why",
-            "played_at": "27/10/2026 - 18:17:20"
-        },
-        {
-            "song_name": "moving on",
-            "artists": [
-                "kalm"
-            ],
-            "album": "moving on",
-            "played_at": "27/10/2026 - 18:13:59"
-        },
-        {
-            "song_name": "moving on",
-            "artists": [
-                "kalm"
-            ],
-            "album": "moving on",
-            "played_at": "27/10/2026 - 15:13:39"
-        },
-        {
-            "song_name": "Something I Need",
-            "artists": [
-                "Offset"
-            ],
-            "album": "Something I Need",
-            "played_at": "27/10/2026 - 13:34:27"
-        },
-        {
-            "song_name": "WILL YOU EVER LET ME KNOW",
-            "artists": [
-                "Dolphin Love"
-            ],
-            "album": "WILL YOU EVER LET ME KNOW",
-            "played_at": "27/10/2026 - 13:32:58"
         }
     ]
 }

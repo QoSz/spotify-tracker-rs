@@ -1,6 +1,82 @@
 {
-    "total_plays": 7302,
+    "total_plays": 7311,
     "tracks": [
+        {
+            "song_name": "Oh My Love",
+            "artists": [
+                "RAZZ",
+                "Bayshore Court"
+            ],
+            "album": "Oh My Love",
+            "played_at": "05/11/2026 - 17:59:19"
+        },
+        {
+            "song_name": "Now that i miss you",
+            "artists": [
+                "Edwardo Atlas",
+                "King Ky"
+            ],
+            "album": "Now that i miss you",
+            "played_at": "05/11/2026 - 17:57:00"
+        },
+        {
+            "song_name": "Remedy",
+            "artists": [
+                "Marfa"
+            ],
+            "album": "Remedy",
+            "played_at": "05/11/2026 - 17:54:20"
+        },
+        {
+            "song_name": "No Gravity",
+            "artists": [
+                "Toby Rose",
+                "Manaar"
+            ],
+            "album": "No Gravity",
+            "played_at": "05/11/2026 - 17:50:47"
+        },
+        {
+            "song_name": "pins",
+            "artists": [
+                "all things break"
+            ],
+            "album": "pins",
+            "played_at": "05/11/2026 - 17:48:43"
+        },
+        {
+            "song_name": "Keep On Running",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "Keep On Running",
+            "played_at": "05/11/2026 - 17:46:00"
+        },
+        {
+            "song_name": "Free My Mind",
+            "artists": [
+                "RUSSI",
+                "ZILO"
+            ],
+            "album": "Free My Mind",
+            "played_at": "05/11/2026 - 17:43:39"
+        },
+        {
+            "song_name": "lost lost",
+            "artists": [
+                "Muffled Hour"
+            ],
+            "album": "lost lost",
+            "played_at": "05/11/2026 - 17:41:26"
+        },
+        {
+            "song_name": "How Can I Lose",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "How Can I Lose",
+            "played_at": "05/11/2026 - 17:39:48"
+        },
         {
             "song_name": "what it takes",
             "artists": [
@@ -1588,82 +1664,6 @@
             ],
             "album": "didibruise",
             "played_at": "28/10/2026 - 08:27:04"
-        },
-        {
-            "song_name": "Sunsick",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Sunsick",
-            "played_at": "28/10/2026 - 08:24:39"
-        },
-        {
-            "song_name": "GET A GRIP",
-            "artists": [
-                "Ruby Waters"
-            ],
-            "album": "GET A GRIP",
-            "played_at": "28/10/2026 - 08:22:21"
-        },
-        {
-            "song_name": "When You're Around",
-            "artists": [
-                "H:dn"
-            ],
-            "album": "When You're Around",
-            "played_at": "28/10/2026 - 08:04:05"
-        },
-        {
-            "song_name": "IMY2 (with Kid Cudi)",
-            "artists": [
-                "Drake",
-                "Kid Cudi"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "28/10/2026 - 07:13:18"
-        },
-        {
-            "song_name": "Denver",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Jackman.",
-            "played_at": "28/10/2026 - 07:05:14"
-        },
-        {
-            "song_name": "Snow on The Bluff",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Carefree, very",
-            "played_at": "28/10/2026 - 07:02:42"
-        },
-        {
-            "song_name": "Look into My Eyes",
-            "artists": [
-                "Massane",
-                "Moglii"
-            ],
-            "album": "Look into My Eyes",
-            "played_at": "27/10/2026 - 20:14:13"
-        },
-        {
-            "song_name": "I Choose You (Night)",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "I Choose You",
-            "played_at": "27/10/2026 - 19:43:10"
-        },
-        {
-            "song_name": "Feeling (Hold On You) - heylucas Remix",
-            "artists": [
-                "Rules",
-                "MURPHY",
-                "heylucas"
-            ],
-            "album": "As Soon As I Get Home (EP Remixes)",
-            "played_at": "27/10/2026 - 19:41:12"
         }
     ]
 }

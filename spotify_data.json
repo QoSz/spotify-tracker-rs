@@ -1,6 +1,89 @@
 {
-    "total_plays": 7281,
+    "total_plays": 7291,
     "tracks": [
+        {
+            "song_name": "Tinted",
+            "artists": [
+                "N.D.A.Y.I."
+            ],
+            "album": "Tinted",
+            "played_at": "05/11/2026 - 17:06:15"
+        },
+        {
+            "song_name": "Tendencies",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Tendencies",
+            "played_at": "05/11/2026 - 17:02:56"
+        },
+        {
+            "song_name": "Oh My Love",
+            "artists": [
+                "RAZZ",
+                "Bayshore Court"
+            ],
+            "album": "Oh My Love",
+            "played_at": "05/11/2026 - 16:59:27"
+        },
+        {
+            "song_name": "Lonely",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "Lonely",
+            "played_at": "05/11/2026 - 16:57:08"
+        },
+        {
+            "song_name": "Free My Mind",
+            "artists": [
+                "RUSSI",
+                "ZILO"
+            ],
+            "album": "Free My Mind",
+            "played_at": "05/11/2026 - 16:54:28"
+        },
+        {
+            "song_name": "LOYAL (feat. Drake)",
+            "artists": [
+                "PARTYNEXTDOOR",
+                "Drake"
+            ],
+            "album": "PARTYMOBILE",
+            "played_at": "05/11/2026 - 16:52:15"
+        },
+        {
+            "song_name": "Lean On - Chill Mix",
+            "artists": [
+                "CAKES"
+            ],
+            "album": "Lean On (Chill Mix)",
+            "played_at": "05/11/2026 - 16:49:04"
+        },
+        {
+            "song_name": "TOO LATE FOR YOU",
+            "artists": [
+                "alan vuong"
+            ],
+            "album": "HEAVEN SENT ME",
+            "played_at": "05/11/2026 - 16:46:28"
+        },
+        {
+            "song_name": "best part",
+            "artists": [
+                "mike."
+            ],
+            "album": "best part",
+            "played_at": "05/11/2026 - 16:43:12"
+        },
+        {
+            "song_name": "20 Missed Calls",
+            "artists": [
+                "Billy Sharp"
+            ],
+            "album": "20 Missed Calls",
+            "played_at": "05/11/2026 - 16:40:41"
+        },
         {
             "song_name": "cowboy killers",
             "artists": [
@@ -1581,87 +1664,6 @@
             ],
             "album": "WILL YOU EVER LET ME KNOW",
             "played_at": "27/10/2026 - 13:32:58"
-        },
-        {
-            "song_name": "Rouge",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Where Are You Going?",
-            "played_at": "27/10/2026 - 13:30:26"
-        },
-        {
-            "song_name": "Rouge",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Where Are You Going?",
-            "played_at": "27/10/2026 - 09:55:58"
-        },
-        {
-            "song_name": "Streetlights",
-            "artists": [
-                "49th & Main"
-            ],
-            "album": "Streetlights",
-            "played_at": "27/10/2026 - 09:39:05"
-        },
-        {
-            "song_name": "Safe Bet",
-            "artists": [
-                "j ember"
-            ],
-            "album": "Safe Bet",
-            "played_at": "27/10/2026 - 09:35:53"
-        },
-        {
-            "song_name": "Ephemeral",
-            "artists": [
-                "Luvlace"
-            ],
-            "album": "Ephemeral",
-            "played_at": "27/10/2026 - 09:32:52"
-        },
-        {
-            "song_name": "Backseat",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "27/10/2026 - 09:29:55"
-        },
-        {
-            "song_name": "Sex & Drugs",
-            "artists": [
-                "Temper City"
-            ],
-            "album": "Sex & Drugs",
-            "played_at": "27/10/2026 - 09:23:38"
-        },
-        {
-            "song_name": "blind",
-            "artists": [
-                "Clubhouse"
-            ],
-            "album": "what a view!",
-            "played_at": "27/10/2026 - 09:20:30"
-        },
-        {
-            "song_name": "NOVOCAINE",
-            "artists": [
-                "Kennedy Cash"
-            ],
-            "album": "LETDOWN",
-            "played_at": "27/10/2026 - 09:17:07"
-        },
-        {
-            "song_name": "alright (feat. The Kid LAROI)",
-            "artists": [
-                "EKKSTACY",
-                "The Kid LAROI"
-            ],
-            "album": "EKKSTACY",
-            "played_at": "27/10/2026 - 09:13:34"
         }
     ]
 }

@@ -1,6 +1,82 @@
 {
-    "total_plays": 7265,
+    "total_plays": 7274,
     "tracks": [
+        {
+            "song_name": "As Soon As I Get Home",
+            "artists": [
+                "Rules",
+                "SHYA"
+            ],
+            "album": "As Soon As I Get Home (EP Remixes)",
+            "played_at": "05/11/2026 - 16:07:17"
+        },
+        {
+            "song_name": "WILL YOU EVER LET ME KNOW",
+            "artists": [
+                "Dolphin Love"
+            ],
+            "album": "WILL YOU EVER LET ME KNOW",
+            "played_at": "05/11/2026 - 16:03:24"
+        },
+        {
+            "song_name": "Sunshine",
+            "artists": [
+                "DÏVÄG"
+            ],
+            "album": "Sunshine",
+            "played_at": "05/11/2026 - 16:00:28"
+        },
+        {
+            "song_name": "Missing U Again",
+            "artists": [
+                "Diielex"
+            ],
+            "album": "Missing U Again",
+            "played_at": "05/11/2026 - 15:57:19"
+        },
+        {
+            "song_name": "Santa Fe",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "Santa Fe",
+            "played_at": "05/11/2026 - 15:53:57"
+        },
+        {
+            "song_name": "Echoes",
+            "artists": [
+                "Gavin Moss",
+                "RUSSI"
+            ],
+            "album": "Echoes",
+            "played_at": "05/11/2026 - 15:51:22"
+        },
+        {
+            "song_name": "One More Song (I'll Be On My Way)",
+            "artists": [
+                "Why U So",
+                "Luis Coren"
+            ],
+            "album": "One More Song (I'll Be On My Way)",
+            "played_at": "05/11/2026 - 15:49:21"
+        },
+        {
+            "song_name": "Hours In Silence",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "Her Loss",
+            "played_at": "05/11/2026 - 15:45:56"
+        },
+        {
+            "song_name": "who’s your boyfriend",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "hickey",
+            "played_at": "05/11/2026 - 15:39:23"
+        },
         {
             "song_name": "So Hard To Find",
             "artists": [
@@ -1586,78 +1662,6 @@
             ],
             "album": "Wake Up Freezing",
             "played_at": "27/10/2026 - 07:57:36"
-        },
-        {
-            "song_name": "If I Ever Talk To God",
-            "artists": [
-                "Landon Barker"
-            ],
-            "album": "If I Ever Talk To God",
-            "played_at": "27/10/2026 - 07:55:41"
-        },
-        {
-            "song_name": "Pull Me Under",
-            "artists": [
-                "bby"
-            ],
-            "album": "Pull Me Under",
-            "played_at": "27/10/2026 - 07:53:08"
-        },
-        {
-            "song_name": "Ripple",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Blue Sky Mentality",
-            "played_at": "27/10/2026 - 07:48:22"
-        },
-        {
-            "song_name": "From the Start",
-            "artists": [
-                "Alex Kehm"
-            ],
-            "album": "From the Start",
-            "played_at": "27/10/2026 - 07:45:48"
-        },
-        {
-            "song_name": "Meteor",
-            "artists": [
-                "MORE&MORE"
-            ],
-            "album": "Meteor",
-            "played_at": "27/10/2026 - 07:42:47"
-        },
-        {
-            "song_name": "Something I Need",
-            "artists": [
-                "Offset"
-            ],
-            "album": "Something I Need",
-            "played_at": "26/10/2026 - 18:47:25"
-        },
-        {
-            "song_name": "Love Somebody",
-            "artists": [
-                "GOBAITH"
-            ],
-            "album": "Love Somebody",
-            "played_at": "26/10/2026 - 18:22:06"
-        },
-        {
-            "song_name": "Lot of Love",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Lot of Love",
-            "played_at": "26/10/2026 - 18:19:21"
-        },
-        {
-            "song_name": "together in my head",
-            "artists": [
-                "Cassia"
-            ],
-            "album": "lemon gelato",
-            "played_at": "26/10/2026 - 18:17:50"
         }
     ]
 }

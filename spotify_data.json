@@ -1,6 +1,39 @@
 {
-    "total_plays": 7251,
+    "total_plays": 7255,
     "tracks": [
+        {
+            "song_name": "Keep On Running",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "Keep On Running",
+            "played_at": "05/11/2026 - 15:06:11"
+        },
+        {
+            "song_name": "How Can I Lose",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "How Can I Lose",
+            "played_at": "05/11/2026 - 15:03:50"
+        },
+        {
+            "song_name": "Reaching Up",
+            "artists": [
+                "Harmless Night",
+                "Ren Ocean"
+            ],
+            "album": "Reaching Up",
+            "played_at": "05/11/2026 - 15:01:26"
+        },
+        {
+            "song_name": "Sex & Drugs",
+            "artists": [
+                "Temper City"
+            ],
+            "album": "Sex & Drugs",
+            "played_at": "05/11/2026 - 14:58:42"
+        },
         {
             "song_name": "what did you do ?",
             "artists": [
@@ -1623,39 +1656,6 @@
             ],
             "album": "White Lies",
             "played_at": "26/10/2026 - 08:57:46"
-        },
-        {
-            "song_name": "stay a little longer",
-            "artists": [
-                "Walk on Water"
-            ],
-            "album": "stay a little longer",
-            "played_at": "26/10/2026 - 08:54:32"
-        },
-        {
-            "song_name": "Let Me Fall",
-            "artists": [
-                "wrongside",
-                "Shiftbach"
-            ],
-            "album": "Let Me Fall",
-            "played_at": "26/10/2026 - 08:51:57"
-        },
-        {
-            "song_name": "Care",
-            "artists": [
-                "Saive"
-            ],
-            "album": "Care",
-            "played_at": "26/10/2026 - 08:48:34"
-        },
-        {
-            "song_name": "Echoes",
-            "artists": [
-                "Mizmo"
-            ],
-            "album": "Echoes",
-            "played_at": "26/10/2026 - 08:46:06"
         }
     ]
 }

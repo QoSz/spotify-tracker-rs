@@ -1,6 +1,62 @@
 {
-    "total_plays": 7274,
+    "total_plays": 7281,
     "tracks": [
+        {
+            "song_name": "cowboy killers",
+            "artists": [
+                "Solo Kei"
+            ],
+            "album": "Wake Up Freezing",
+            "played_at": "05/11/2026 - 16:37:41"
+        },
+        {
+            "song_name": "Care 4 U",
+            "artists": [
+                "Last Sun"
+            ],
+            "album": "Care 4 U",
+            "played_at": "05/11/2026 - 16:31:04"
+        },
+        {
+            "song_name": "Remedy",
+            "artists": [
+                "Marfa"
+            ],
+            "album": "Remedy",
+            "played_at": "05/11/2026 - 16:28:19"
+        },
+        {
+            "song_name": "side by side",
+            "artists": [
+                "drill clinton"
+            ],
+            "album": "u get me.",
+            "played_at": "05/11/2026 - 16:24:46"
+        },
+        {
+            "song_name": "I Don't Do This",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Running",
+            "played_at": "05/11/2026 - 16:21:06"
+        },
+        {
+            "song_name": "what it takes",
+            "artists": [
+                "Dizaro"
+            ],
+            "album": "what it takes",
+            "played_at": "05/11/2026 - 16:18:17"
+        },
+        {
+            "song_name": "Reality",
+            "artists": [
+                "Why U So"
+            ],
+            "album": "Reality",
+            "played_at": "05/11/2026 - 16:09:46"
+        },
         {
             "song_name": "As Soon As I Get Home",
             "artists": [
@@ -1606,62 +1662,6 @@
             ],
             "album": "EKKSTACY",
             "played_at": "27/10/2026 - 09:13:34"
-        },
-        {
-            "song_name": "Back To You",
-            "artists": [
-                "h41dn"
-            ],
-            "album": "Back To You",
-            "played_at": "27/10/2026 - 09:11:31"
-        },
-        {
-            "song_name": "Amends",
-            "artists": [
-                "Marlon Funaki"
-            ],
-            "album": "Overdue",
-            "played_at": "27/10/2026 - 09:08:12"
-        },
-        {
-            "song_name": "talk of the town",
-            "artists": [
-                "Jonah Zed"
-            ],
-            "album": "LOVEGONEBY",
-            "played_at": "27/10/2026 - 09:00:00"
-        },
-        {
-            "song_name": "talk of the town",
-            "artists": [
-                "Jonah Zed"
-            ],
-            "album": "LOVEGONEBY",
-            "played_at": "27/10/2026 - 08:15:17"
-        },
-        {
-            "song_name": "devil´s in the sideroom",
-            "artists": [
-                "Miyu Hansen"
-            ],
-            "album": "devil´s in the sideroom",
-            "played_at": "27/10/2026 - 08:03:33"
-        },
-        {
-            "song_name": "Limited Light",
-            "artists": [
-                "Elijah Blond"
-            ],
-            "album": "Oh, What a Distance",
-            "played_at": "27/10/2026 - 08:00:08"
-        },
-        {
-            "song_name": "london pt. 2",
-            "artists": [
-                "Solo Kei"
-            ],
-            "album": "Wake Up Freezing",
-            "played_at": "27/10/2026 - 07:57:36"
         }
     ]
 }

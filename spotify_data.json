@@ -1,6 +1,15 @@
 {
-    "total_plays": 7313,
+    "total_plays": 7314,
     "tracks": [
+        {
+            "song_name": "Free My Mind",
+            "artists": [
+                "RUSSI",
+                "ZILO"
+            ],
+            "album": "Free My Mind",
+            "played_at": "06/11/2026 - 16:25:16"
+        },
         {
             "song_name": "side by side",
             "artists": [
@@ -1656,14 +1665,6 @@
             ],
             "album": "HEAVEN SENT ME",
             "played_at": "28/10/2026 - 09:04:21"
-        },
-        {
-            "song_name": "Tongue-Tied Ecstasy",
-            "artists": [
-                "just Min"
-            ],
-            "album": "Tongue-Tied Ecstasy",
-            "played_at": "28/10/2026 - 09:01:49"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
-    "total_plays": 7311,
+    "total_plays": 7312,
     "tracks": [
+        {
+            "song_name": "side by side",
+            "artists": [
+                "drill clinton"
+            ],
+            "album": "u get me.",
+            "played_at": "05/11/2026 - 18:48:29"
+        },
         {
             "song_name": "Oh My Love",
             "artists": [
@@ -1656,14 +1664,6 @@
             ],
             "album": "hickey",
             "played_at": "28/10/2026 - 08:59:25"
-        },
-        {
-            "song_name": "didibruise",
-            "artists": [
-                "Solo Kei"
-            ],
-            "album": "didibruise",
-            "played_at": "28/10/2026 - 08:27:04"
         }
     ]
 }

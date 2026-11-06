@@ -1,6 +1,31 @@
 {
-    "total_plays": 7325,
+    "total_plays": 7328,
     "tracks": [
+        {
+            "song_name": "lovely",
+            "artists": [
+                "Yara Lina."
+            ],
+            "album": "lovely",
+            "played_at": "06/11/2026 - 17:03:31"
+        },
+        {
+            "song_name": "ONLY U",
+            "artists": [
+                "Newport"
+            ],
+            "album": "ONLY U",
+            "played_at": "06/11/2026 - 17:01:00"
+        },
+        {
+            "song_name": "I Know Some Things",
+            "artists": [
+                "Pulyay",
+                "Marcel"
+            ],
+            "album": "I Know Some Things",
+            "played_at": "06/11/2026 - 16:57:26"
+        },
         {
             "song_name": "Something I Need",
             "artists": [
@@ -1644,31 +1669,6 @@
             ],
             "album": "PRODIGY",
             "played_at": "28/10/2026 - 11:57:58"
-        },
-        {
-            "song_name": "Are You Real?",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Are You Real?",
-            "played_at": "28/10/2026 - 11:56:02"
-        },
-        {
-            "song_name": "Take Me (To The Moon)",
-            "artists": [
-                "Ian Asher",
-                "D A N N Y"
-            ],
-            "album": "Take Me (To The Moon)",
-            "played_at": "28/10/2026 - 11:52:48"
-        },
-        {
-            "song_name": "TSU",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Certified Lover Boy",
-            "played_at": "28/10/2026 - 11:50:17"
         }
     ]
 }

@@ -1,6 +1,100 @@
 {
-    "total_plays": 7314,
+    "total_plays": 7325,
     "tracks": [
+        {
+            "song_name": "Something I Need",
+            "artists": [
+                "Offset"
+            ],
+            "album": "Something I Need",
+            "played_at": "06/11/2026 - 16:54:58"
+        },
+        {
+            "song_name": "Spending Time",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Spending Time",
+            "played_at": "06/11/2026 - 16:52:39"
+        },
+        {
+            "song_name": "I Just Wanna Feel Something",
+            "artists": [
+                "Lithe",
+                "pre kai ro"
+            ],
+            "album": "I Just Wanna Feel Something",
+            "played_at": "06/11/2026 - 16:49:53"
+        },
+        {
+            "song_name": "it felt different",
+            "artists": [
+                "heylucas",
+                "solaene",
+                "Monoko"
+            ],
+            "album": "it felt different",
+            "played_at": "06/11/2026 - 16:47:12"
+        },
+        {
+            "song_name": "NOT ENOUGH",
+            "artists": [
+                "ASK YOUR FRIENDS"
+            ],
+            "album": "NOT ENOUGH",
+            "played_at": "06/11/2026 - 16:43:39"
+        },
+        {
+            "song_name": "Stay Now",
+            "artists": [
+                "Rules",
+                "Maverick Sabre"
+            ],
+            "album": "Stay Now",
+            "played_at": "06/11/2026 - 16:40:40"
+        },
+        {
+            "song_name": "TELL 'EM YOU'RE MINE",
+            "artists": [
+                "alan vuong"
+            ],
+            "album": "HEAVEN SENT ME",
+            "played_at": "06/11/2026 - 16:37:19"
+        },
+        {
+            "song_name": "How Can I Lose",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "How Can I Lose",
+            "played_at": "06/11/2026 - 16:34:47"
+        },
+        {
+            "song_name": "Oh My Love",
+            "artists": [
+                "RAZZ",
+                "Bayshore Court"
+            ],
+            "album": "Oh My Love",
+            "played_at": "06/11/2026 - 16:32:23"
+        },
+        {
+            "song_name": "No Gravity",
+            "artists": [
+                "Toby Rose",
+                "Manaar"
+            ],
+            "album": "No Gravity",
+            "played_at": "06/11/2026 - 16:30:04"
+        },
+        {
+            "song_name": "pins",
+            "artists": [
+                "all things break"
+            ],
+            "album": "pins",
+            "played_at": "06/11/2026 - 16:27:59"
+        },
         {
             "song_name": "Free My Mind",
             "artists": [
@@ -1575,96 +1669,6 @@
             ],
             "album": "Certified Lover Boy",
             "played_at": "28/10/2026 - 11:50:17"
-        },
-        {
-            "song_name": "RUNNING",
-            "artists": [
-                "ASK YOUR FRIENDS"
-            ],
-            "album": "SINCE '06",
-            "played_at": "28/10/2026 - 11:45:15"
-        },
-        {
-            "song_name": "SideLine Watching (Hold Up)",
-            "artists": [
-                "Lil Uzi Vert"
-            ],
-            "album": "The Perfect LUV Tape",
-            "played_at": "28/10/2026 - 11:42:59"
-        },
-        {
-            "song_name": "De Ja With A View",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Evening Demos",
-            "played_at": "28/10/2026 - 11:39:55"
-        },
-        {
-            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
-            "artists": [
-                "ONEFOUR",
-                "Nemzzz",
-                "Segway"
-            ],
-            "album": "Look At Me Now",
-            "played_at": "28/10/2026 - 11:37:52"
-        },
-        {
-            "song_name": "Snow on The Bluff",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Carefree, very",
-            "played_at": "28/10/2026 - 11:35:17"
-        },
-        {
-            "song_name": "Metaphor",
-            "artists": [
-                "Marlon Funaki"
-            ],
-            "album": "Metaphor",
-            "played_at": "28/10/2026 - 09:48:26"
-        },
-        {
-            "song_name": "Sara's Got Big Plans",
-            "artists": [
-                "Mo Lowda & the Humble"
-            ],
-            "album": "Tailing the Ghost",
-            "played_at": "28/10/2026 - 09:14:55"
-        },
-        {
-            "song_name": "Ghost",
-            "artists": [
-                "Easy Giant"
-            ],
-            "album": "Ghost",
-            "played_at": "28/10/2026 - 09:12:32"
-        },
-        {
-            "song_name": "i walk this earth all by myself",
-            "artists": [
-                "EKKSTACY"
-            ],
-            "album": "NEGATIVE",
-            "played_at": "28/10/2026 - 09:09:21"
-        },
-        {
-            "song_name": "Close My Eyes",
-            "artists": [
-                "RZGLD"
-            ],
-            "album": "The Fool",
-            "played_at": "28/10/2026 - 09:07:02"
-        },
-        {
-            "song_name": "TELL 'EM YOU'RE MINE",
-            "artists": [
-                "alan vuong"
-            ],
-            "album": "HEAVEN SENT ME",
-            "played_at": "28/10/2026 - 09:04:21"
         }
     ]
 }

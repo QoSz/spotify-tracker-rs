@@ -1,6 +1,14 @@
 {
-    "total_plays": 7328,
+    "total_plays": 7329,
     "tracks": [
+        {
+            "song_name": "Without You",
+            "artists": [
+                "RUSSI"
+            ],
+            "album": "Without You",
+            "played_at": "06/11/2026 - 17:18:59"
+        },
         {
             "song_name": "lovely",
             "artists": [
@@ -1660,15 +1668,6 @@
             ],
             "album": "ICEMAN",
             "played_at": "28/10/2026 - 12:08:37"
-        },
-        {
-            "song_name": "NOW OR NEVER",
-            "artists": [
-                "Tkandz",
-                "CXSPER"
-            ],
-            "album": "PRODIGY",
-            "played_at": "28/10/2026 - 11:57:58"
         }
     ]
 }

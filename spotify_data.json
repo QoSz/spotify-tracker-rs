@@ -1,6 +1,38 @@
 {
-    "total_plays": 7344,
+    "total_plays": 7348,
     "tracks": [
+        {
+            "song_name": "Tangerine",
+            "artists": [
+                "Kublaii"
+            ],
+            "album": "Tangerine",
+            "played_at": "08/11/2026 - 13:49:17"
+        },
+        {
+            "song_name": "Headlights",
+            "artists": [
+                "In Color"
+            ],
+            "album": "Headlights",
+            "played_at": "08/11/2026 - 13:46:35"
+        },
+        {
+            "song_name": "Too Right",
+            "artists": [
+                "tomy wyne"
+            ],
+            "album": "Too Right",
+            "played_at": "08/11/2026 - 13:43:52"
+        },
+        {
+            "song_name": "Too Right",
+            "artists": [
+                "tomy wyne"
+            ],
+            "album": "Too Right",
+            "played_at": "08/11/2026 - 13:07:58"
+        },
         {
             "song_name": "PAY AS YOU GO",
             "artists": [
@@ -1631,41 +1663,6 @@
             ],
             "album": "The Unknown",
             "played_at": "29/10/2026 - 22:03:49"
-        },
-        {
-            "song_name": "No Gravity",
-            "artists": [
-                "Toby Rose",
-                "Manaar"
-            ],
-            "album": "No Gravity",
-            "played_at": "29/10/2026 - 22:00:44"
-        },
-        {
-            "song_name": "Hello (The Sun Is Up Where Are You)",
-            "artists": [
-                "Mizmo"
-            ],
-            "album": "Hello (The Sun Is Up Where Are You)",
-            "played_at": "29/10/2026 - 21:58:40"
-        },
-        {
-            "song_name": "Solar Eclipse (feat. Don Toliver)",
-            "artists": [
-                "Drake",
-                "Don Toliver"
-            ],
-            "album": "HABIBTI (FOMO)",
-            "played_at": "29/10/2026 - 21:55:35"
-        },
-        {
-            "song_name": "Solar Eclipse (feat. Don Toliver)",
-            "artists": [
-                "Drake",
-                "Don Toliver"
-            ],
-            "album": "HABIBTI (FOMO)",
-            "played_at": "29/10/2026 - 14:00:18"
         }
     ]
 }

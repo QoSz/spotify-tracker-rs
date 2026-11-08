@@ -1,6 +1,38 @@
 {
-    "total_plays": 7340,
+    "total_plays": 7344,
     "tracks": [
+        {
+            "song_name": "PAY AS YOU GO",
+            "artists": [
+                "Ruby Waters"
+            ],
+            "album": "PAY AS YOU GO",
+            "played_at": "08/11/2026 - 12:56:04"
+        },
+        {
+            "song_name": "Nothing I Could Do",
+            "artists": [
+                "MORE&MORE"
+            ],
+            "album": "Nothing I Could Do",
+            "played_at": "08/11/2026 - 12:52:52"
+        },
+        {
+            "song_name": "Backseat",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "08/11/2026 - 12:49:53"
+        },
+        {
+            "song_name": "I Guess It’s Fuck Me",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Her Loss",
+            "played_at": "07/11/2026 - 23:16:39"
+        },
         {
             "song_name": "Without You",
             "artists": [
@@ -1634,41 +1666,6 @@
             ],
             "album": "HABIBTI (FOMO)",
             "played_at": "29/10/2026 - 14:00:18"
-        },
-        {
-            "song_name": "Slow Me Down",
-            "artists": [
-                "H:dn"
-            ],
-            "album": "Slow Me Down",
-            "played_at": "29/10/2026 - 13:58:37"
-        },
-        {
-            "song_name": "Now that i miss you",
-            "artists": [
-                "Edwardo Atlas",
-                "King Ky"
-            ],
-            "album": "Now that i miss you",
-            "played_at": "29/10/2026 - 13:56:05"
-        },
-        {
-            "song_name": "I Know Some Things",
-            "artists": [
-                "Pulyay",
-                "Marcel"
-            ],
-            "album": "I Know Some Things",
-            "played_at": "29/10/2026 - 13:53:25"
-        },
-        {
-            "song_name": "A MILLION",
-            "artists": [
-                "RUSSI",
-                "George Truly"
-            ],
-            "album": "A MILLION",
-            "played_at": "29/10/2026 - 13:50:57"
         }
     ]
 }

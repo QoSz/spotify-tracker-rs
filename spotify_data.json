@@ -1,6 +1,79 @@
 {
-    "total_plays": 7348,
+    "total_plays": 7357,
     "tracks": [
+        {
+            "song_name": "Man I Need",
+            "artists": [
+                "Olivia Dean"
+            ],
+            "album": "Man I Need",
+            "played_at": "08/11/2026 - 19:38:01"
+        },
+        {
+            "song_name": "Rein Me In (with Olivia Dean)",
+            "artists": [
+                "Sam Fender",
+                "Olivia Dean"
+            ],
+            "album": "People Watching (Deluxe Edition)",
+            "played_at": "08/11/2026 - 19:35:04"
+        },
+        {
+            "song_name": "Housewife",
+            "artists": [
+                "Tate McRae"
+            ],
+            "album": "Housewife",
+            "played_at": "08/11/2026 - 19:29:32"
+        },
+        {
+            "song_name": "Stop The Wedding!",
+            "artists": [
+                "Ashe"
+            ],
+            "album": "The Girl Of Your Dreams",
+            "played_at": "08/11/2026 - 19:26:10"
+        },
+        {
+            "song_name": "Babydoll",
+            "artists": [
+                "Jamie Miller"
+            ],
+            "album": "Babydoll",
+            "played_at": "08/11/2026 - 19:22:57"
+        },
+        {
+            "song_name": "Light Pollution",
+            "artists": [
+                "Elijah Blond"
+            ],
+            "album": "Oh, What a Distance",
+            "played_at": "08/11/2026 - 19:18:51"
+        },
+        {
+            "song_name": "Backseat",
+            "artists": [
+                "thebandfriday"
+            ],
+            "album": "Take Flight",
+            "played_at": "08/11/2026 - 19:16:18"
+        },
+        {
+            "song_name": "tolerance",
+            "artists": [
+                "Asal"
+            ],
+            "album": "Kiss the Sun",
+            "played_at": "08/11/2026 - 19:13:11"
+        },
+        {
+            "song_name": "tolerance",
+            "artists": [
+                "Asal"
+            ],
+            "album": "Kiss the Sun",
+            "played_at": "08/11/2026 - 14:02:21"
+        },
         {
             "song_name": "Tangerine",
             "artists": [
@@ -1589,80 +1662,6 @@
             ],
             "album": "The One That You Call",
             "played_at": "29/10/2026 - 22:30:41"
-        },
-        {
-            "song_name": "Good Enough",
-            "artists": [
-                "Bronze Whale"
-            ],
-            "album": "Good Enough",
-            "played_at": "29/10/2026 - 22:28:58"
-        },
-        {
-            "song_name": "If I Ever Talk To God",
-            "artists": [
-                "Landon Barker"
-            ],
-            "album": "If I Ever Talk To God",
-            "played_at": "29/10/2026 - 22:25:31"
-        },
-        {
-            "song_name": "Tinted",
-            "artists": [
-                "N.D.A.Y.I."
-            ],
-            "album": "Tinted",
-            "played_at": "29/10/2026 - 22:22:58"
-        },
-        {
-            "song_name": "Waiting All My Life",
-            "artists": [
-                "JLV"
-            ],
-            "album": "Waiting All My Life",
-            "played_at": "29/10/2026 - 22:19:39"
-        },
-        {
-            "song_name": "Hesitate - Reimagined",
-            "artists": [
-                "Meltt",
-                "Bayonne",
-                "New Constellations"
-            ],
-            "album": "Hesitate (Reimagined)",
-            "played_at": "29/10/2026 - 22:16:32"
-        },
-        {
-            "song_name": "Sex & Drugs",
-            "artists": [
-                "Temper City"
-            ],
-            "album": "Sex & Drugs",
-            "played_at": "29/10/2026 - 22:13:02"
-        },
-        {
-            "song_name": "why they care",
-            "artists": [
-                "Mosaé"
-            ],
-            "album": "why they care",
-            "played_at": "29/10/2026 - 22:09:54"
-        },
-        {
-            "song_name": "Switch",
-            "artists": [
-                "6LACK"
-            ],
-            "album": "East Atlanta Love Letter",
-            "played_at": "29/10/2026 - 22:07:09"
-        },
-        {
-            "song_name": "The Unknown",
-            "artists": [
-                "GOBAITH"
-            ],
-            "album": "The Unknown",
-            "played_at": "29/10/2026 - 22:03:49"
         }
     ]
 }

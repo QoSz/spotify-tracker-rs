@@ -1,6 +1,47 @@
 {
-    "total_plays": 7357,
+    "total_plays": 7362,
     "tracks": [
+        {
+            "song_name": "It Wasn't Me",
+            "artists": [
+                "Shaggy",
+                "Rik Rok"
+            ],
+            "album": "Hot Shot",
+            "played_at": "08/11/2026 - 20:05:24"
+        },
+        {
+            "song_name": "My Body Isn't Ready",
+            "artists": [
+                "sombr"
+            ],
+            "album": "My Body Isn't Ready",
+            "played_at": "08/11/2026 - 19:53:09"
+        },
+        {
+            "song_name": "Choosin' Texas",
+            "artists": [
+                "Ella Langley"
+            ],
+            "album": "Dandelion",
+            "played_at": "08/11/2026 - 19:47:27"
+        },
+        {
+            "song_name": "Nicole Kidman",
+            "artists": [
+                "ADÉLA"
+            ],
+            "album": "PRIMA",
+            "played_at": "08/11/2026 - 19:43:43"
+        },
+        {
+            "song_name": "Great Expectation",
+            "artists": [
+                "SIENNA SPIRO"
+            ],
+            "album": "Visitor",
+            "played_at": "08/11/2026 - 19:40:48"
+        },
         {
             "song_name": "Man I Need",
             "artists": [
@@ -1621,47 +1662,6 @@
             ],
             "album": "Where Are You Going?",
             "played_at": "29/10/2026 - 22:44:01"
-        },
-        {
-            "song_name": "Gory Love",
-            "artists": [
-                "Calabasas"
-            ],
-            "album": "Gory Love",
-            "played_at": "29/10/2026 - 22:40:35"
-        },
-        {
-            "song_name": "Go Crazy",
-            "artists": [
-                "Chris Brown",
-                "Young Thug"
-            ],
-            "album": "Slime & B",
-            "played_at": "29/10/2026 - 22:38:26"
-        },
-        {
-            "song_name": "Something I Need",
-            "artists": [
-                "Offset"
-            ],
-            "album": "Something I Need",
-            "played_at": "29/10/2026 - 22:35:36"
-        },
-        {
-            "song_name": "Lean On - Chill Mix",
-            "artists": [
-                "CAKES"
-            ],
-            "album": "Lean On (Chill Mix)",
-            "played_at": "29/10/2026 - 22:33:18"
-        },
-        {
-            "song_name": "The One That You Call",
-            "artists": [
-                "Mackenzy Mackay"
-            ],
-            "album": "The One That You Call",
-            "played_at": "29/10/2026 - 22:30:41"
         }
     ]
 }

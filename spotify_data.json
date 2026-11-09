@@ -1,6 +1,58 @@
 {
-    "total_plays": 7369,
+    "total_plays": 7375,
     "tracks": [
+        {
+            "song_name": "Unforgettable",
+            "artists": [
+                "French Montana",
+                "Swae Lee"
+            ],
+            "album": "Jungle Rules",
+            "played_at": "08/11/2026 - 23:10:11"
+        },
+        {
+            "song_name": "Girls Like You (feat. Cardi B) - Cardi B Version",
+            "artists": [
+                "Maroon 5",
+                "Cardi B"
+            ],
+            "album": "Red Pill Blues (Deluxe)",
+            "played_at": "08/11/2026 - 20:57:26"
+        },
+        {
+            "song_name": "Dark Horse",
+            "artists": [
+                "Katy Perry",
+                "Juicy J"
+            ],
+            "album": "PRISM (Deluxe)",
+            "played_at": "08/11/2026 - 20:53:24"
+        },
+        {
+            "song_name": "Somebody That I Used To Know",
+            "artists": [
+                "Gotye",
+                "Kimbra"
+            ],
+            "album": "Making Mirrors",
+            "played_at": "08/11/2026 - 20:49:55"
+        },
+        {
+            "song_name": "Perfect",
+            "artists": [
+                "Ed Sheeran"
+            ],
+            "album": "÷ (Deluxe)",
+            "played_at": "08/11/2026 - 20:45:58"
+        },
+        {
+            "song_name": "Shape of You",
+            "artists": [
+                "Ed Sheeran"
+            ],
+            "album": "÷ (Deluxe)",
+            "played_at": "08/11/2026 - 20:41:34"
+        },
         {
             "song_name": "Counting Stars",
             "artists": [
@@ -1610,57 +1662,6 @@
             ],
             "album": "Lonely",
             "played_at": "30/10/2026 - 09:08:43"
-        },
-        {
-            "song_name": "Lonely",
-            "artists": [
-                "George Truly"
-            ],
-            "album": "Lonely",
-            "played_at": "30/10/2026 - 00:10:45"
-        },
-        {
-            "song_name": "16always",
-            "artists": [
-                "Jonah Zed"
-            ],
-            "album": "LOVEWONTWAIT",
-            "played_at": "29/10/2026 - 23:14:48"
-        },
-        {
-            "song_name": "Cold Shoulder (feat. Don Toliver & Yebba)",
-            "artists": [
-                "Drake",
-                "Don Toliver",
-                "Yebba"
-            ],
-            "album": "HABIBTI (FOMO)",
-            "played_at": "29/10/2026 - 23:12:01"
-        },
-        {
-            "song_name": "Something Just Like This",
-            "artists": [
-                "The Chainsmokers",
-                "Coldplay"
-            ],
-            "album": "Memories...Do Not Open",
-            "played_at": "29/10/2026 - 23:08:13"
-        },
-        {
-            "song_name": "You Didn't Know Any Better",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "From Me To You Pack",
-            "played_at": "29/10/2026 - 23:04:13"
-        },
-        {
-            "song_name": "SKIES R BLUE",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Evening Demos",
-            "played_at": "29/10/2026 - 23:01:50"
         }
     ]
 }

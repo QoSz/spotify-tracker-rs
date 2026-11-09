@@ -1,6 +1,30 @@
 {
-    "total_plays": 7388,
+    "total_plays": 7391,
     "tracks": [
+        {
+            "song_name": "Find A Way",
+            "artists": [
+                "Will Swinton"
+            ],
+            "album": "Find A Way",
+            "played_at": "09/11/2026 - 14:17:06"
+        },
+        {
+            "song_name": "Oh Darlin'",
+            "artists": [
+                "tomy wyne"
+            ],
+            "album": "Oh Darlin'",
+            "played_at": "09/11/2026 - 14:14:14"
+        },
+        {
+            "song_name": "Oh Darlin'",
+            "artists": [
+                "tomy wyne"
+            ],
+            "album": "Oh Darlin'",
+            "played_at": "09/11/2026 - 11:06:18"
+        },
         {
             "song_name": "Rouge",
             "artists": [
@@ -1638,30 +1662,6 @@
             ],
             "album": "This Wasn't Meant For You Anyway",
             "played_at": "30/10/2026 - 18:31:20"
-        },
-        {
-            "song_name": "That’s So True",
-            "artists": [
-                "Gracie Abrams"
-            ],
-            "album": "The Secret of Us (Deluxe)",
-            "played_at": "30/10/2026 - 18:26:43"
-        },
-        {
-            "song_name": "End of Beginning",
-            "artists": [
-                "Djo"
-            ],
-            "album": "DECIDE",
-            "played_at": "30/10/2026 - 18:24:04"
-        },
-        {
-            "song_name": "Hurts So Good",
-            "artists": [
-                "Astrid S"
-            ],
-            "album": "Leave It Beautiful (Complete)",
-            "played_at": "30/10/2026 - 18:21:32"
         }
     ]
 }

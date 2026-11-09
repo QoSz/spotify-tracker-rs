@@ -1,6 +1,23 @@
 {
-    "total_plays": 7375,
+    "total_plays": 7377,
     "tracks": [
+        {
+            "song_name": "Who We Are",
+            "artists": [
+                "thebandfriday"
+            ],
+            "album": "Who We Are",
+            "played_at": "09/11/2026 - 08:59:16"
+        },
+        {
+            "song_name": "8:55 - Jend Remix",
+            "artists": [
+                "Jend",
+                "Byron Bennett"
+            ],
+            "album": "8:55 (Jend Remix)",
+            "played_at": "09/11/2026 - 08:56:28"
+        },
         {
             "song_name": "Unforgettable",
             "artists": [
@@ -1646,22 +1663,6 @@
             ],
             "album": "Housewife",
             "played_at": "30/10/2026 - 17:38:29"
-        },
-        {
-            "song_name": "Babydoll",
-            "artists": [
-                "Jamie Miller"
-            ],
-            "album": "Babydoll",
-            "played_at": "30/10/2026 - 17:35:07"
-        },
-        {
-            "song_name": "Lonely",
-            "artists": [
-                "George Truly"
-            ],
-            "album": "Lonely",
-            "played_at": "30/10/2026 - 09:08:43"
         }
     ]
 }

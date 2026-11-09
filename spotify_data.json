@@ -1,6 +1,78 @@
 {
-    "total_plays": 7377,
+    "total_plays": 7386,
     "tracks": [
+        {
+            "song_name": "Gemini",
+            "artists": [
+                "Easy Giant"
+            ],
+            "album": "Gemini",
+            "played_at": "09/11/2026 - 09:27:45"
+        },
+        {
+            "song_name": "feel like we used to",
+            "artists": [
+                "Zimmer90"
+            ],
+            "album": "Interior",
+            "played_at": "09/11/2026 - 09:24:57"
+        },
+        {
+            "song_name": "GET A GRIP",
+            "artists": [
+                "Ruby Waters"
+            ],
+            "album": "GET A GRIP",
+            "played_at": "09/11/2026 - 09:22:08"
+        },
+        {
+            "song_name": "Home",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality",
+            "played_at": "09/11/2026 - 09:19:25"
+        },
+        {
+            "song_name": "Seeds",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Seeds",
+            "played_at": "09/11/2026 - 09:16:55"
+        },
+        {
+            "song_name": "Ghost",
+            "artists": [
+                "Easy Giant"
+            ],
+            "album": "Ghost",
+            "played_at": "09/11/2026 - 09:13:23"
+        },
+        {
+            "song_name": "empty seats",
+            "artists": [
+                "Solo Kei"
+            ],
+            "album": "Wake Up Freezing",
+            "played_at": "09/11/2026 - 09:10:12"
+        },
+        {
+            "song_name": "Too Much",
+            "artists": [
+                "coldroses"
+            ],
+            "album": "Too Much",
+            "played_at": "09/11/2026 - 09:06:30"
+        },
+        {
+            "song_name": "Chasing California",
+            "artists": [
+                "RZGLD"
+            ],
+            "album": "Winter Waves",
+            "played_at": "09/11/2026 - 09:02:43"
+        },
         {
             "song_name": "Who We Are",
             "artists": [
@@ -1590,79 +1662,6 @@
             ],
             "album": "Unreal Unearth: Unaired",
             "played_at": "30/10/2026 - 18:14:45"
-        },
-        {
-            "song_name": "Slow It Down",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Fireworks & Rollerblades",
-            "played_at": "30/10/2026 - 18:10:41"
-        },
-        {
-            "song_name": "the cure",
-            "artists": [
-                "Olivia Rodrigo"
-            ],
-            "album": "you seem pretty sad for a girl so in love",
-            "played_at": "30/10/2026 - 18:05:18"
-        },
-        {
-            "song_name": "Choosin' Texas",
-            "artists": [
-                "Ella Langley"
-            ],
-            "album": "Dandelion",
-            "played_at": "30/10/2026 - 18:00:28"
-        },
-        {
-            "song_name": "Great Expectation",
-            "artists": [
-                "SIENNA SPIRO"
-            ],
-            "album": "Visitor",
-            "played_at": "30/10/2026 - 17:56:43"
-        },
-        {
-            "song_name": "Nicole Kidman",
-            "artists": [
-                "ADÉLA"
-            ],
-            "album": "PRIMA",
-            "played_at": "30/10/2026 - 17:53:56"
-        },
-        {
-            "song_name": "Man I Need",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "Man I Need",
-            "played_at": "30/10/2026 - 17:50:11"
-        },
-        {
-            "song_name": "Rein Me In (with Olivia Dean)",
-            "artists": [
-                "Sam Fender",
-                "Olivia Dean"
-            ],
-            "album": "People Watching (Deluxe Edition)",
-            "played_at": "30/10/2026 - 17:47:14"
-        },
-        {
-            "song_name": "Stop The Wedding!",
-            "artists": [
-                "Ashe"
-            ],
-            "album": "The Girl Of Your Dreams",
-            "played_at": "30/10/2026 - 17:41:41"
-        },
-        {
-            "song_name": "Housewife",
-            "artists": [
-                "Tate McRae"
-            ],
-            "album": "Housewife",
-            "played_at": "30/10/2026 - 17:38:29"
         }
     ]
 }

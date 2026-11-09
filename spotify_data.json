@@ -1,6 +1,22 @@
 {
-    "total_plays": 7386,
+    "total_plays": 7388,
     "tracks": [
+        {
+            "song_name": "Rouge",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Where Are You Going?",
+            "played_at": "09/11/2026 - 09:33:45"
+        },
+        {
+            "song_name": "Sideways",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "09/11/2026 - 09:30:45"
+        },
         {
             "song_name": "Gemini",
             "artists": [
@@ -1646,22 +1662,6 @@
             ],
             "album": "Leave It Beautiful (Complete)",
             "played_at": "30/10/2026 - 18:21:32"
-        },
-        {
-            "song_name": "Sailor Song",
-            "artists": [
-                "Gigi Perez"
-            ],
-            "album": "At The Beach, In Every Life",
-            "played_at": "30/10/2026 - 18:18:10"
-        },
-        {
-            "song_name": "Too Sweet",
-            "artists": [
-                "Hozier"
-            ],
-            "album": "Unreal Unearth: Unaired",
-            "played_at": "30/10/2026 - 18:14:45"
         }
     ]
 }

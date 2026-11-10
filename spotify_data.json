@@ -1,6 +1,14 @@
 {
-    "total_plays": 7403,
+    "total_plays": 7404,
     "tracks": [
+        {
+            "song_name": "Golden Ticket (runaway)",
+            "artists": [
+                "joki"
+            ],
+            "album": "Golden Ticket (runaway)",
+            "played_at": "10/11/2026 - 17:24:05"
+        },
         {
             "song_name": "Golden Ticket (runaway)",
             "artists": [
@@ -1648,14 +1656,6 @@
             ],
             "album": "Headlights (feat. KIDDO)",
             "played_at": "30/10/2026 - 19:17:45"
-        },
-        {
-            "song_name": "Messy",
-            "artists": [
-                "Lola Young"
-            ],
-            "album": "This Wasn't Meant For You Anyway",
-            "played_at": "30/10/2026 - 19:15:14"
         }
     ]
 }

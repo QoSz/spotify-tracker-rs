@@ -1,6 +1,42 @@
 {
-    "total_plays": 7404,
+    "total_plays": 7408,
     "tracks": [
+        {
+            "song_name": "Satisfy",
+            "artists": [
+                "Calvin Harris",
+                "Jazzy"
+            ],
+            "album": "Satisfy",
+            "played_at": "10/11/2026 - 19:18:57"
+        },
+        {
+            "song_name": "Rein Me In (with Olivia Dean)",
+            "artists": [
+                "Sam Fender",
+                "Olivia Dean"
+            ],
+            "album": "Rein Me In (with Olivia Dean)",
+            "played_at": "10/11/2026 - 19:15:57"
+        },
+        {
+            "song_name": "Out of Reach",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Dreams",
+            "played_at": "10/11/2026 - 19:09:27"
+        },
+        {
+            "song_name": "Doomsday (with Juice WRLD & Cordae)",
+            "artists": [
+                "Lyrical Lemonade",
+                "Juice WRLD",
+                "Cordae"
+            ],
+            "album": "Doomsday",
+            "played_at": "10/11/2026 - 19:06:54"
+        },
         {
             "song_name": "Golden Ticket (runaway)",
             "artists": [
@@ -1621,41 +1657,6 @@
             ],
             "album": "Just Keep Watching (From F1® The Movie)",
             "played_at": "30/10/2026 - 19:29:50"
-        },
-        {
-            "song_name": "Beauty And A Beat",
-            "artists": [
-                "Justin Bieber",
-                "Nicki Minaj"
-            ],
-            "album": "Believe",
-            "played_at": "30/10/2026 - 19:27:35"
-        },
-        {
-            "song_name": "Troubled Waters",
-            "artists": [
-                "Alex Warren"
-            ],
-            "album": "You'll Be Alright, Kid (Chapter 1)",
-            "played_at": "30/10/2026 - 19:23:54"
-        },
-        {
-            "song_name": "People",
-            "artists": [
-                "Libianca"
-            ],
-            "album": "People",
-            "played_at": "30/10/2026 - 19:20:43"
-        },
-        {
-            "song_name": "Headlights (feat. KIDDO)",
-            "artists": [
-                "Alok",
-                "Alan Walker",
-                "KIDDO"
-            ],
-            "album": "Headlights (feat. KIDDO)",
-            "played_at": "30/10/2026 - 19:17:45"
         }
     ]
 }

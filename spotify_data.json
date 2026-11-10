@@ -1,6 +1,22 @@
 {
-    "total_plays": 7392,
+    "total_plays": 7394,
     "tracks": [
+        {
+            "song_name": "Inwood Hill Park",
+            "artists": [
+                "6LACK"
+            ],
+            "album": "Since I Have A Lover",
+            "played_at": "10/11/2026 - 11:20:41"
+        },
+        {
+            "song_name": "Eyes Open",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Eyes Open",
+            "played_at": "10/11/2026 - 11:17:38"
+        },
         {
             "song_name": "2013",
             "artists": [
@@ -1643,25 +1659,6 @@
             ],
             "album": "I've Tried Everything But Therapy (Part 1)",
             "played_at": "30/10/2026 - 18:45:02"
-        },
-        {
-            "song_name": "Royalty",
-            "artists": [
-                "Egzod",
-                "Maestro Chives",
-                "Neoni"
-            ],
-            "album": "Royalty",
-            "played_at": "30/10/2026 - 18:41:38"
-        },
-        {
-            "song_name": "For My Hand (feat. Ed Sheeran)",
-            "artists": [
-                "Burna Boy",
-                "Ed Sheeran"
-            ],
-            "album": "Love, Damini",
-            "played_at": "30/10/2026 - 18:38:02"
         }
     ]
 }

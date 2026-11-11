@@ -1,6 +1,233 @@
 {
-    "total_plays": 7409,
+    "total_plays": 7438,
     "tracks": [
+        {
+            "song_name": "Redemption (feat. Nemzzz)",
+            "artists": [
+                "Kidwild",
+                "Nemzzz"
+            ],
+            "album": "Redemption (feat. Nemzzz)",
+            "played_at": "11/11/2026 - 14:44:09"
+        },
+        {
+            "song_name": "Escape",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "Escape",
+            "played_at": "11/11/2026 - 14:41:41"
+        },
+        {
+            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
+            "artists": [
+                "ONEFOUR",
+                "Nemzzz",
+                "Segway"
+            ],
+            "album": "Look At Me Now",
+            "played_at": "11/11/2026 - 14:39:39"
+        },
+        {
+            "song_name": "4AM",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "11/11/2026 - 14:37:04"
+        },
+        {
+            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
+            "artists": [
+                "ONEFOUR",
+                "Nemzzz",
+                "Segway"
+            ],
+            "album": "Look At Me Now",
+            "played_at": "11/11/2026 - 14:33:02"
+        },
+        {
+            "song_name": "Brilliant Mind II",
+            "artists": [
+                "Blanco",
+                "Nemzzz"
+            ],
+            "album": "Brilliant Mind II",
+            "played_at": "11/11/2026 - 14:30:27"
+        },
+        {
+            "song_name": "Miss Them Days",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/11/2026 - 14:27:44"
+        },
+        {
+            "song_name": "MR DND",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/11/2026 - 14:26:05"
+        },
+        {
+            "song_name": "8PM",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/11/2026 - 14:24:20"
+        },
+        {
+            "song_name": "Grand Prix",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/11/2026 - 14:21:29"
+        },
+        {
+            "song_name": "G7X",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/11/2026 - 14:20:04"
+        },
+        {
+            "song_name": "Innit",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/11/2026 - 14:18:50"
+        },
+        {
+            "song_name": "Miss Them Days",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/11/2026 - 13:38:03"
+        },
+        {
+            "song_name": "MR DND",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/11/2026 - 13:36:24"
+        },
+        {
+            "song_name": "8PM",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/11/2026 - 13:34:40"
+        },
+        {
+            "song_name": "Grand Prix",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/11/2026 - 13:25:09"
+        },
+        {
+            "song_name": "G7X",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/11/2026 - 13:23:45"
+        },
+        {
+            "song_name": "Innit",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "From Me 2 U",
+            "played_at": "11/11/2026 - 13:22:30"
+        },
+        {
+            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
+            "artists": [
+                "ONEFOUR",
+                "Nemzzz",
+                "Segway"
+            ],
+            "album": "Look At Me Now",
+            "played_at": "11/11/2026 - 13:20:39"
+        },
+        {
+            "song_name": "Brilliant Mind II",
+            "artists": [
+                "Blanco",
+                "Nemzzz"
+            ],
+            "album": "Brilliant Mind II",
+            "played_at": "11/11/2026 - 13:18:04"
+        },
+        {
+            "song_name": "PRINCE OF THE SCENE",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "11/11/2026 - 12:41:26"
+        },
+        {
+            "song_name": "4AM",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "11/11/2026 - 12:28:41"
+        },
+        {
+            "song_name": "GET READY",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "11/11/2026 - 12:26:12"
+        },
+        {
+            "song_name": "L's",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "DO NOT DISTURB (DELUXE)",
+            "played_at": "11/11/2026 - 12:23:54"
+        },
+        {
+            "song_name": "Redemption (feat. Nemzzz)",
+            "artists": [
+                "Kidwild",
+                "Nemzzz"
+            ],
+            "album": "Redemption (feat. Nemzzz)",
+            "played_at": "11/11/2026 - 12:22:03"
+        },
+        {
+            "song_name": "HATE ME LOVE ME",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "11/11/2026 - 12:19:35"
+        },
+        {
+            "song_name": "GASS (feat. Travis Scott)",
+            "artists": [
+                "Nemzzz",
+                "Travis Scott"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "11/11/2026 - 12:18:11"
+        },
         {
             "song_name": "I Knew It, I Knew You - From \"Toy Story 5\"",
             "artists": [
@@ -141,6 +368,22 @@
             ],
             "album": "Eyes Open",
             "played_at": "10/11/2026 - 11:17:38"
+        },
+        {
+            "song_name": "Teenage Fever",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "10/11/2026 - 07:46:24"
+        },
+        {
+            "song_name": "I Guess It’s Fuck Me",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Her Loss",
+            "played_at": "10/11/2026 - 07:15:29"
         },
         {
             "song_name": "2013",
@@ -1414,248 +1657,6 @@
             ],
             "album": "Wanna Be Somewhere With You",
             "played_at": "01/11/2026 - 12:29:52"
-        },
-        {
-            "song_name": "Let It Go",
-            "artists": [
-                "LNDRS"
-            ],
-            "album": "Let It Go",
-            "played_at": "01/11/2026 - 12:24:34"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "01/11/2026 - 12:22:11"
-        },
-        {
-            "song_name": "Papaoutai - Afro Soul",
-            "artists": [
-                "mikeeysmind",
-                "Chill77",
-                "Unjaps"
-            ],
-            "album": "Papaoutai (Afro Soul)",
-            "played_at": "01/11/2026 - 12:16:10"
-        },
-        {
-            "song_name": "Change",
-            "artists": [
-                "LAUREL"
-            ],
-            "album": "PALPITATIONS",
-            "played_at": "01/11/2026 - 11:41:32"
-        },
-        {
-            "song_name": "TOO LATE FOR YOU",
-            "artists": [
-                "alan vuong"
-            ],
-            "album": "HEAVEN SENT ME",
-            "played_at": "01/11/2026 - 11:30:40"
-        },
-        {
-            "song_name": "TREEHOUSE",
-            "artists": [
-                "tomy wyne"
-            ],
-            "album": "TREEHOUSE",
-            "played_at": "01/11/2026 - 11:26:09"
-        },
-        {
-            "song_name": "There's A Locked Up Safe",
-            "artists": [
-                "The Lanes"
-            ],
-            "album": "There's A Locked Up Safe",
-            "played_at": "01/11/2026 - 11:23:01"
-        },
-        {
-            "song_name": "Searching",
-            "artists": [
-                "Pallas Haze"
-            ],
-            "album": "Searching",
-            "played_at": "31/10/2026 - 18:33:32"
-        },
-        {
-            "song_name": "Dance It Out",
-            "artists": [
-                "Zimmer90"
-            ],
-            "album": "Endless Summer",
-            "played_at": "31/10/2026 - 18:27:12"
-        },
-        {
-            "song_name": "car",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "hickey",
-            "played_at": "31/10/2026 - 18:24:05"
-        },
-        {
-            "song_name": "TELL 'EM YOU'RE MINE",
-            "artists": [
-                "alan vuong"
-            ],
-            "album": "HEAVEN SENT ME",
-            "played_at": "31/10/2026 - 18:20:54"
-        },
-        {
-            "song_name": "ONLY U",
-            "artists": [
-                "Newport"
-            ],
-            "album": "ONLY U",
-            "played_at": "31/10/2026 - 18:18:22"
-        },
-        {
-            "song_name": "Headlights",
-            "artists": [
-                "In Color"
-            ],
-            "album": "Headlights",
-            "played_at": "31/10/2026 - 18:14:48"
-        },
-        {
-            "song_name": "Feeling Good",
-            "artists": [
-                "SUPER-Hi"
-            ],
-            "album": "Feeling Good",
-            "played_at": "31/10/2026 - 18:12:05"
-        },
-        {
-            "song_name": "Catacombs",
-            "artists": [
-                "Krooked Kings"
-            ],
-            "album": "Shiver",
-            "played_at": "31/10/2026 - 18:08:42"
-        },
-        {
-            "song_name": "Your Number",
-            "artists": [
-                "thebandfriday"
-            ],
-            "album": "Take Flight",
-            "played_at": "31/10/2026 - 18:05:52"
-        },
-        {
-            "song_name": "Jungle",
-            "artists": [
-                "Somebody's Child"
-            ],
-            "album": "Jungle",
-            "played_at": "31/10/2026 - 18:02:04"
-        },
-        {
-            "song_name": "Firebird",
-            "artists": [
-                "Common Saints"
-            ],
-            "album": "Firebird",
-            "played_at": "31/10/2026 - 15:22:39"
-        },
-        {
-            "song_name": "20 Missed Calls",
-            "artists": [
-                "Billy Sharp"
-            ],
-            "album": "20 Missed Calls",
-            "played_at": "31/10/2026 - 15:11:07"
-        },
-        {
-            "song_name": "Daydream",
-            "artists": [
-                "Will Swinton"
-            ],
-            "album": "Daydream",
-            "played_at": "31/10/2026 - 15:08:07"
-        },
-        {
-            "song_name": "Memory Loss",
-            "artists": [
-                "Krooked Kings"
-            ],
-            "album": "Shiver",
-            "played_at": "31/10/2026 - 15:05:29"
-        },
-        {
-            "song_name": "Driver",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Driver",
-            "played_at": "31/10/2026 - 15:02:05"
-        },
-        {
-            "song_name": "All This Waiting",
-            "artists": [
-                "Wakely"
-            ],
-            "album": "Kind Eyes",
-            "played_at": "31/10/2026 - 14:59:26"
-        },
-        {
-            "song_name": "Papaoutai - Afro Soul",
-            "artists": [
-                "mikeeysmind",
-                "Chill77",
-                "Unjaps"
-            ],
-            "album": "Papaoutai (Afro Soul)",
-            "played_at": "30/10/2026 - 19:59:11"
-        },
-        {
-            "song_name": "Nice To Meet You",
-            "artists": [
-                "Myles Smith"
-            ],
-            "album": "My Mess, My Heart, My Life.",
-            "played_at": "30/10/2026 - 19:45:20"
-        },
-        {
-            "song_name": "Move (feat. Camila Cabello & Malachiii)",
-            "artists": [
-                "Stryv",
-                "Camila Cabello",
-                "Malachiii",
-                "Adam Port",
-                "Keinemusik",
-                "Orso"
-            ],
-            "album": "Move (feat. Camila Cabello & Malachiii)",
-            "played_at": "30/10/2026 - 19:42:31"
-        },
-        {
-            "song_name": "End of Beginning",
-            "artists": [
-                "Djo"
-            ],
-            "album": "DECIDE",
-            "played_at": "30/10/2026 - 19:39:37"
-        },
-        {
-            "song_name": "Die With A Smile",
-            "artists": [
-                "Lady Gaga",
-                "Bruno Mars"
-            ],
-            "album": "MAYHEM",
-            "played_at": "30/10/2026 - 19:37:05"
-        },
-        {
-            "song_name": "WHERE IS MY HUSBAND!",
-            "artists": [
-                "RAYE"
-            ],
-            "album": "THIS MUSIC MAY CONTAIN HOPE.",
-            "played_at": "30/10/2026 - 19:33:00"
         }
     ]
 }

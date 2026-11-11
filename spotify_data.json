@@ -1,6 +1,82 @@
 {
-    "total_plays": 7439,
+    "total_plays": 7448,
     "tracks": [
+        {
+            "song_name": "Grain of Salt",
+            "artists": [
+                "EZMNY",
+                "G-Eazy",
+                "Ty Dolla $ign",
+                "rjtheweirdo",
+                "Bizzy Crook"
+            ],
+            "album": "Grain of Salt",
+            "played_at": "11/11/2026 - 20:46:02"
+        },
+        {
+            "song_name": "PAY CHECK",
+            "artists": [
+                "Matt Corman"
+            ],
+            "album": "PAY CHECK",
+            "played_at": "11/11/2026 - 20:43:27"
+        },
+        {
+            "song_name": "Just 4 Me",
+            "artists": [
+                "JBEE"
+            ],
+            "album": "HBK",
+            "played_at": "11/11/2026 - 20:40:09"
+        },
+        {
+            "song_name": "Cocaine Clouds",
+            "artists": [
+                "French The Kid"
+            ],
+            "album": "Can't Kill Bill",
+            "played_at": "11/11/2026 - 20:37:13"
+        },
+        {
+            "song_name": "7am On Bridle Path",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Certified Lover Boy",
+            "played_at": "11/11/2026 - 20:34:35"
+        },
+        {
+            "song_name": "london pt. 2",
+            "artists": [
+                "Solo Kei"
+            ],
+            "album": "Wake Up Freezing",
+            "played_at": "11/11/2026 - 20:27:49"
+        },
+        {
+            "song_name": "Driver",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Driver",
+            "played_at": "11/11/2026 - 20:25:54"
+        },
+        {
+            "song_name": "Amends",
+            "artists": [
+                "Marlon Funaki"
+            ],
+            "album": "Overdue",
+            "played_at": "11/11/2026 - 20:23:15"
+        },
+        {
+            "song_name": "TOO LATE FOR YOU",
+            "artists": [
+                "alan vuong"
+            ],
+            "album": "HEAVEN SENT ME",
+            "played_at": "11/11/2026 - 20:19:20"
+        },
         {
             "song_name": "DILEMMA (feat. Central Cee)",
             "artists": [
@@ -1584,80 +1660,6 @@
             ],
             "album": "you seem pretty sad for a girl so in love",
             "played_at": "01/11/2026 - 13:00:30"
-        },
-        {
-            "song_name": "see it in your face",
-            "artists": [
-                "Stevie Daniels",
-                "mike."
-            ],
-            "album": "#witwisd",
-            "played_at": "01/11/2026 - 12:57:07"
-        },
-        {
-            "song_name": "What You Got",
-            "artists": [
-                "Quail P"
-            ],
-            "album": "Who Is Quail?",
-            "played_at": "01/11/2026 - 12:54:31"
-        },
-        {
-            "song_name": "my turn",
-            "artists": [
-                "origins"
-            ],
-            "album": "my turn",
-            "played_at": "01/11/2026 - 12:51:24"
-        },
-        {
-            "song_name": "My Left",
-            "artists": [
-                "George Truly"
-            ],
-            "album": "My Left",
-            "played_at": "01/11/2026 - 12:48:40"
-        },
-        {
-            "song_name": "You and Me",
-            "artists": [
-                "heylucas"
-            ],
-            "album": "hey",
-            "played_at": "01/11/2026 - 12:45:57"
-        },
-        {
-            "song_name": "All My Love",
-            "artists": [
-                "Elderbrook"
-            ],
-            "album": "Why Do We Shake In The Cold?",
-            "played_at": "01/11/2026 - 12:43:21"
-        },
-        {
-            "song_name": "Fever",
-            "artists": [
-                "Emmit Fenn"
-            ],
-            "album": "Fever",
-            "played_at": "01/11/2026 - 12:39:57"
-        },
-        {
-            "song_name": "About You",
-            "artists": [
-                "Nohr",
-                "AMRAC"
-            ],
-            "album": "About You",
-            "played_at": "01/11/2026 - 12:36:15"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "01/11/2026 - 12:33:53"
         }
     ]
 }

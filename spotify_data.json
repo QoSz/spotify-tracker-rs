@@ -1,6 +1,50 @@
 {
-    "total_plays": 7453,
+    "total_plays": 7458,
     "tracks": [
+        {
+            "song_name": "Escape",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "Escape",
+            "played_at": "12/11/2026 - 13:28:58"
+        },
+        {
+            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
+            "artists": [
+                "ONEFOUR",
+                "Nemzzz",
+                "Segway"
+            ],
+            "album": "Look At Me Now",
+            "played_at": "12/11/2026 - 13:26:57"
+        },
+        {
+            "song_name": "4AM",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "12/11/2026 - 13:24:22"
+        },
+        {
+            "song_name": "GEEKIN (feat. Lil Yachty)",
+            "artists": [
+                "Nemzzz",
+                "Lil Yachty"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "12/11/2026 - 13:21:53"
+        },
+        {
+            "song_name": "GEEKIN (feat. Lil Yachty)",
+            "artists": [
+                "Nemzzz",
+                "Lil Yachty"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "12/11/2026 - 11:29:30"
+        },
         {
             "song_name": "COLD",
             "artists": [
@@ -1620,47 +1664,6 @@
             ],
             "album": "pins",
             "played_at": "05/11/2026 - 15:18:09"
-        },
-        {
-            "song_name": "Fickle",
-            "artists": [
-                "Newport"
-            ],
-            "album": "Fickle",
-            "played_at": "05/11/2026 - 15:15:26"
-        },
-        {
-            "song_name": "Do You Even Know",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Running",
-            "played_at": "05/11/2026 - 15:12:17"
-        },
-        {
-            "song_name": "Now that i miss you",
-            "artists": [
-                "Edwardo Atlas",
-                "King Ky"
-            ],
-            "album": "Now that i miss you",
-            "played_at": "05/11/2026 - 15:08:51"
-        },
-        {
-            "song_name": "Keep On Running",
-            "artists": [
-                "Mizmo"
-            ],
-            "album": "Keep On Running",
-            "played_at": "05/11/2026 - 15:06:11"
-        },
-        {
-            "song_name": "How Can I Lose",
-            "artists": [
-                "George Truly"
-            ],
-            "album": "How Can I Lose",
-            "played_at": "05/11/2026 - 15:03:50"
         }
     ]
 }

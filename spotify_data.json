@@ -1,6 +1,87 @@
 {
-    "total_plays": 7485,
+    "total_plays": 7495,
     "tracks": [
+        {
+            "song_name": "The Less I Know The Better",
+            "artists": [
+                "Tame Impala"
+            ],
+            "album": "Currents",
+            "played_at": "12/11/2026 - 16:10:18"
+        },
+        {
+            "song_name": "We Could Start a War",
+            "artists": [
+                "Somebody's Child"
+            ],
+            "album": "20-Something",
+            "played_at": "12/11/2026 - 16:06:48"
+        },
+        {
+            "song_name": "tolerance",
+            "artists": [
+                "Asal"
+            ],
+            "album": "Kiss the Sun",
+            "played_at": "12/11/2026 - 16:03:22"
+        },
+        {
+            "song_name": "I Know Some Things",
+            "artists": [
+                "Pulyay",
+                "Marcel"
+            ],
+            "album": "I Know Some Things",
+            "played_at": "12/11/2026 - 16:00:16"
+        },
+        {
+            "song_name": "Oh Darlin'",
+            "artists": [
+                "tomy wyne"
+            ],
+            "album": "Oh Darlin'",
+            "played_at": "12/11/2026 - 15:57:49"
+        },
+        {
+            "song_name": "talk of the town",
+            "artists": [
+                "Jonah Zed"
+            ],
+            "album": "LOVEGONEBY",
+            "played_at": "12/11/2026 - 15:55:13"
+        },
+        {
+            "song_name": "Within You, Within Me",
+            "artists": [
+                "Meltt"
+            ],
+            "album": "Eternal Embers",
+            "played_at": "12/11/2026 - 15:52:43"
+        },
+        {
+            "song_name": "20 Missed Calls",
+            "artists": [
+                "Billy Sharp"
+            ],
+            "album": "20 Missed Calls",
+            "played_at": "12/11/2026 - 15:49:31"
+        },
+        {
+            "song_name": "TELL 'EM YOU'RE MINE",
+            "artists": [
+                "alan vuong"
+            ],
+            "album": "HEAVEN SENT ME",
+            "played_at": "12/11/2026 - 15:46:31"
+        },
+        {
+            "song_name": "Metaphor",
+            "artists": [
+                "Marlon Funaki"
+            ],
+            "album": "Metaphor",
+            "played_at": "12/11/2026 - 15:43:59"
+        },
         {
             "song_name": "Seeds",
             "artists": [
@@ -1574,90 +1655,6 @@
             ],
             "album": "If I Ever Talk To God",
             "played_at": "05/11/2026 - 17:19:51"
-        },
-        {
-            "song_name": "A New Day",
-            "artists": [
-                "Last Sun"
-            ],
-            "album": "A New Day",
-            "played_at": "05/11/2026 - 17:17:18"
-        },
-        {
-            "song_name": "lovely",
-            "artists": [
-                "Yara Lina."
-            ],
-            "album": "lovely",
-            "played_at": "05/11/2026 - 17:13:58"
-        },
-        {
-            "song_name": "No Gravity",
-            "artists": [
-                "Toby Rose",
-                "Manaar"
-            ],
-            "album": "No Gravity",
-            "played_at": "05/11/2026 - 17:11:27"
-        },
-        {
-            "song_name": "Dance It Out",
-            "artists": [
-                "Zimmer90"
-            ],
-            "album": "Endless Summer",
-            "played_at": "05/11/2026 - 17:09:22"
-        },
-        {
-            "song_name": "Tinted",
-            "artists": [
-                "N.D.A.Y.I."
-            ],
-            "album": "Tinted",
-            "played_at": "05/11/2026 - 17:06:15"
-        },
-        {
-            "song_name": "Tendencies",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Tendencies",
-            "played_at": "05/11/2026 - 17:02:56"
-        },
-        {
-            "song_name": "Oh My Love",
-            "artists": [
-                "RAZZ",
-                "Bayshore Court"
-            ],
-            "album": "Oh My Love",
-            "played_at": "05/11/2026 - 16:59:27"
-        },
-        {
-            "song_name": "Lonely",
-            "artists": [
-                "George Truly"
-            ],
-            "album": "Lonely",
-            "played_at": "05/11/2026 - 16:57:08"
-        },
-        {
-            "song_name": "Free My Mind",
-            "artists": [
-                "RUSSI",
-                "ZILO"
-            ],
-            "album": "Free My Mind",
-            "played_at": "05/11/2026 - 16:54:28"
-        },
-        {
-            "song_name": "LOYAL (feat. Drake)",
-            "artists": [
-                "PARTYNEXTDOOR",
-                "Drake"
-            ],
-            "album": "PARTYMOBILE",
-            "played_at": "05/11/2026 - 16:52:15"
         }
     ]
 }

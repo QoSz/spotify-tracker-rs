@@ -1,6 +1,23 @@
 {
-    "total_plays": 7451,
+    "total_plays": 7453,
     "tracks": [
+        {
+            "song_name": "COLD",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "RENT'S DUE (DELUXE)",
+            "played_at": "12/11/2026 - 11:24:11"
+        },
+        {
+            "song_name": "GASS (feat. Travis Scott)",
+            "artists": [
+                "Nemzzz",
+                "Travis Scott"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "12/11/2026 - 11:21:54"
+        },
         {
             "song_name": "We Good",
             "artists": [
@@ -1644,23 +1661,6 @@
             ],
             "album": "How Can I Lose",
             "played_at": "05/11/2026 - 15:03:50"
-        },
-        {
-            "song_name": "Reaching Up",
-            "artists": [
-                "Harmless Night",
-                "Ren Ocean"
-            ],
-            "album": "Reaching Up",
-            "played_at": "05/11/2026 - 15:01:26"
-        },
-        {
-            "song_name": "Sex & Drugs",
-            "artists": [
-                "Temper City"
-            ],
-            "album": "Sex & Drugs",
-            "played_at": "05/11/2026 - 14:58:42"
         }
     ]
 }

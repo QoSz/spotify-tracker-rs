@@ -1,6 +1,32 @@
 {
-    "total_plays": 7448,
+    "total_plays": 7451,
     "tracks": [
+        {
+            "song_name": "We Good",
+            "artists": [
+                "N.D.A.Y.I."
+            ],
+            "album": "We Good",
+            "played_at": "11/11/2026 - 21:02:53"
+        },
+        {
+            "song_name": "A Week In Paris",
+            "artists": [
+                "2 Chainz"
+            ],
+            "album": "A Week In Paris",
+            "played_at": "11/11/2026 - 20:52:05"
+        },
+        {
+            "song_name": "Globetrotters",
+            "artists": [
+                "Statik Selektah",
+                "Lord Sko",
+                "Logic"
+            ],
+            "album": "Expensive Taste",
+            "played_at": "11/11/2026 - 20:49:08"
+        },
         {
             "song_name": "Grain of Salt",
             "artists": [
@@ -1635,31 +1661,6 @@
             ],
             "album": "Sex & Drugs",
             "played_at": "05/11/2026 - 14:58:42"
-        },
-        {
-            "song_name": "what did you do ?",
-            "artists": [
-                "Holseek",
-                "Noche"
-            ],
-            "album": "what did you do ?",
-            "played_at": "01/11/2026 - 13:17:04"
-        },
-        {
-            "song_name": "Maliwa",
-            "artists": [
-                "Aureline"
-            ],
-            "album": "Maliwa",
-            "played_at": "01/11/2026 - 13:02:39"
-        },
-        {
-            "song_name": "stupid song",
-            "artists": [
-                "Olivia Rodrigo"
-            ],
-            "album": "you seem pretty sad for a girl so in love",
-            "played_at": "01/11/2026 - 13:00:30"
         }
     ]
 }

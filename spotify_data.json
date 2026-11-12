@@ -1,6 +1,80 @@
 {
-    "total_plays": 7495,
+    "total_plays": 7504,
     "tracks": [
+        {
+            "song_name": "Eyes Blue",
+            "artists": [
+                "Kublaii"
+            ],
+            "album": "Eyes Blue",
+            "played_at": "12/11/2026 - 16:41:41"
+        },
+        {
+            "song_name": "Thoughts",
+            "artists": [
+                "Marlon Funaki"
+            ],
+            "album": "Thoughts",
+            "played_at": "12/11/2026 - 16:38:11"
+        },
+        {
+            "song_name": "Learn To Let You Go",
+            "artists": [
+                "Zimmer90",
+                "Balu Brigada"
+            ],
+            "album": "Interior",
+            "played_at": "12/11/2026 - 16:34:35"
+        },
+        {
+            "song_name": "Kool Aid",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "Sofa Kings",
+            "played_at": "12/11/2026 - 16:31:31"
+        },
+        {
+            "song_name": "Too Much",
+            "artists": [
+                "coldroses"
+            ],
+            "album": "Too Much",
+            "played_at": "12/11/2026 - 16:28:01"
+        },
+        {
+            "song_name": "feel like we used to",
+            "artists": [
+                "Zimmer90"
+            ],
+            "album": "Interior",
+            "played_at": "12/11/2026 - 16:23:59"
+        },
+        {
+            "song_name": "The Painter",
+            "artists": [
+                "Mo Lowda & the Humble"
+            ],
+            "album": "Tailing the Ghost",
+            "played_at": "12/11/2026 - 16:21:10"
+        },
+        {
+            "song_name": "everything was fickle (feat. Arden Jones)",
+            "artists": [
+                "Newport",
+                "Arden Jones"
+            ],
+            "album": "everything was fickle (feat. Arden Jones)",
+            "played_at": "12/11/2026 - 16:17:20"
+        },
+        {
+            "song_name": "There's A Locked Up Safe",
+            "artists": [
+                "The Lanes"
+            ],
+            "album": "There's A Locked Up Safe",
+            "played_at": "12/11/2026 - 16:14:11"
+        },
         {
             "song_name": "The Less I Know The Better",
             "artists": [
@@ -1583,78 +1657,6 @@
             ],
             "album": "Free My Mind",
             "played_at": "05/11/2026 - 17:43:39"
-        },
-        {
-            "song_name": "lost lost",
-            "artists": [
-                "Muffled Hour"
-            ],
-            "album": "lost lost",
-            "played_at": "05/11/2026 - 17:41:26"
-        },
-        {
-            "song_name": "How Can I Lose",
-            "artists": [
-                "George Truly"
-            ],
-            "album": "How Can I Lose",
-            "played_at": "05/11/2026 - 17:39:48"
-        },
-        {
-            "song_name": "what it takes",
-            "artists": [
-                "Dizaro"
-            ],
-            "album": "what it takes",
-            "played_at": "05/11/2026 - 17:37:24"
-        },
-        {
-            "song_name": "Sex & Drugs",
-            "artists": [
-                "Temper City"
-            ],
-            "album": "Sex & Drugs",
-            "played_at": "05/11/2026 - 17:35:11"
-        },
-        {
-            "song_name": "my turn",
-            "artists": [
-                "origins"
-            ],
-            "album": "my turn",
-            "played_at": "05/11/2026 - 17:31:55"
-        },
-        {
-            "song_name": "lost lost",
-            "artists": [
-                "Muffled Hour"
-            ],
-            "album": "lost lost",
-            "played_at": "05/11/2026 - 17:29:11"
-        },
-        {
-            "song_name": "Mr. Rager",
-            "artists": [
-                "Kid Cudi"
-            ],
-            "album": "Man On The Moon II: The Legend Of Mr. Rager",
-            "played_at": "05/11/2026 - 17:27:33"
-        },
-        {
-            "song_name": "Feel This",
-            "artists": [
-                "DÏVÄG"
-            ],
-            "album": "Feel This",
-            "played_at": "05/11/2026 - 17:22:46"
-        },
-        {
-            "song_name": "If I Ever Talk To God",
-            "artists": [
-                "Landon Barker"
-            ],
-            "album": "If I Ever Talk To God",
-            "played_at": "05/11/2026 - 17:19:51"
         }
     ]
 }

@@ -1,6 +1,30 @@
 {
-    "total_plays": 7504,
+    "total_plays": 7507,
     "tracks": [
+        {
+            "song_name": "Is There Anyone?",
+            "artists": [
+                "In Color"
+            ],
+            "album": "Is There Anyone?",
+            "played_at": "12/11/2026 - 17:04:54"
+        },
+        {
+            "song_name": "Fickle",
+            "artists": [
+                "Newport"
+            ],
+            "album": "Fickle",
+            "played_at": "12/11/2026 - 16:47:23"
+        },
+        {
+            "song_name": "If I Ever Talk To God",
+            "artists": [
+                "Landon Barker"
+            ],
+            "album": "If I Ever Talk To God",
+            "played_at": "12/11/2026 - 16:44:14"
+        },
         {
             "song_name": "Eyes Blue",
             "artists": [
@@ -1632,31 +1656,6 @@
             ],
             "album": "No Gravity",
             "played_at": "05/11/2026 - 17:50:47"
-        },
-        {
-            "song_name": "pins",
-            "artists": [
-                "all things break"
-            ],
-            "album": "pins",
-            "played_at": "05/11/2026 - 17:48:43"
-        },
-        {
-            "song_name": "Keep On Running",
-            "artists": [
-                "Mizmo"
-            ],
-            "album": "Keep On Running",
-            "played_at": "05/11/2026 - 17:46:00"
-        },
-        {
-            "song_name": "Free My Mind",
-            "artists": [
-                "RUSSI",
-                "ZILO"
-            ],
-            "album": "Free My Mind",
-            "played_at": "05/11/2026 - 17:43:39"
         }
     ]
 }

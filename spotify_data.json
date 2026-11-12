@@ -1,6 +1,14 @@
 {
-    "total_plays": 7514,
+    "total_plays": 7515,
     "tracks": [
+        {
+            "song_name": "Bando",
+            "artists": [
+                "Junior RCE"
+            ],
+            "album": "Bando",
+            "played_at": "12/11/2026 - 19:23:04"
+        },
         {
             "song_name": "Whisper My Name",
             "artists": [
@@ -1644,16 +1652,6 @@
             ],
             "album": "Gilberto's Son",
             "played_at": "06/11/2026 - 07:24:48"
-        },
-        {
-            "song_name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-            "artists": [
-                "Ty Dolla $ign",
-                "Quavo",
-                "Juicy J"
-            ],
-            "album": "TYCOON",
-            "played_at": "06/11/2026 - 07:22:18"
         }
     ]
 }

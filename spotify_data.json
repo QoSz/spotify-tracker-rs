@@ -1,6 +1,75 @@
 {
-    "total_plays": 7521,
+    "total_plays": 7529,
     "tracks": [
+        {
+            "song_name": "I Love It (feat. Charli XCX)",
+            "artists": [
+                "Icona Pop",
+                "Charli xcx"
+            ],
+            "album": "THIS IS... ICONA POP",
+            "played_at": "13/11/2026 - 18:53:34"
+        },
+        {
+            "song_name": "Shake It Off",
+            "artists": [
+                "Taylor Swift"
+            ],
+            "album": "1989 (Deluxe)",
+            "played_at": "13/11/2026 - 18:51:04"
+        },
+        {
+            "song_name": "Clique",
+            "artists": [
+                "Kanye West",
+                "JAŸ-Z",
+                "Big Sean"
+            ],
+            "album": "Kanye West Presents Good Music Cruel Summer",
+            "played_at": "13/11/2026 - 18:47:32"
+        },
+        {
+            "song_name": "Try",
+            "artists": [
+                "P!nk"
+            ],
+            "album": "The Truth About Love",
+            "played_at": "13/11/2026 - 18:42:45"
+        },
+        {
+            "song_name": "Bailando - Spanish Version",
+            "artists": [
+                "Enrique Iglesias",
+                "Descemer Bueno",
+                "Gente De Zona"
+            ],
+            "album": "SEX AND LOVE",
+            "played_at": "13/11/2026 - 18:38:44"
+        },
+        {
+            "song_name": "no tears left to cry",
+            "artists": [
+                "Ariana Grande"
+            ],
+            "album": "Sweetener",
+            "played_at": "13/11/2026 - 18:34:48"
+        },
+        {
+            "song_name": "Applause",
+            "artists": [
+                "Lady Gaga"
+            ],
+            "album": "Applause",
+            "played_at": "13/11/2026 - 18:31:29"
+        },
+        {
+            "song_name": "Applause",
+            "artists": [
+                "Lady Gaga"
+            ],
+            "album": "Applause",
+            "played_at": "13/11/2026 - 18:06:26"
+        },
         {
             "song_name": "SICKO MODE",
             "artists": [
@@ -1585,75 +1654,6 @@
             ],
             "album": "HEAVEN SENT ME",
             "played_at": "06/11/2026 - 16:37:19"
-        },
-        {
-            "song_name": "How Can I Lose",
-            "artists": [
-                "George Truly"
-            ],
-            "album": "How Can I Lose",
-            "played_at": "06/11/2026 - 16:34:47"
-        },
-        {
-            "song_name": "Oh My Love",
-            "artists": [
-                "RAZZ",
-                "Bayshore Court"
-            ],
-            "album": "Oh My Love",
-            "played_at": "06/11/2026 - 16:32:23"
-        },
-        {
-            "song_name": "No Gravity",
-            "artists": [
-                "Toby Rose",
-                "Manaar"
-            ],
-            "album": "No Gravity",
-            "played_at": "06/11/2026 - 16:30:04"
-        },
-        {
-            "song_name": "pins",
-            "artists": [
-                "all things break"
-            ],
-            "album": "pins",
-            "played_at": "06/11/2026 - 16:27:59"
-        },
-        {
-            "song_name": "Free My Mind",
-            "artists": [
-                "RUSSI",
-                "ZILO"
-            ],
-            "album": "Free My Mind",
-            "played_at": "06/11/2026 - 16:25:16"
-        },
-        {
-            "song_name": "side by side",
-            "artists": [
-                "drill clinton"
-            ],
-            "album": "u get me.",
-            "played_at": "06/11/2026 - 11:10:02"
-        },
-        {
-            "song_name": "Pursuit Of Happiness (Nightmare)",
-            "artists": [
-                "Kid Cudi",
-                "MGMT",
-                "Ratatat"
-            ],
-            "album": "Man On The Moon: The End Of Day (Int'l Version)",
-            "played_at": "06/11/2026 - 10:25:44"
-        },
-        {
-            "song_name": "Word is Bond",
-            "artists": [
-                "Khantrast"
-            ],
-            "album": "Chinatowns Favorite",
-            "played_at": "06/11/2026 - 10:13:31"
         }
     ]
 }

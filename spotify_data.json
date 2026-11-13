@@ -1,6 +1,50 @@
 {
-    "total_plays": 7516,
+    "total_plays": 7521,
     "tracks": [
+        {
+            "song_name": "SICKO MODE",
+            "artists": [
+                "Travis Scott"
+            ],
+            "album": "ASTROWORLD",
+            "played_at": "13/11/2026 - 17:48:48"
+        },
+        {
+            "song_name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
+            "artists": [
+                "David Guetta",
+                "AFROJACK",
+                "Bebe Rexha",
+                "Nicki Minaj"
+            ],
+            "album": "Listen",
+            "played_at": "13/11/2026 - 17:43:42"
+        },
+        {
+            "song_name": "Shut Up and Dance",
+            "artists": [
+                "WALK THE MOON"
+            ],
+            "album": "TALKING IS HARD (Expanded Edition)",
+            "played_at": "13/11/2026 - 17:40:37"
+        },
+        {
+            "song_name": "Me, Myself & I",
+            "artists": [
+                "G-Eazy",
+                "Bebe Rexha"
+            ],
+            "album": "When It's Dark Out",
+            "played_at": "13/11/2026 - 17:36:02"
+        },
+        {
+            "song_name": "Radioactive",
+            "artists": [
+                "Imagine Dragons"
+            ],
+            "album": "Night Visions",
+            "played_at": "13/11/2026 - 17:31:58"
+        },
         {
             "song_name": "Bando",
             "artists": [
@@ -1610,48 +1654,6 @@
             ],
             "album": "Chinatowns Favorite",
             "played_at": "06/11/2026 - 10:13:31"
-        },
-        {
-            "song_name": "Heart In Pieces",
-            "artists": [
-                "Future",
-                "Lil Uzi Vert"
-            ],
-            "album": "Pluto x Baby Pluto (Deluxe)",
-            "played_at": "06/11/2026 - 10:09:19"
-        },
-        {
-            "song_name": "What You Wanna Try",
-            "artists": [
-                "Masego"
-            ],
-            "album": "Masego",
-            "played_at": "06/11/2026 - 07:46:44"
-        },
-        {
-            "song_name": "Far Away (feat. A$AP Rocky)",
-            "artists": [
-                "Yebba",
-                "A$AP Rocky"
-            ],
-            "album": "Dawn",
-            "played_at": "06/11/2026 - 07:33:41"
-        },
-        {
-            "song_name": "Baby Baby",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Get A Good Look",
-            "played_at": "06/11/2026 - 07:30:29"
-        },
-        {
-            "song_name": "You Are the Right One",
-            "artists": [
-                "Sports"
-            ],
-            "album": "Naked All the Time",
-            "played_at": "06/11/2026 - 07:27:33"
         }
     ]
 }

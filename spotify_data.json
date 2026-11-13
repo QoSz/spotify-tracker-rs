@@ -1,6 +1,14 @@
 {
-    "total_plays": 7515,
+    "total_plays": 7516,
     "tracks": [
+        {
+            "song_name": "Bando",
+            "artists": [
+                "Junior RCE"
+            ],
+            "album": "Bando",
+            "played_at": "13/11/2026 - 07:46:40"
+        },
         {
             "song_name": "Bando",
             "artists": [
@@ -1644,14 +1652,6 @@
             ],
             "album": "Naked All the Time",
             "played_at": "06/11/2026 - 07:27:33"
-        },
-        {
-            "song_name": "Sombrero",
-            "artists": [
-                "Blanco"
-            ],
-            "album": "Gilberto's Son",
-            "played_at": "06/11/2026 - 07:24:48"
         }
     ]
 }

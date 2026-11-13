@@ -1,6 +1,30 @@
 {
-    "total_plays": 7529,
+    "total_plays": 7532,
     "tracks": [
+        {
+            "song_name": "I'm Not The Only One",
+            "artists": [
+                "Sam Smith"
+            ],
+            "album": "In The Lonely Hour",
+            "played_at": "13/11/2026 - 20:23:02"
+        },
+        {
+            "song_name": "Look Back at It",
+            "artists": [
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "Hoodie SZN",
+            "played_at": "13/11/2026 - 20:19:10"
+        },
+        {
+            "song_name": "Look Back at It",
+            "artists": [
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "Hoodie SZN",
+            "played_at": "13/11/2026 - 19:06:42"
+        },
         {
             "song_name": "I Love It (feat. Charli XCX)",
             "artists": [
@@ -1629,31 +1653,6 @@
             ],
             "album": "it felt different",
             "played_at": "06/11/2026 - 16:47:12"
-        },
-        {
-            "song_name": "NOT ENOUGH",
-            "artists": [
-                "ASK YOUR FRIENDS"
-            ],
-            "album": "NOT ENOUGH",
-            "played_at": "06/11/2026 - 16:43:39"
-        },
-        {
-            "song_name": "Stay Now",
-            "artists": [
-                "Rules",
-                "Maverick Sabre"
-            ],
-            "album": "Stay Now",
-            "played_at": "06/11/2026 - 16:40:40"
-        },
-        {
-            "song_name": "TELL 'EM YOU'RE MINE",
-            "artists": [
-                "alan vuong"
-            ],
-            "album": "HEAVEN SENT ME",
-            "played_at": "06/11/2026 - 16:37:19"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
-    "total_plays": 7545,
+    "total_plays": 7547,
     "tracks": [
+        {
+            "song_name": "Ex's & Oh's",
+            "artists": [
+                "Elle King"
+            ],
+            "album": "Love Stuff",
+            "played_at": "14/11/2026 - 15:34:27"
+        },
+        {
+            "song_name": "Ex's & Oh's",
+            "artists": [
+                "Elle King"
+            ],
+            "album": "Love Stuff",
+            "played_at": "14/11/2026 - 14:17:31"
+        },
         {
             "song_name": "See You Again (feat. Charlie Puth)",
             "artists": [
@@ -1636,22 +1652,6 @@
             ],
             "album": "Tangerine",
             "played_at": "08/11/2026 - 13:49:17"
-        },
-        {
-            "song_name": "Headlights",
-            "artists": [
-                "In Color"
-            ],
-            "album": "Headlights",
-            "played_at": "08/11/2026 - 13:46:35"
-        },
-        {
-            "song_name": "Too Right",
-            "artists": [
-                "tomy wyne"
-            ],
-            "album": "Too Right",
-            "played_at": "08/11/2026 - 13:43:52"
         }
     ]
 }

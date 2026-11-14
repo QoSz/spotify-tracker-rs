@@ -1,6 +1,56 @@
 {
-    "total_plays": 7550,
+    "total_plays": 7556,
     "tracks": [
+        {
+            "song_name": "Lights - Single Version",
+            "artists": [
+                "Ellie Goulding"
+            ],
+            "album": "Bright Lights (Lights Re-pack / Bonus Version)",
+            "played_at": "14/11/2026 - 17:43:28"
+        },
+        {
+            "song_name": "What Makes You Beautiful",
+            "artists": [
+                "One Direction"
+            ],
+            "album": "Up All Night",
+            "played_at": "14/11/2026 - 17:40:04"
+        },
+        {
+            "song_name": "Beautiful People (feat. Khalid)",
+            "artists": [
+                "Ed Sheeran",
+                "Khalid"
+            ],
+            "album": "Beautiful People (feat. Khalid)",
+            "played_at": "14/11/2026 - 17:36:51"
+        },
+        {
+            "song_name": "Money In The Grave (Drake ft. Rick Ross)",
+            "artists": [
+                "Drake",
+                "Rick Ross"
+            ],
+            "album": "The Best In The World Pack",
+            "played_at": "14/11/2026 - 17:33:40"
+        },
+        {
+            "song_name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+            "artists": [
+                "Ellie Goulding"
+            ],
+            "album": "Delirium (Deluxe)",
+            "played_at": "14/11/2026 - 17:30:22"
+        },
+        {
+            "song_name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+            "artists": [
+                "Ellie Goulding"
+            ],
+            "album": "Delirium (Deluxe)",
+            "played_at": "14/11/2026 - 16:38:23"
+        },
         {
             "song_name": "Don't",
             "artists": [
@@ -1603,55 +1653,6 @@
             ],
             "album": "Man I Need",
             "played_at": "08/11/2026 - 19:38:01"
-        },
-        {
-            "song_name": "Rein Me In (with Olivia Dean)",
-            "artists": [
-                "Sam Fender",
-                "Olivia Dean"
-            ],
-            "album": "People Watching (Deluxe Edition)",
-            "played_at": "08/11/2026 - 19:35:04"
-        },
-        {
-            "song_name": "Housewife",
-            "artists": [
-                "Tate McRae"
-            ],
-            "album": "Housewife",
-            "played_at": "08/11/2026 - 19:29:32"
-        },
-        {
-            "song_name": "Stop The Wedding!",
-            "artists": [
-                "Ashe"
-            ],
-            "album": "The Girl Of Your Dreams",
-            "played_at": "08/11/2026 - 19:26:10"
-        },
-        {
-            "song_name": "Babydoll",
-            "artists": [
-                "Jamie Miller"
-            ],
-            "album": "Babydoll",
-            "played_at": "08/11/2026 - 19:22:57"
-        },
-        {
-            "song_name": "Light Pollution",
-            "artists": [
-                "Elijah Blond"
-            ],
-            "album": "Oh, What a Distance",
-            "played_at": "08/11/2026 - 19:18:51"
-        },
-        {
-            "song_name": "Backseat",
-            "artists": [
-                "thebandfriday"
-            ],
-            "album": "Take Flight",
-            "played_at": "08/11/2026 - 19:16:18"
         }
     ]
 }

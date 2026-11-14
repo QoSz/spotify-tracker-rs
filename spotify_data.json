@@ -1,6 +1,30 @@
 {
-    "total_plays": 7547,
+    "total_plays": 7550,
     "tracks": [
+        {
+            "song_name": "Don't",
+            "artists": [
+                "Bryson Tiller"
+            ],
+            "album": "T R A P S O U L",
+            "played_at": "14/11/2026 - 16:15:57"
+        },
+        {
+            "song_name": "Nice For What",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Scorpion",
+            "played_at": "14/11/2026 - 16:12:45"
+        },
+        {
+            "song_name": "Nice For What",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Scorpion",
+            "played_at": "14/11/2026 - 15:46:35"
+        },
         {
             "song_name": "Ex's & Oh's",
             "artists": [
@@ -1628,30 +1652,6 @@
             ],
             "album": "Take Flight",
             "played_at": "08/11/2026 - 19:16:18"
-        },
-        {
-            "song_name": "tolerance",
-            "artists": [
-                "Asal"
-            ],
-            "album": "Kiss the Sun",
-            "played_at": "08/11/2026 - 19:13:11"
-        },
-        {
-            "song_name": "tolerance",
-            "artists": [
-                "Asal"
-            ],
-            "album": "Kiss the Sun",
-            "played_at": "08/11/2026 - 14:02:21"
-        },
-        {
-            "song_name": "Tangerine",
-            "artists": [
-                "Kublaii"
-            ],
-            "album": "Tangerine",
-            "played_at": "08/11/2026 - 13:49:17"
         }
     ]
 }

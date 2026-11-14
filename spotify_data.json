@@ -1,6 +1,57 @@
 {
-    "total_plays": 7556,
+    "total_plays": 7562,
     "tracks": [
+        {
+            "song_name": "Billionaire (feat. Bruno Mars)",
+            "artists": [
+                "Travie McCoy",
+                "Bruno Mars"
+            ],
+            "album": "Billionaire (feat. Bruno Mars)",
+            "played_at": "14/11/2026 - 22:09:47"
+        },
+        {
+            "song_name": "Issues",
+            "artists": [
+                "Julia Michaels"
+            ],
+            "album": "Nervous System",
+            "played_at": "14/11/2026 - 22:06:23"
+        },
+        {
+            "song_name": "Someone You Loved",
+            "artists": [
+                "Lewis Capaldi"
+            ],
+            "album": "Divinely Uninspired To A Hellish Extent",
+            "played_at": "14/11/2026 - 22:03:33"
+        },
+        {
+            "song_name": "Suge",
+            "artists": [
+                "DaBaby"
+            ],
+            "album": "Baby On Baby",
+            "played_at": "14/11/2026 - 22:00:38"
+        },
+        {
+            "song_name": "Bad and Boujee (feat. Lil Uzi Vert)",
+            "artists": [
+                "Migos",
+                "Lil Uzi Vert"
+            ],
+            "album": "Culture",
+            "played_at": "14/11/2026 - 21:58:02"
+        },
+        {
+            "song_name": "Bad and Boujee (feat. Lil Uzi Vert)",
+            "artists": [
+                "Migos",
+                "Lil Uzi Vert"
+            ],
+            "album": "Culture",
+            "played_at": "14/11/2026 - 18:02:18"
+        },
         {
             "song_name": "Lights - Single Version",
             "artists": [
@@ -1604,55 +1655,6 @@
             ],
             "album": "The Eminem Show",
             "played_at": "08/11/2026 - 20:10:08"
-        },
-        {
-            "song_name": "It Wasn't Me",
-            "artists": [
-                "Shaggy",
-                "Rik Rok"
-            ],
-            "album": "Hot Shot",
-            "played_at": "08/11/2026 - 20:05:24"
-        },
-        {
-            "song_name": "My Body Isn't Ready",
-            "artists": [
-                "sombr"
-            ],
-            "album": "My Body Isn't Ready",
-            "played_at": "08/11/2026 - 19:53:09"
-        },
-        {
-            "song_name": "Choosin' Texas",
-            "artists": [
-                "Ella Langley"
-            ],
-            "album": "Dandelion",
-            "played_at": "08/11/2026 - 19:47:27"
-        },
-        {
-            "song_name": "Nicole Kidman",
-            "artists": [
-                "ADÉLA"
-            ],
-            "album": "PRIMA",
-            "played_at": "08/11/2026 - 19:43:43"
-        },
-        {
-            "song_name": "Great Expectation",
-            "artists": [
-                "SIENNA SPIRO"
-            ],
-            "album": "Visitor",
-            "played_at": "08/11/2026 - 19:40:48"
-        },
-        {
-            "song_name": "Man I Need",
-            "artists": [
-                "Olivia Dean"
-            ],
-            "album": "Man I Need",
-            "played_at": "08/11/2026 - 19:38:01"
         }
     ]
 }

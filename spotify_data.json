@@ -1,6 +1,96 @@
 {
-    "total_plays": 7534,
+    "total_plays": 7545,
     "tracks": [
+        {
+            "song_name": "See You Again (feat. Charlie Puth)",
+            "artists": [
+                "Wiz Khalifa",
+                "Charlie Puth"
+            ],
+            "album": "See You Again (feat. Charlie Puth)",
+            "played_at": "14/11/2026 - 14:01:09"
+        },
+        {
+            "song_name": "Taste (feat. Offset)",
+            "artists": [
+                "Tyga",
+                "Offset"
+            ],
+            "album": "Taste (feat. Offset)",
+            "played_at": "14/11/2026 - 13:57:26"
+        },
+        {
+            "song_name": "7 rings",
+            "artists": [
+                "Ariana Grande"
+            ],
+            "album": "thank u, next",
+            "played_at": "14/11/2026 - 13:53:40"
+        },
+        {
+            "song_name": "should've never loved you",
+            "artists": [
+                "no regrets"
+            ],
+            "album": "should've never loved you",
+            "played_at": "14/11/2026 - 01:27:26"
+        },
+        {
+            "song_name": "When the Feeling Is Gone",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "When the Feeling Is Gone",
+            "played_at": "14/11/2026 - 01:16:16"
+        },
+        {
+            "song_name": "Love You",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "Love You",
+            "played_at": "14/11/2026 - 01:13:46"
+        },
+        {
+            "song_name": "can't live without you",
+            "artists": [
+                "zone"
+            ],
+            "album": "can't live without you",
+            "played_at": "14/11/2026 - 01:11:29"
+        },
+        {
+            "song_name": "Satellite Signal",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Satellite Signal",
+            "played_at": "14/11/2026 - 01:09:15"
+        },
+        {
+            "song_name": "my turn",
+            "artists": [
+                "origins"
+            ],
+            "album": "my turn",
+            "played_at": "14/11/2026 - 01:06:30"
+        },
+        {
+            "song_name": "Set Fire to the Rain",
+            "artists": [
+                "Adele"
+            ],
+            "album": "21",
+            "played_at": "14/11/2026 - 01:02:10"
+        },
+        {
+            "song_name": "Set Fire to the Rain",
+            "artists": [
+                "Adele"
+            ],
+            "album": "21",
+            "played_at": "13/11/2026 - 20:50:45"
+        },
         {
             "song_name": "Suit & Tie (feat. JAY-Z)",
             "artists": [
@@ -1562,95 +1652,6 @@
             ],
             "album": "Too Right",
             "played_at": "08/11/2026 - 13:43:52"
-        },
-        {
-            "song_name": "Too Right",
-            "artists": [
-                "tomy wyne"
-            ],
-            "album": "Too Right",
-            "played_at": "08/11/2026 - 13:07:58"
-        },
-        {
-            "song_name": "PAY AS YOU GO",
-            "artists": [
-                "Ruby Waters"
-            ],
-            "album": "PAY AS YOU GO",
-            "played_at": "08/11/2026 - 12:56:04"
-        },
-        {
-            "song_name": "Nothing I Could Do",
-            "artists": [
-                "MORE&MORE"
-            ],
-            "album": "Nothing I Could Do",
-            "played_at": "08/11/2026 - 12:52:52"
-        },
-        {
-            "song_name": "Backseat",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "08/11/2026 - 12:49:53"
-        },
-        {
-            "song_name": "I Guess It’s Fuck Me",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Her Loss",
-            "played_at": "07/11/2026 - 23:16:39"
-        },
-        {
-            "song_name": "Without You",
-            "artists": [
-                "RUSSI"
-            ],
-            "album": "Without You",
-            "played_at": "06/11/2026 - 17:18:59"
-        },
-        {
-            "song_name": "lovely",
-            "artists": [
-                "Yara Lina."
-            ],
-            "album": "lovely",
-            "played_at": "06/11/2026 - 17:03:31"
-        },
-        {
-            "song_name": "ONLY U",
-            "artists": [
-                "Newport"
-            ],
-            "album": "ONLY U",
-            "played_at": "06/11/2026 - 17:01:00"
-        },
-        {
-            "song_name": "I Know Some Things",
-            "artists": [
-                "Pulyay",
-                "Marcel"
-            ],
-            "album": "I Know Some Things",
-            "played_at": "06/11/2026 - 16:57:26"
-        },
-        {
-            "song_name": "Something I Need",
-            "artists": [
-                "Offset"
-            ],
-            "album": "Something I Need",
-            "played_at": "06/11/2026 - 16:54:58"
-        },
-        {
-            "song_name": "Spending Time",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Spending Time",
-            "played_at": "06/11/2026 - 16:52:39"
         }
     ]
 }

@@ -1,6 +1,106 @@
 {
-    "total_plays": 7566,
+    "total_plays": 7578,
     "tracks": [
+        {
+            "song_name": "Oh Darlin'",
+            "artists": [
+                "tomy wyne"
+            ],
+            "album": "Oh Darlin'",
+            "played_at": "15/11/2026 - 17:26:00"
+        },
+        {
+            "song_name": "Come Back To Me",
+            "artists": [
+                "Russ"
+            ],
+            "album": "Come Back To Me",
+            "played_at": "15/11/2026 - 17:23:24"
+        },
+        {
+            "song_name": "Tendencies",
+            "artists": [
+                "Lithe"
+            ],
+            "album": "Tendencies",
+            "played_at": "15/11/2026 - 17:20:25"
+        },
+        {
+            "song_name": "About You",
+            "artists": [
+                "Nohr",
+                "AMRAC"
+            ],
+            "album": "About You",
+            "played_at": "15/11/2026 - 17:18:32"
+        },
+        {
+            "song_name": "Easy On Me",
+            "artists": [
+                "Exit Coda",
+                "Six Hills"
+            ],
+            "album": "Easy On Me",
+            "played_at": "15/11/2026 - 17:16:10"
+        },
+        {
+            "song_name": "Home",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality (Complete Edition)",
+            "played_at": "15/11/2026 - 17:13:27"
+        },
+        {
+            "song_name": "I Don't Do This",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Running",
+            "played_at": "15/11/2026 - 17:10:56"
+        },
+        {
+            "song_name": "lovegoneby",
+            "artists": [
+                "Jonah Zed"
+            ],
+            "album": "LOVEGONEBY",
+            "played_at": "15/11/2026 - 17:08:06"
+        },
+        {
+            "song_name": "Echoes",
+            "artists": [
+                "Gavin Moss",
+                "RUSSI"
+            ],
+            "album": "Echoes",
+            "played_at": "15/11/2026 - 17:05:16"
+        },
+        {
+            "song_name": "Don't Go",
+            "artists": [
+                "PLVTO"
+            ],
+            "album": "Don't Go",
+            "played_at": "15/11/2026 - 17:03:15"
+        },
+        {
+            "song_name": "Santa Fe",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "Santa Fe",
+            "played_at": "15/11/2026 - 17:00:52"
+        },
+        {
+            "song_name": "float",
+            "artists": [
+                "mike.",
+                "Stevie Daniels"
+            ],
+            "album": "float",
+            "played_at": "15/11/2026 - 16:58:17"
+        },
         {
             "song_name": "Do You Even Know",
             "artists": [
@@ -1555,107 +1655,6 @@
             ],
             "album": "Too Much",
             "played_at": "09/11/2026 - 09:06:30"
-        },
-        {
-            "song_name": "Chasing California",
-            "artists": [
-                "RZGLD"
-            ],
-            "album": "Winter Waves",
-            "played_at": "09/11/2026 - 09:02:43"
-        },
-        {
-            "song_name": "Who We Are",
-            "artists": [
-                "thebandfriday"
-            ],
-            "album": "Who We Are",
-            "played_at": "09/11/2026 - 08:59:16"
-        },
-        {
-            "song_name": "8:55 - Jend Remix",
-            "artists": [
-                "Jend",
-                "Byron Bennett"
-            ],
-            "album": "8:55 (Jend Remix)",
-            "played_at": "09/11/2026 - 08:56:28"
-        },
-        {
-            "song_name": "Unforgettable",
-            "artists": [
-                "French Montana",
-                "Swae Lee"
-            ],
-            "album": "Jungle Rules",
-            "played_at": "08/11/2026 - 23:10:11"
-        },
-        {
-            "song_name": "Girls Like You (feat. Cardi B) - Cardi B Version",
-            "artists": [
-                "Maroon 5",
-                "Cardi B"
-            ],
-            "album": "Red Pill Blues (Deluxe)",
-            "played_at": "08/11/2026 - 20:57:26"
-        },
-        {
-            "song_name": "Dark Horse",
-            "artists": [
-                "Katy Perry",
-                "Juicy J"
-            ],
-            "album": "PRISM (Deluxe)",
-            "played_at": "08/11/2026 - 20:53:24"
-        },
-        {
-            "song_name": "Somebody That I Used To Know",
-            "artists": [
-                "Gotye",
-                "Kimbra"
-            ],
-            "album": "Making Mirrors",
-            "played_at": "08/11/2026 - 20:49:55"
-        },
-        {
-            "song_name": "Perfect",
-            "artists": [
-                "Ed Sheeran"
-            ],
-            "album": "÷ (Deluxe)",
-            "played_at": "08/11/2026 - 20:45:58"
-        },
-        {
-            "song_name": "Shape of You",
-            "artists": [
-                "Ed Sheeran"
-            ],
-            "album": "÷ (Deluxe)",
-            "played_at": "08/11/2026 - 20:41:34"
-        },
-        {
-            "song_name": "Counting Stars",
-            "artists": [
-                "OneRepublic"
-            ],
-            "album": "Native",
-            "played_at": "08/11/2026 - 20:37:47"
-        },
-        {
-            "song_name": "Rolling in the Deep",
-            "artists": [
-                "Adele"
-            ],
-            "album": "21",
-            "played_at": "08/11/2026 - 20:33:37"
-        },
-        {
-            "song_name": "Radioactive",
-            "artists": [
-                "Imagine Dragons"
-            ],
-            "album": "Night Visions",
-            "played_at": "08/11/2026 - 20:29:37"
         }
     ]
 }

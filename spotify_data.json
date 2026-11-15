@@ -1,6 +1,14 @@
 {
-    "total_plays": 7581,
+    "total_plays": 7582,
     "tracks": [
+        {
+            "song_name": "Missing U Again",
+            "artists": [
+                "Diielex"
+            ],
+            "album": "Missing U Again",
+            "played_at": "15/11/2026 - 18:11:56"
+        },
         {
             "song_name": "side by side",
             "artists": [
@@ -1649,14 +1657,6 @@
             ],
             "album": "Blue Sky Mentality",
             "played_at": "09/11/2026 - 09:19:25"
-        },
-        {
-            "song_name": "Seeds",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Seeds",
-            "played_at": "09/11/2026 - 09:16:55"
         }
     ]
 }

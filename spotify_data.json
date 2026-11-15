@@ -1,6 +1,39 @@
 {
-    "total_plays": 7562,
+    "total_plays": 7566,
     "tracks": [
+        {
+            "song_name": "Do You Even Know",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Running",
+            "played_at": "15/11/2026 - 16:55:12"
+        },
+        {
+            "song_name": "Care 4 U",
+            "artists": [
+                "Last Sun"
+            ],
+            "album": "Care 4 U",
+            "played_at": "15/11/2026 - 16:51:46"
+        },
+        {
+            "song_name": "Switch",
+            "artists": [
+                "6LACK"
+            ],
+            "album": "East Atlanta Love Letter",
+            "played_at": "15/11/2026 - 16:49:00"
+        },
+        {
+            "song_name": "Just Give Me a Reason (feat. Nate Ruess)",
+            "artists": [
+                "P!nk",
+                "Nate Ruess"
+            ],
+            "album": "The Truth About Love",
+            "played_at": "14/11/2026 - 22:23:27"
+        },
         {
             "song_name": "Billionaire (feat. Bruno Mars)",
             "artists": [
@@ -1623,38 +1656,6 @@
             ],
             "album": "Night Visions",
             "played_at": "08/11/2026 - 20:29:37"
-        },
-        {
-            "song_name": "Wannabe",
-            "artists": [
-                "Spice Girls"
-            ],
-            "album": "Spice",
-            "played_at": "08/11/2026 - 20:24:14"
-        },
-        {
-            "song_name": "Ignition - Remix",
-            "artists": [
-                "R. Kelly"
-            ],
-            "album": "The Essential R. Kelly",
-            "played_at": "08/11/2026 - 20:20:44"
-        },
-        {
-            "song_name": "Pumped Up Kicks",
-            "artists": [
-                "Foster The People"
-            ],
-            "album": "Torches",
-            "played_at": "08/11/2026 - 20:14:00"
-        },
-        {
-            "song_name": "Without Me",
-            "artists": [
-                "Eminem"
-            ],
-            "album": "The Eminem Show",
-            "played_at": "08/11/2026 - 20:10:08"
         }
     ]
 }

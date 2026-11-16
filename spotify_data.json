@@ -1,6 +1,54 @@
 {
-    "total_plays": 7599,
+    "total_plays": 7605,
     "tracks": [
+        {
+            "song_name": "Sultans Of Swing",
+            "artists": [
+                "Dire Straits"
+            ],
+            "album": "Dire Straits",
+            "played_at": "16/11/2026 - 07:22:20"
+        },
+        {
+            "song_name": "Under the Bridge",
+            "artists": [
+                "Red Hot Chili Peppers"
+            ],
+            "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+            "played_at": "16/11/2026 - 07:16:38"
+        },
+        {
+            "song_name": "The Chain - 2004 Remaster",
+            "artists": [
+                "Fleetwood Mac"
+            ],
+            "album": "Rumours (Super Deluxe)",
+            "played_at": "16/11/2026 - 07:12:21"
+        },
+        {
+            "song_name": "Have You Ever Seen The Rain",
+            "artists": [
+                "Creedence Clearwater Revival"
+            ],
+            "album": "Pendulum (Expanded Edition)",
+            "played_at": "16/11/2026 - 07:07:58"
+        },
+        {
+            "song_name": "Up Around The Bend",
+            "artists": [
+                "Creedence Clearwater Revival"
+            ],
+            "album": "Cosmo's Factory",
+            "played_at": "16/11/2026 - 07:05:25"
+        },
+        {
+            "song_name": "Under the Bridge",
+            "artists": [
+                "Red Hot Chili Peppers"
+            ],
+            "album": "Blood Sugar Sex Magik (Deluxe Edition)",
+            "played_at": "16/11/2026 - 06:58:05"
+        },
         {
             "song_name": "The Chain - 2004 Remaster",
             "artists": [
@@ -1611,55 +1659,6 @@
             ],
             "album": "Golden Ticket (runaway)",
             "played_at": "10/11/2026 - 17:24:05"
-        },
-        {
-            "song_name": "Golden Ticket (runaway)",
-            "artists": [
-                "joki"
-            ],
-            "album": "Golden Ticket (runaway)",
-            "played_at": "10/11/2026 - 12:22:00"
-        },
-        {
-            "song_name": "My Pocket",
-            "artists": [
-                "Alex Keeper"
-            ],
-            "album": "My Pocket",
-            "played_at": "10/11/2026 - 11:43:44"
-        },
-        {
-            "song_name": "Lonely",
-            "artists": [
-                "George Truly"
-            ],
-            "album": "Lonely",
-            "played_at": "10/11/2026 - 11:41:06"
-        },
-        {
-            "song_name": "Dance It Out",
-            "artists": [
-                "Zimmer90"
-            ],
-            "album": "Endless Summer",
-            "played_at": "10/11/2026 - 11:38:26"
-        },
-        {
-            "song_name": "lost in you",
-            "artists": [
-                "Phil Odd"
-            ],
-            "album": "lost in you",
-            "played_at": "10/11/2026 - 11:35:18"
-        },
-        {
-            "song_name": "rain in the sunset",
-            "artists": [
-                "Stevie Daniels",
-                "mike."
-            ],
-            "album": "rain in the sunset",
-            "played_at": "10/11/2026 - 11:32:30"
         }
     ]
 }

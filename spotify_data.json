@@ -1,6 +1,54 @@
 {
-    "total_plays": 7605,
+    "total_plays": 7611,
     "tracks": [
+        {
+            "song_name": "Spirit In The Sky - Deluxe Edition",
+            "artists": [
+                "Norman Greenbaum"
+            ],
+            "album": "Spirit In The Sky (Deluxe Edition)",
+            "played_at": "16/11/2026 - 07:56:48"
+        },
+        {
+            "song_name": "一点点喜欢",
+            "artists": [
+                "Sasablue"
+            ],
+            "album": "一点点喜欢",
+            "played_at": "16/11/2026 - 07:52:52"
+        },
+        {
+            "song_name": "撲通撲通",
+            "artists": [
+                "joysaaaa"
+            ],
+            "album": "撲通撲通",
+            "played_at": "16/11/2026 - 07:44:51"
+        },
+        {
+            "song_name": "浅显易懂",
+            "artists": [
+                "杜治民"
+            ],
+            "album": "浅显易懂",
+            "played_at": "16/11/2026 - 07:42:00"
+        },
+        {
+            "song_name": "山海不说话（我路过山 山不说话）",
+            "artists": [
+                "陳鴨梨Charlie"
+            ],
+            "album": "山海不说话（我路过山 山不说话）",
+            "played_at": "16/11/2026 - 07:38:42"
+        },
+        {
+            "song_name": "Jensen Huang",
+            "artists": [
+                "Dtrue"
+            ],
+            "album": "Jensen Huang",
+            "played_at": "16/11/2026 - 07:35:18"
+        },
         {
             "song_name": "Sultans Of Swing",
             "artists": [
@@ -1607,58 +1655,6 @@
             ],
             "album": "LOCKED IN",
             "played_at": "11/11/2026 - 12:18:11"
-        },
-        {
-            "song_name": "I Knew It, I Knew You - From \"Toy Story 5\"",
-            "artists": [
-                "Taylor Swift"
-            ],
-            "album": "I Knew It, I Knew You (From \"Toy Story 5\")",
-            "played_at": "10/11/2026 - 19:34:39"
-        },
-        {
-            "song_name": "Satisfy",
-            "artists": [
-                "Calvin Harris",
-                "Jazzy"
-            ],
-            "album": "Satisfy",
-            "played_at": "10/11/2026 - 19:18:57"
-        },
-        {
-            "song_name": "Rein Me In (with Olivia Dean)",
-            "artists": [
-                "Sam Fender",
-                "Olivia Dean"
-            ],
-            "album": "Rein Me In (with Olivia Dean)",
-            "played_at": "10/11/2026 - 19:15:57"
-        },
-        {
-            "song_name": "Out of Reach",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Dreams",
-            "played_at": "10/11/2026 - 19:09:27"
-        },
-        {
-            "song_name": "Doomsday (with Juice WRLD & Cordae)",
-            "artists": [
-                "Lyrical Lemonade",
-                "Juice WRLD",
-                "Cordae"
-            ],
-            "album": "Doomsday",
-            "played_at": "10/11/2026 - 19:06:54"
-        },
-        {
-            "song_name": "Golden Ticket (runaway)",
-            "artists": [
-                "joki"
-            ],
-            "album": "Golden Ticket (runaway)",
-            "played_at": "10/11/2026 - 17:24:05"
         }
     ]
 }

@@ -1,6 +1,22 @@
 {
-    "total_plays": 7636,
+    "total_plays": 7638,
     "tracks": [
+        {
+            "song_name": "Cabo Verde World Cup 2026",
+            "artists": [
+                "AK Design"
+            ],
+            "album": "Cabo Verde World Cup 2026",
+            "played_at": "16/11/2026 - 09:31:53"
+        },
+        {
+            "song_name": "The Best",
+            "artists": [
+                "Tina Turner"
+            ],
+            "album": "All The Best",
+            "played_at": "16/11/2026 - 09:28:51"
+        },
         {
             "song_name": "Made in America",
             "artists": [
@@ -1634,23 +1650,6 @@
             ],
             "album": "RENT'S DUE (DELUXE)",
             "played_at": "11/11/2026 - 15:33:28"
-        },
-        {
-            "song_name": "Redemption (feat. Nemzzz)",
-            "artists": [
-                "Kidwild",
-                "Nemzzz"
-            ],
-            "album": "Redemption (feat. Nemzzz)",
-            "played_at": "11/11/2026 - 14:44:09"
-        },
-        {
-            "song_name": "Escape",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "Escape",
-            "played_at": "11/11/2026 - 14:41:41"
         }
     ]
 }

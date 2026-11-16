@@ -1,6 +1,65 @@
 {
-    "total_plays": 7619,
+    "total_plays": 7626,
     "tracks": [
+        {
+            "song_name": "Runaway (U & I) - Kaskade Remix",
+            "artists": [
+                "Galantis",
+                "Kaskade"
+            ],
+            "album": "Runaway (U & I) [Kaskade Remix]",
+            "played_at": "16/11/2026 - 08:56:54"
+        },
+        {
+            "song_name": "Live While We're Young",
+            "artists": [
+                "One Direction"
+            ],
+            "album": "Take Me Home (Expanded Edition)",
+            "played_at": "16/11/2026 - 08:51:45"
+        },
+        {
+            "song_name": "Shapeshifting on a Saturday Night",
+            "artists": [
+                "Avery Cochrane"
+            ],
+            "album": "Male Validation and Other Drugs",
+            "played_at": "16/11/2026 - 08:48:32"
+        },
+        {
+            "song_name": "Peanut Butter Jelly",
+            "artists": [
+                "Galantis"
+            ],
+            "album": "Pharmacy",
+            "played_at": "16/11/2026 - 08:45:13"
+        },
+        {
+            "song_name": "Take Me Home (feat. Bebe Rexha)",
+            "artists": [
+                "Cash Cash",
+                "Bebe Rexha"
+            ],
+            "album": "Blood, Sweat & 3 Years",
+            "played_at": "16/11/2026 - 08:41:57"
+        },
+        {
+            "song_name": "Hello",
+            "artists": [
+                "Martin Solveig",
+                "Dragonette"
+            ],
+            "album": "Smash",
+            "played_at": "16/11/2026 - 08:38:39"
+        },
+        {
+            "song_name": "Geronimo",
+            "artists": [
+                "Sheppard"
+            ],
+            "album": "Bombs Away",
+            "played_at": "16/11/2026 - 08:34:05"
+        },
         {
             "song_name": "Mayonaka no Door~stay with me - Single ver.",
             "artists": [
@@ -1594,64 +1653,6 @@
             ],
             "album": "From Me 2 U",
             "played_at": "11/11/2026 - 14:18:50"
-        },
-        {
-            "song_name": "Miss Them Days",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "11/11/2026 - 13:38:03"
-        },
-        {
-            "song_name": "MR DND",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "11/11/2026 - 13:36:24"
-        },
-        {
-            "song_name": "8PM",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "11/11/2026 - 13:34:40"
-        },
-        {
-            "song_name": "Grand Prix",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "11/11/2026 - 13:25:09"
-        },
-        {
-            "song_name": "G7X",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "11/11/2026 - 13:23:45"
-        },
-        {
-            "song_name": "Innit",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "From Me 2 U",
-            "played_at": "11/11/2026 - 13:22:30"
-        },
-        {
-            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
-            "artists": [
-                "ONEFOUR",
-                "Nemzzz",
-                "Segway"
-            ],
-            "album": "Look At Me Now",
-            "played_at": "11/11/2026 - 13:20:39"
         }
     ]
 }

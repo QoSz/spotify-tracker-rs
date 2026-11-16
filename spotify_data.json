@@ -1,6 +1,70 @@
 {
-    "total_plays": 7611,
+    "total_plays": 7619,
     "tracks": [
+        {
+            "song_name": "Mayonaka no Door~stay with me - Single ver.",
+            "artists": [
+                "Miki Matsubara"
+            ],
+            "album": "Light Mellow Miki Matsubara",
+            "played_at": "16/11/2026 - 08:24:53"
+        },
+        {
+            "song_name": "Mine, Lord Willing",
+            "artists": [
+                "Pynk Beard"
+            ],
+            "album": "Mine, Lord Willing",
+            "played_at": "16/11/2026 - 08:20:26"
+        },
+        {
+            "song_name": "I Wanna Be Sedated",
+            "artists": [
+                "The Offspring"
+            ],
+            "album": "I Wanna Be Sedated",
+            "played_at": "16/11/2026 - 08:18:13"
+        },
+        {
+            "song_name": "Mamma Mia",
+            "artists": [
+                "ABBA"
+            ],
+            "album": "Abba",
+            "played_at": "16/11/2026 - 08:13:56"
+        },
+        {
+            "song_name": "Does Your Mother Know",
+            "artists": [
+                "ABBA"
+            ],
+            "album": "ABBA Gold",
+            "played_at": "16/11/2026 - 08:10:30"
+        },
+        {
+            "song_name": "Ca Plane Pour Moi",
+            "artists": [
+                "Plastic Bertrand"
+            ],
+            "album": "Plastic Bertrand",
+            "played_at": "16/11/2026 - 08:07:23"
+        },
+        {
+            "song_name": "走向我是为了离开我",
+            "artists": [
+                "LBI利比"
+            ],
+            "album": "走向我是为了离开我",
+            "played_at": "16/11/2026 - 08:02:43"
+        },
+        {
+            "song_name": "落日与你",
+            "artists": [
+                "LBI利比"
+            ],
+            "album": "落日与你",
+            "played_at": "16/11/2026 - 07:58:55"
+        },
         {
             "song_name": "Spirit In The Sky - Deluxe Edition",
             "artists": [
@@ -1588,73 +1652,6 @@
             ],
             "album": "Look At Me Now",
             "played_at": "11/11/2026 - 13:20:39"
-        },
-        {
-            "song_name": "Brilliant Mind II",
-            "artists": [
-                "Blanco",
-                "Nemzzz"
-            ],
-            "album": "Brilliant Mind II",
-            "played_at": "11/11/2026 - 13:18:04"
-        },
-        {
-            "song_name": "PRINCE OF THE SCENE",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "LOCKED IN",
-            "played_at": "11/11/2026 - 12:41:26"
-        },
-        {
-            "song_name": "4AM",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "LOCKED IN",
-            "played_at": "11/11/2026 - 12:28:41"
-        },
-        {
-            "song_name": "GET READY",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "LOCKED IN",
-            "played_at": "11/11/2026 - 12:26:12"
-        },
-        {
-            "song_name": "L's",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "DO NOT DISTURB (DELUXE)",
-            "played_at": "11/11/2026 - 12:23:54"
-        },
-        {
-            "song_name": "Redemption (feat. Nemzzz)",
-            "artists": [
-                "Kidwild",
-                "Nemzzz"
-            ],
-            "album": "Redemption (feat. Nemzzz)",
-            "played_at": "11/11/2026 - 12:22:03"
-        },
-        {
-            "song_name": "HATE ME LOVE ME",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "LOCKED IN",
-            "played_at": "11/11/2026 - 12:19:35"
-        },
-        {
-            "song_name": "GASS (feat. Travis Scott)",
-            "artists": [
-                "Nemzzz",
-                "Travis Scott"
-            ],
-            "album": "LOCKED IN",
-            "played_at": "11/11/2026 - 12:18:11"
         }
     ]
 }

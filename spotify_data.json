@@ -1,6 +1,145 @@
 {
-    "total_plays": 7582,
+    "total_plays": 7599,
     "tracks": [
+        {
+            "song_name": "The Chain - 2004 Remaster",
+            "artists": [
+                "Fleetwood Mac"
+            ],
+            "album": "Rumours (Super Deluxe)",
+            "played_at": "16/11/2026 - 06:53:48"
+        },
+        {
+            "song_name": "Have You Ever Seen The Rain",
+            "artists": [
+                "Creedence Clearwater Revival"
+            ],
+            "album": "Pendulum (Expanded Edition)",
+            "played_at": "16/11/2026 - 06:49:24"
+        },
+        {
+            "song_name": "Fortunate Son",
+            "artists": [
+                "Creedence Clearwater Revival"
+            ],
+            "album": "Willy And The Poor Boys (Expanded Edition)",
+            "played_at": "16/11/2026 - 06:46:51"
+        },
+        {
+            "song_name": "Jensen Huang",
+            "artists": [
+                "Dtrue"
+            ],
+            "album": "Jensen Huang",
+            "played_at": "16/11/2026 - 06:41:16"
+        },
+        {
+            "song_name": "Jensen Huang",
+            "artists": [
+                "Dtrue"
+            ],
+            "album": "Jensen Huang",
+            "played_at": "16/11/2026 - 06:39:30"
+        },
+        {
+            "song_name": "Jensen Huang",
+            "artists": [
+                "Dtrue"
+            ],
+            "album": "Jensen Huang",
+            "played_at": "16/11/2026 - 06:37:43"
+        },
+        {
+            "song_name": "Jensen Huang",
+            "artists": [
+                "Dtrue"
+            ],
+            "album": "Jensen Huang",
+            "played_at": "16/11/2026 - 06:35:26"
+        },
+        {
+            "song_name": "I Just Wanna Feel Something",
+            "artists": [
+                "Lithe",
+                "pre kai ro"
+            ],
+            "album": "I Just Wanna Feel Something",
+            "played_at": "16/11/2026 - 06:33:18"
+        },
+        {
+            "song_name": "lovely",
+            "artists": [
+                "Yara Lina."
+            ],
+            "album": "lovely",
+            "played_at": "16/11/2026 - 06:30:37"
+        },
+        {
+            "song_name": "Around You",
+            "artists": [
+                "WizTheMc"
+            ],
+            "album": "Around You",
+            "played_at": "16/11/2026 - 06:28:06"
+        },
+        {
+            "song_name": "everything was fickle (feat. Arden Jones)",
+            "artists": [
+                "Newport",
+                "Arden Jones"
+            ],
+            "album": "everything was fickle (feat. Arden Jones)",
+            "played_at": "16/11/2026 - 06:25:45"
+        },
+        {
+            "song_name": "car",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "hickey",
+            "played_at": "16/11/2026 - 06:22:36"
+        },
+        {
+            "song_name": "Spots",
+            "artists": [
+                "HARRY WAS HERE",
+                "benny mayne"
+            ],
+            "album": "Spots",
+            "played_at": "16/11/2026 - 06:18:31"
+        },
+        {
+            "song_name": "Tinted",
+            "artists": [
+                "N.D.A.Y.I."
+            ],
+            "album": "Tinted",
+            "played_at": "16/11/2026 - 06:15:49"
+        },
+        {
+            "song_name": "wildfire",
+            "artists": [
+                "origins"
+            ],
+            "album": "wildfire",
+            "played_at": "16/11/2026 - 06:10:08"
+        },
+        {
+            "song_name": "A New Day",
+            "artists": [
+                "Last Sun"
+            ],
+            "album": "A New Day",
+            "played_at": "16/11/2026 - 06:06:54"
+        },
+        {
+            "song_name": "Missing U Again",
+            "artists": [
+                "Diielex"
+            ],
+            "album": "Missing U Again",
+            "played_at": "16/11/2026 - 06:03:35"
+        },
         {
             "song_name": "Missing U Again",
             "artists": [
@@ -1521,142 +1660,6 @@
             ],
             "album": "rain in the sunset",
             "played_at": "10/11/2026 - 11:32:30"
-        },
-        {
-            "song_name": "car",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "hickey",
-            "played_at": "10/11/2026 - 11:29:40"
-        },
-        {
-            "song_name": "Catch Feelings",
-            "artists": [
-                "DALEXO"
-            ],
-            "album": "Catch Feelings",
-            "played_at": "10/11/2026 - 11:26:30"
-        },
-        {
-            "song_name": "Trying To See U",
-            "artists": [
-                "heylucas"
-            ],
-            "album": "hey",
-            "played_at": "10/11/2026 - 11:23:36"
-        },
-        {
-            "song_name": "Inwood Hill Park",
-            "artists": [
-                "6LACK"
-            ],
-            "album": "Since I Have A Lover",
-            "played_at": "10/11/2026 - 11:20:41"
-        },
-        {
-            "song_name": "Eyes Open",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Eyes Open",
-            "played_at": "10/11/2026 - 11:17:38"
-        },
-        {
-            "song_name": "Teenage Fever",
-            "artists": [
-                "Drake"
-            ],
-            "album": "More Life",
-            "played_at": "10/11/2026 - 07:46:24"
-        },
-        {
-            "song_name": "I Guess It’s Fuck Me",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Her Loss",
-            "played_at": "10/11/2026 - 07:15:29"
-        },
-        {
-            "song_name": "2013",
-            "artists": [
-                "Billy Sharp"
-            ],
-            "album": "Rose Tint",
-            "played_at": "09/11/2026 - 15:14:43"
-        },
-        {
-            "song_name": "Find A Way",
-            "artists": [
-                "Will Swinton"
-            ],
-            "album": "Find A Way",
-            "played_at": "09/11/2026 - 14:17:06"
-        },
-        {
-            "song_name": "Oh Darlin'",
-            "artists": [
-                "tomy wyne"
-            ],
-            "album": "Oh Darlin'",
-            "played_at": "09/11/2026 - 14:14:14"
-        },
-        {
-            "song_name": "Oh Darlin'",
-            "artists": [
-                "tomy wyne"
-            ],
-            "album": "Oh Darlin'",
-            "played_at": "09/11/2026 - 11:06:18"
-        },
-        {
-            "song_name": "Rouge",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Where Are You Going?",
-            "played_at": "09/11/2026 - 09:33:45"
-        },
-        {
-            "song_name": "Sideways",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "09/11/2026 - 09:30:45"
-        },
-        {
-            "song_name": "Gemini",
-            "artists": [
-                "Easy Giant"
-            ],
-            "album": "Gemini",
-            "played_at": "09/11/2026 - 09:27:45"
-        },
-        {
-            "song_name": "feel like we used to",
-            "artists": [
-                "Zimmer90"
-            ],
-            "album": "Interior",
-            "played_at": "09/11/2026 - 09:24:57"
-        },
-        {
-            "song_name": "GET A GRIP",
-            "artists": [
-                "Ruby Waters"
-            ],
-            "album": "GET A GRIP",
-            "played_at": "09/11/2026 - 09:22:08"
-        },
-        {
-            "song_name": "Home",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Blue Sky Mentality",
-            "played_at": "09/11/2026 - 09:19:25"
         }
     ]
 }

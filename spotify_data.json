@@ -1,6 +1,62 @@
 {
-    "total_plays": 7650,
+    "total_plays": 7657,
     "tracks": [
+        {
+            "song_name": "Up To Something",
+            "artists": [
+                "49th & Main"
+            ],
+            "album": "Must Be Nice",
+            "played_at": "17/11/2026 - 16:39:50"
+        },
+        {
+            "song_name": "talk of the town",
+            "artists": [
+                "Jonah Zed"
+            ],
+            "album": "LOVEGONEBY",
+            "played_at": "17/11/2026 - 16:36:25"
+        },
+        {
+            "song_name": "Superstar",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Superstar",
+            "played_at": "17/11/2026 - 16:33:54"
+        },
+        {
+            "song_name": "Find A Way",
+            "artists": [
+                "Will Swinton"
+            ],
+            "album": "Find A Way",
+            "played_at": "17/11/2026 - 16:31:21"
+        },
+        {
+            "song_name": "Who We Are",
+            "artists": [
+                "thebandfriday"
+            ],
+            "album": "Who We Are",
+            "played_at": "17/11/2026 - 16:28:29"
+        },
+        {
+            "song_name": "i don’t want your garden",
+            "artists": [
+                "Hazlett"
+            ],
+            "album": "last night you said you missed me",
+            "played_at": "17/11/2026 - 16:25:41"
+        },
+        {
+            "song_name": "i don’t want your garden",
+            "artists": [
+                "Hazlett"
+            ],
+            "album": "last night you said you missed me",
+            "played_at": "17/11/2026 - 13:45:13"
+        },
         {
             "song_name": "Headlights",
             "artists": [
@@ -1583,67 +1639,6 @@
             ],
             "album": "Escape",
             "played_at": "12/11/2026 - 13:28:58"
-        },
-        {
-            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
-            "artists": [
-                "ONEFOUR",
-                "Nemzzz",
-                "Segway"
-            ],
-            "album": "Look At Me Now",
-            "played_at": "12/11/2026 - 13:26:57"
-        },
-        {
-            "song_name": "4AM",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "LOCKED IN",
-            "played_at": "12/11/2026 - 13:24:22"
-        },
-        {
-            "song_name": "GEEKIN (feat. Lil Yachty)",
-            "artists": [
-                "Nemzzz",
-                "Lil Yachty"
-            ],
-            "album": "LOCKED IN",
-            "played_at": "12/11/2026 - 13:21:53"
-        },
-        {
-            "song_name": "GEEKIN (feat. Lil Yachty)",
-            "artists": [
-                "Nemzzz",
-                "Lil Yachty"
-            ],
-            "album": "LOCKED IN",
-            "played_at": "12/11/2026 - 11:29:30"
-        },
-        {
-            "song_name": "COLD",
-            "artists": [
-                "Nemzzz"
-            ],
-            "album": "RENT'S DUE (DELUXE)",
-            "played_at": "12/11/2026 - 11:24:11"
-        },
-        {
-            "song_name": "GASS (feat. Travis Scott)",
-            "artists": [
-                "Nemzzz",
-                "Travis Scott"
-            ],
-            "album": "LOCKED IN",
-            "played_at": "12/11/2026 - 11:21:54"
-        },
-        {
-            "song_name": "We Good",
-            "artists": [
-                "N.D.A.Y.I."
-            ],
-            "album": "We Good",
-            "played_at": "11/11/2026 - 21:02:53"
         }
     ]
 }

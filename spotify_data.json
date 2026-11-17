@@ -1,6 +1,38 @@
 {
-    "total_plays": 7646,
+    "total_plays": 7650,
     "tracks": [
+        {
+            "song_name": "Headlights",
+            "artists": [
+                "In Color"
+            ],
+            "album": "Headlights",
+            "played_at": "17/11/2026 - 13:08:10"
+        },
+        {
+            "song_name": "Chasing California",
+            "artists": [
+                "RZGLD"
+            ],
+            "album": "Winter Waves",
+            "played_at": "17/11/2026 - 13:02:48"
+        },
+        {
+            "song_name": "Moonlight",
+            "artists": [
+                "Louis Metric"
+            ],
+            "album": "Del Mar Desperado",
+            "played_at": "17/11/2026 - 12:59:20"
+        },
+        {
+            "song_name": "Amends",
+            "artists": [
+                "Marlon Funaki"
+            ],
+            "album": "Overdue",
+            "played_at": "17/11/2026 - 12:56:19"
+        },
         {
             "song_name": "Rouge",
             "artists": [
@@ -1612,44 +1644,6 @@
             ],
             "album": "We Good",
             "played_at": "11/11/2026 - 21:02:53"
-        },
-        {
-            "song_name": "A Week In Paris",
-            "artists": [
-                "2 Chainz"
-            ],
-            "album": "A Week In Paris",
-            "played_at": "11/11/2026 - 20:52:05"
-        },
-        {
-            "song_name": "Globetrotters",
-            "artists": [
-                "Statik Selektah",
-                "Lord Sko",
-                "Logic"
-            ],
-            "album": "Expensive Taste",
-            "played_at": "11/11/2026 - 20:49:08"
-        },
-        {
-            "song_name": "Grain of Salt",
-            "artists": [
-                "EZMNY",
-                "G-Eazy",
-                "Ty Dolla $ign",
-                "rjtheweirdo",
-                "Bizzy Crook"
-            ],
-            "album": "Grain of Salt",
-            "played_at": "11/11/2026 - 20:46:02"
-        },
-        {
-            "song_name": "PAY CHECK",
-            "artists": [
-                "Matt Corman"
-            ],
-            "album": "PAY CHECK",
-            "played_at": "11/11/2026 - 20:43:27"
         }
     ]
 }

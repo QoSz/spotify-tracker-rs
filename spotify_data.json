@@ -1,6 +1,23 @@
 {
-    "total_plays": 7644,
+    "total_plays": 7646,
     "tracks": [
+        {
+            "song_name": "Rouge",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Where Are You Going?",
+            "played_at": "17/11/2026 - 12:51:03"
+        },
+        {
+            "song_name": "alright (feat. The Kid LAROI)",
+            "artists": [
+                "EKKSTACY",
+                "The Kid LAROI"
+            ],
+            "album": "EKKSTACY",
+            "played_at": "17/11/2026 - 12:48:19"
+        },
         {
             "song_name": "Midnight Sun",
             "artists": [
@@ -1633,22 +1650,6 @@
             ],
             "album": "PAY CHECK",
             "played_at": "11/11/2026 - 20:43:27"
-        },
-        {
-            "song_name": "Just 4 Me",
-            "artists": [
-                "JBEE"
-            ],
-            "album": "HBK",
-            "played_at": "11/11/2026 - 20:40:09"
-        },
-        {
-            "song_name": "Cocaine Clouds",
-            "artists": [
-                "French The Kid"
-            ],
-            "album": "Can't Kill Bill",
-            "played_at": "11/11/2026 - 20:37:13"
         }
     ]
 }

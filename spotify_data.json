@@ -1,6 +1,14 @@
 {
-    "total_plays": 7662,
+    "total_plays": 7663,
     "tracks": [
+        {
+            "song_name": "sunlight",
+            "artists": [
+                "Kublaii"
+            ],
+            "album": "sunlight",
+            "played_at": "18/11/2026 - 08:12:56"
+        },
         {
             "song_name": "Orbiter",
             "artists": [
@@ -1632,14 +1640,6 @@
             ],
             "album": "Spots",
             "played_at": "12/11/2026 - 14:34:50"
-        },
-        {
-            "song_name": "Change",
-            "artists": [
-                "LAUREL"
-            ],
-            "album": "PALPITATIONS",
-            "played_at": "12/11/2026 - 14:32:51"
         }
     ]
 }

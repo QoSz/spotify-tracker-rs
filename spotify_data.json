@@ -1,6 +1,23 @@
 {
-    "total_plays": 7694,
+    "total_plays": 7696,
     "tracks": [
+        {
+            "song_name": "So Cold",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "18/11/2026 - 12:07:59"
+        },
+        {
+            "song_name": "Spots",
+            "artists": [
+                "HARRY WAS HERE",
+                "benny mayne"
+            ],
+            "album": "Spots",
+            "played_at": "18/11/2026 - 12:04:57"
+        },
         {
             "song_name": "16always",
             "artists": [
@@ -1625,22 +1642,6 @@
             ],
             "album": "everything was fickle (feat. Arden Jones)",
             "played_at": "12/11/2026 - 16:17:20"
-        },
-        {
-            "song_name": "There's A Locked Up Safe",
-            "artists": [
-                "The Lanes"
-            ],
-            "album": "There's A Locked Up Safe",
-            "played_at": "12/11/2026 - 16:14:11"
-        },
-        {
-            "song_name": "The Less I Know The Better",
-            "artists": [
-                "Tame Impala"
-            ],
-            "album": "Currents",
-            "played_at": "12/11/2026 - 16:10:18"
         }
     ]
 }

@@ -1,6 +1,82 @@
 {
-    "total_plays": 7727,
+    "total_plays": 7736,
     "tracks": [
+        {
+            "song_name": "TOO SOON (feat. Babyface)",
+            "artists": [
+                "Jack Harlow",
+                "Babyface"
+            ],
+            "album": "TOO SOON (feat. Babyface)",
+            "played_at": "19/11/2026 - 16:29:58"
+        },
+        {
+            "song_name": "Open Your Eyes",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "Open Your Eyes",
+            "played_at": "19/11/2026 - 16:27:43"
+        },
+        {
+            "song_name": "one life",
+            "artists": [
+                "charlieonnafriday"
+            ],
+            "album": "one life",
+            "played_at": "19/11/2026 - 16:24:46"
+        },
+        {
+            "song_name": "8:55 - Jend Remix",
+            "artists": [
+                "Jend",
+                "Byron Bennett"
+            ],
+            "album": "8:55 (Jend Remix)",
+            "played_at": "19/11/2026 - 16:21:51"
+        },
+        {
+            "song_name": "TOO LATE FOR YOU",
+            "artists": [
+                "alan vuong"
+            ],
+            "album": "HEAVEN SENT ME",
+            "played_at": "19/11/2026 - 16:18:43"
+        },
+        {
+            "song_name": "Eyes Open",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Eyes Open",
+            "played_at": "19/11/2026 - 16:15:28"
+        },
+        {
+            "song_name": "Around You",
+            "artists": [
+                "WizTheMc"
+            ],
+            "album": "Around You",
+            "played_at": "19/11/2026 - 16:11:14"
+        },
+        {
+            "song_name": "Globetrotters",
+            "artists": [
+                "Statik Selektah",
+                "Lord Sko",
+                "Logic"
+            ],
+            "album": "Expensive Taste",
+            "played_at": "19/11/2026 - 16:09:17"
+        },
+        {
+            "song_name": "One Last Time",
+            "artists": [
+                "NM"
+            ],
+            "album": "One Last Time",
+            "played_at": "19/11/2026 - 16:06:45"
+        },
         {
             "song_name": "Cold Shoulder (feat. Don Toliver & Yebba)",
             "artists": [
@@ -1571,80 +1647,6 @@
             ],
             "album": "my turn",
             "played_at": "14/11/2026 - 01:06:30"
-        },
-        {
-            "song_name": "Set Fire to the Rain",
-            "artists": [
-                "Adele"
-            ],
-            "album": "21",
-            "played_at": "14/11/2026 - 01:02:10"
-        },
-        {
-            "song_name": "Set Fire to the Rain",
-            "artists": [
-                "Adele"
-            ],
-            "album": "21",
-            "played_at": "13/11/2026 - 20:50:45"
-        },
-        {
-            "song_name": "Suit & Tie (feat. JAY-Z)",
-            "artists": [
-                "Justin Timberlake",
-                "JAŸ-Z"
-            ],
-            "album": "The 20/20 Experience (Deluxe Version)",
-            "played_at": "13/11/2026 - 20:32:10"
-        },
-        {
-            "song_name": "Headlines",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Take Care (Deluxe)",
-            "played_at": "13/11/2026 - 20:26:51"
-        },
-        {
-            "song_name": "I'm Not The Only One",
-            "artists": [
-                "Sam Smith"
-            ],
-            "album": "In The Lonely Hour",
-            "played_at": "13/11/2026 - 20:23:02"
-        },
-        {
-            "song_name": "Look Back at It",
-            "artists": [
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "Hoodie SZN",
-            "played_at": "13/11/2026 - 20:19:10"
-        },
-        {
-            "song_name": "Look Back at It",
-            "artists": [
-                "A Boogie Wit da Hoodie"
-            ],
-            "album": "Hoodie SZN",
-            "played_at": "13/11/2026 - 19:06:42"
-        },
-        {
-            "song_name": "I Love It (feat. Charli XCX)",
-            "artists": [
-                "Icona Pop",
-                "Charli xcx"
-            ],
-            "album": "THIS IS... ICONA POP",
-            "played_at": "13/11/2026 - 18:53:34"
-        },
-        {
-            "song_name": "Shake It Off",
-            "artists": [
-                "Taylor Swift"
-            ],
-            "album": "1989 (Deluxe)",
-            "played_at": "13/11/2026 - 18:51:04"
         }
     ]
 }

@@ -1,6 +1,39 @@
 {
-    "total_plays": 7712,
+    "total_plays": 7716,
     "tracks": [
+        {
+            "song_name": "Dive In",
+            "artists": [
+                "Finn Askew"
+            ],
+            "album": "Dive In",
+            "played_at": "19/11/2026 - 15:33:42"
+        },
+        {
+            "song_name": "Temporary (feat. Don Toliver)",
+            "artists": [
+                "6LACK",
+                "Don Toliver"
+            ],
+            "album": "Since I Have A Lover",
+            "played_at": "19/11/2026 - 15:31:29"
+        },
+        {
+            "song_name": "Make Them Know",
+            "artists": [
+                "Drake"
+            ],
+            "album": "ICEMAN",
+            "played_at": "19/11/2026 - 15:28:37"
+        },
+        {
+            "song_name": "Higher",
+            "artists": [
+                "Croixx"
+            ],
+            "album": "Higher",
+            "played_at": "19/11/2026 - 09:35:15"
+        },
         {
             "song_name": "Grain of Salt",
             "artists": [
@@ -1614,38 +1647,6 @@
             ],
             "album": "Night Visions",
             "played_at": "13/11/2026 - 17:31:58"
-        },
-        {
-            "song_name": "Bando",
-            "artists": [
-                "Junior RCE"
-            ],
-            "album": "Bando",
-            "played_at": "13/11/2026 - 07:46:40"
-        },
-        {
-            "song_name": "Bando",
-            "artists": [
-                "Junior RCE"
-            ],
-            "album": "Bando",
-            "played_at": "12/11/2026 - 19:23:04"
-        },
-        {
-            "song_name": "Whisper My Name",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "12/11/2026 - 18:43:01"
-        },
-        {
-            "song_name": "The Calm",
-            "artists": [
-                "Wiz Khalifa"
-            ],
-            "album": "The Calm",
-            "played_at": "12/11/2026 - 18:39:25"
         }
     ]
 }

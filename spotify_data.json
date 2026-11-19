@@ -1,6 +1,38 @@
 {
-    "total_plays": 7736,
+    "total_plays": 7740,
     "tracks": [
+        {
+            "song_name": "sunlight",
+            "artists": [
+                "Kublaii"
+            ],
+            "album": "sunlight",
+            "played_at": "19/11/2026 - 16:50:46"
+        },
+        {
+            "song_name": "dead end",
+            "artists": [
+                "mike."
+            ],
+            "album": "dead end",
+            "played_at": "19/11/2026 - 16:42:50"
+        },
+        {
+            "song_name": "The Long Way Home",
+            "artists": [
+                "Shoffy"
+            ],
+            "album": "The Long Way Home",
+            "played_at": "19/11/2026 - 16:35:31"
+        },
+        {
+            "song_name": "7 days a week",
+            "artists": [
+                "Mia Miles"
+            ],
+            "album": "7 days a week",
+            "played_at": "19/11/2026 - 16:32:25"
+        },
         {
             "song_name": "TOO SOON (feat. Babyface)",
             "artists": [
@@ -1615,38 +1647,6 @@
             ],
             "album": "When the Feeling Is Gone",
             "played_at": "14/11/2026 - 01:16:16"
-        },
-        {
-            "song_name": "Love You",
-            "artists": [
-                "GOBAITH"
-            ],
-            "album": "Love You",
-            "played_at": "14/11/2026 - 01:13:46"
-        },
-        {
-            "song_name": "can't live without you",
-            "artists": [
-                "zone"
-            ],
-            "album": "can't live without you",
-            "played_at": "14/11/2026 - 01:11:29"
-        },
-        {
-            "song_name": "Satellite Signal",
-            "artists": [
-                "MIND"
-            ],
-            "album": "Satellite Signal",
-            "played_at": "14/11/2026 - 01:09:15"
-        },
-        {
-            "song_name": "my turn",
-            "artists": [
-                "origins"
-            ],
-            "album": "my turn",
-            "played_at": "14/11/2026 - 01:06:30"
         }
     ]
 }

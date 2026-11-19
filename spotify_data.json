@@ -1,6 +1,14 @@
 {
-    "total_plays": 7696,
+    "total_plays": 7697,
     "tracks": [
+        {
+            "song_name": "Being There",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Being There",
+            "played_at": "19/11/2026 - 08:35:17"
+        },
         {
             "song_name": "So Cold",
             "artists": [
@@ -1633,15 +1641,6 @@
             ],
             "album": "Tailing the Ghost",
             "played_at": "12/11/2026 - 16:21:10"
-        },
-        {
-            "song_name": "everything was fickle (feat. Arden Jones)",
-            "artists": [
-                "Newport",
-                "Arden Jones"
-            ],
-            "album": "everything was fickle (feat. Arden Jones)",
-            "played_at": "12/11/2026 - 16:17:20"
         }
     ]
 }

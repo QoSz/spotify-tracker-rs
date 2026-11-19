@@ -1,6 +1,60 @@
 {
-    "total_plays": 7706,
+    "total_plays": 7712,
     "tracks": [
+        {
+            "song_name": "Grain of Salt",
+            "artists": [
+                "EZMNY",
+                "G-Eazy",
+                "Ty Dolla $ign",
+                "rjtheweirdo",
+                "Bizzy Crook"
+            ],
+            "album": "Grain of Salt",
+            "played_at": "19/11/2026 - 09:20:43"
+        },
+        {
+            "song_name": "Flowers",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "feel",
+            "played_at": "19/11/2026 - 09:18:07"
+        },
+        {
+            "song_name": "Alone",
+            "artists": [
+                "SADEYEZ"
+            ],
+            "album": "Alone",
+            "played_at": "19/11/2026 - 09:15:49"
+        },
+        {
+            "song_name": "GUERILLAZ",
+            "artists": [
+                "H.LLS",
+                "Lucy Park"
+            ],
+            "album": "GUERILLAZ",
+            "played_at": "19/11/2026 - 09:13:29"
+        },
+        {
+            "song_name": "Overthink (feat. Elmiene)",
+            "artists": [
+                "Wale",
+                "Elmiene"
+            ],
+            "album": "Overthink (feat. Elmiene)",
+            "played_at": "19/11/2026 - 09:11:17"
+        },
+        {
+            "song_name": "Undercover",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "Undercover",
+            "played_at": "19/11/2026 - 09:07:57"
+        },
         {
             "song_name": "Rein Me In (with Olivia Dean)",
             "artists": [
@@ -1592,55 +1646,6 @@
             ],
             "album": "The Calm",
             "played_at": "12/11/2026 - 18:39:25"
-        },
-        {
-            "song_name": "sweetest pattern",
-            "artists": [
-                "Spencer Elmer"
-            ],
-            "album": "sweetest pattern",
-            "played_at": "12/11/2026 - 18:36:57"
-        },
-        {
-            "song_name": "NO REGULAR DAY",
-            "artists": [
-                "Tame Tiger"
-            ],
-            "album": "2 TURNT (DELUXE)",
-            "played_at": "12/11/2026 - 18:34:57"
-        },
-        {
-            "song_name": "90mph",
-            "artists": [
-                "JBEE",
-                "Sillage"
-            ],
-            "album": "90mph",
-            "played_at": "12/11/2026 - 18:32:43"
-        },
-        {
-            "song_name": "Rolling Stone",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Rolling Stone",
-            "played_at": "12/11/2026 - 18:30:22"
-        },
-        {
-            "song_name": "Backends Fasho",
-            "artists": [
-                "Offset"
-            ],
-            "album": "KIARI",
-            "played_at": "12/11/2026 - 18:28:33"
-        },
-        {
-            "song_name": "Is There Anyone?",
-            "artists": [
-                "In Color"
-            ],
-            "album": "Is There Anyone?",
-            "played_at": "12/11/2026 - 17:04:54"
         }
     ]
 }

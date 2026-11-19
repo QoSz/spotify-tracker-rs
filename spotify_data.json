@@ -1,6 +1,14 @@
 {
-    "total_plays": 7740,
+    "total_plays": 7741,
     "tracks": [
+        {
+            "song_name": "GET A GRIP",
+            "artists": [
+                "Ruby Waters"
+            ],
+            "album": "GET A GRIP",
+            "played_at": "19/11/2026 - 17:13:44"
+        },
         {
             "song_name": "sunlight",
             "artists": [
@@ -1639,14 +1647,6 @@
             ],
             "album": "should've never loved you",
             "played_at": "14/11/2026 - 01:27:26"
-        },
-        {
-            "song_name": "When the Feeling Is Gone",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "When the Feeling Is Gone",
-            "played_at": "14/11/2026 - 01:16:16"
         }
     ]
 }

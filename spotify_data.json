@@ -1,6 +1,100 @@
 {
-    "total_plays": 7716,
+    "total_plays": 7727,
     "tracks": [
+        {
+            "song_name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+            "artists": [
+                "Drake",
+                "Don Toliver",
+                "Yebba"
+            ],
+            "album": "HABIBTI (FOMO)",
+            "played_at": "19/11/2026 - 16:04:58"
+        },
+        {
+            "song_name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+            "artists": [
+                "Drake",
+                "Don Toliver",
+                "Yebba"
+            ],
+            "album": "HABIBTI (FOMO)",
+            "played_at": "19/11/2026 - 16:01:15"
+        },
+        {
+            "song_name": "Switch",
+            "artists": [
+                "6LACK"
+            ],
+            "album": "East Atlanta Love Letter",
+            "played_at": "19/11/2026 - 16:00:18"
+        },
+        {
+            "song_name": "Slow Motion",
+            "artists": [
+                "Lynnic",
+                "ItsArius",
+                "Lilly"
+            ],
+            "album": "SOMEWHERE",
+            "played_at": "19/11/2026 - 15:56:58"
+        },
+        {
+            "song_name": "Now I Know You",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Where Are You Going?",
+            "played_at": "19/11/2026 - 15:54:18"
+        },
+        {
+            "song_name": "Reverse Psychology",
+            "artists": [
+                "Temper City"
+            ],
+            "album": "Reverse Psychology",
+            "played_at": "19/11/2026 - 15:50:52"
+        },
+        {
+            "song_name": "come on home",
+            "artists": [
+                "Royel Otis"
+            ],
+            "album": "hickey",
+            "played_at": "19/11/2026 - 15:48:00"
+        },
+        {
+            "song_name": "lost in you",
+            "artists": [
+                "Phil Odd"
+            ],
+            "album": "lost in you",
+            "played_at": "19/11/2026 - 15:45:10"
+        },
+        {
+            "song_name": "How Can I Lose",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "How Can I Lose",
+            "played_at": "19/11/2026 - 15:42:22"
+        },
+        {
+            "song_name": "coastline",
+            "artists": [
+                "Jonah Zed"
+            ],
+            "album": "coastline",
+            "played_at": "19/11/2026 - 15:39:57"
+        },
+        {
+            "song_name": "Juice",
+            "artists": [
+                "Schur"
+            ],
+            "album": "Juice",
+            "played_at": "19/11/2026 - 15:37:03"
+        },
         {
             "song_name": "Dive In",
             "artists": [
@@ -1551,102 +1645,6 @@
             ],
             "album": "1989 (Deluxe)",
             "played_at": "13/11/2026 - 18:51:04"
-        },
-        {
-            "song_name": "Clique",
-            "artists": [
-                "Kanye West",
-                "JAŸ-Z",
-                "Big Sean"
-            ],
-            "album": "Kanye West Presents Good Music Cruel Summer",
-            "played_at": "13/11/2026 - 18:47:32"
-        },
-        {
-            "song_name": "Try",
-            "artists": [
-                "P!nk"
-            ],
-            "album": "The Truth About Love",
-            "played_at": "13/11/2026 - 18:42:45"
-        },
-        {
-            "song_name": "Bailando - Spanish Version",
-            "artists": [
-                "Enrique Iglesias",
-                "Descemer Bueno",
-                "Gente De Zona"
-            ],
-            "album": "SEX AND LOVE",
-            "played_at": "13/11/2026 - 18:38:44"
-        },
-        {
-            "song_name": "no tears left to cry",
-            "artists": [
-                "Ariana Grande"
-            ],
-            "album": "Sweetener",
-            "played_at": "13/11/2026 - 18:34:48"
-        },
-        {
-            "song_name": "Applause",
-            "artists": [
-                "Lady Gaga"
-            ],
-            "album": "Applause",
-            "played_at": "13/11/2026 - 18:31:29"
-        },
-        {
-            "song_name": "Applause",
-            "artists": [
-                "Lady Gaga"
-            ],
-            "album": "Applause",
-            "played_at": "13/11/2026 - 18:06:26"
-        },
-        {
-            "song_name": "SICKO MODE",
-            "artists": [
-                "Travis Scott"
-            ],
-            "album": "ASTROWORLD",
-            "played_at": "13/11/2026 - 17:48:48"
-        },
-        {
-            "song_name": "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",
-            "artists": [
-                "David Guetta",
-                "AFROJACK",
-                "Bebe Rexha",
-                "Nicki Minaj"
-            ],
-            "album": "Listen",
-            "played_at": "13/11/2026 - 17:43:42"
-        },
-        {
-            "song_name": "Shut Up and Dance",
-            "artists": [
-                "WALK THE MOON"
-            ],
-            "album": "TALKING IS HARD (Expanded Edition)",
-            "played_at": "13/11/2026 - 17:40:37"
-        },
-        {
-            "song_name": "Me, Myself & I",
-            "artists": [
-                "G-Eazy",
-                "Bebe Rexha"
-            ],
-            "album": "When It's Dark Out",
-            "played_at": "13/11/2026 - 17:36:02"
-        },
-        {
-            "song_name": "Radioactive",
-            "artists": [
-                "Imagine Dragons"
-            ],
-            "album": "Night Visions",
-            "played_at": "13/11/2026 - 17:31:58"
         }
     ]
 }

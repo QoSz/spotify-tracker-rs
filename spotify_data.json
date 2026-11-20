@@ -1,6 +1,34 @@
 {
-    "total_plays": 7746,
+    "total_plays": 7749,
     "tracks": [
+        {
+            "song_name": "Loyal (feat. Lil Wayne & Tyga)",
+            "artists": [
+                "Chris Brown",
+                "Lil Wayne",
+                "Tyga"
+            ],
+            "album": "X (Expanded Edition)",
+            "played_at": "20/11/2026 - 19:50:21"
+        },
+        {
+            "song_name": "Finesse - Remix; feat. Cardi B",
+            "artists": [
+                "Bruno Mars",
+                "Cardi B"
+            ],
+            "album": "Finesse (Remix) [feat. Cardi B]",
+            "played_at": "20/11/2026 - 19:46:03"
+        },
+        {
+            "song_name": "Coming Home",
+            "artists": [
+                "Diddy - Dirty Money",
+                "Skylar Grey"
+            ],
+            "album": "Last Train To Paris",
+            "played_at": "20/11/2026 - 19:42:33"
+        },
         {
             "song_name": "HUMBLE.",
             "artists": [
@@ -1621,30 +1649,6 @@
             ],
             "album": "T R A P S O U L",
             "played_at": "14/11/2026 - 16:15:57"
-        },
-        {
-            "song_name": "Nice For What",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Scorpion",
-            "played_at": "14/11/2026 - 16:12:45"
-        },
-        {
-            "song_name": "Nice For What",
-            "artists": [
-                "Drake"
-            ],
-            "album": "Scorpion",
-            "played_at": "14/11/2026 - 15:46:35"
-        },
-        {
-            "song_name": "Ex's & Oh's",
-            "artists": [
-                "Elle King"
-            ],
-            "album": "Love Stuff",
-            "played_at": "14/11/2026 - 15:34:27"
         }
     ]
 }

@@ -1,6 +1,46 @@
 {
-    "total_plays": 7741,
+    "total_plays": 7746,
     "tracks": [
+        {
+            "song_name": "HUMBLE.",
+            "artists": [
+                "Kendrick Lamar"
+            ],
+            "album": "DAMN.",
+            "played_at": "20/11/2026 - 19:38:41"
+        },
+        {
+            "song_name": "HUMBLE.",
+            "artists": [
+                "Kendrick Lamar"
+            ],
+            "album": "DAMN.",
+            "played_at": "20/11/2026 - 19:32:09"
+        },
+        {
+            "song_name": "Sucker",
+            "artists": [
+                "Jonas Brothers"
+            ],
+            "album": "Happiness Begins",
+            "played_at": "20/11/2026 - 19:11:33"
+        },
+        {
+            "song_name": "Needed Me",
+            "artists": [
+                "Rihanna"
+            ],
+            "album": "ANTI (Deluxe)",
+            "played_at": "20/11/2026 - 19:08:39"
+        },
+        {
+            "song_name": "Summer",
+            "artists": [
+                "Calvin Harris"
+            ],
+            "album": "Motion",
+            "played_at": "20/11/2026 - 19:05:35"
+        },
         {
             "song_name": "GET A GRIP",
             "artists": [
@@ -1605,48 +1645,6 @@
             ],
             "album": "Love Stuff",
             "played_at": "14/11/2026 - 15:34:27"
-        },
-        {
-            "song_name": "Ex's & Oh's",
-            "artists": [
-                "Elle King"
-            ],
-            "album": "Love Stuff",
-            "played_at": "14/11/2026 - 14:17:31"
-        },
-        {
-            "song_name": "See You Again (feat. Charlie Puth)",
-            "artists": [
-                "Wiz Khalifa",
-                "Charlie Puth"
-            ],
-            "album": "See You Again (feat. Charlie Puth)",
-            "played_at": "14/11/2026 - 14:01:09"
-        },
-        {
-            "song_name": "Taste (feat. Offset)",
-            "artists": [
-                "Tyga",
-                "Offset"
-            ],
-            "album": "Taste (feat. Offset)",
-            "played_at": "14/11/2026 - 13:57:26"
-        },
-        {
-            "song_name": "7 rings",
-            "artists": [
-                "Ariana Grande"
-            ],
-            "album": "thank u, next",
-            "played_at": "14/11/2026 - 13:53:40"
-        },
-        {
-            "song_name": "should've never loved you",
-            "artists": [
-                "no regrets"
-            ],
-            "album": "should've never loved you",
-            "played_at": "14/11/2026 - 01:27:26"
         }
     ]
 }

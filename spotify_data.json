@@ -1,6 +1,23 @@
 {
-    "total_plays": 7765,
+    "total_plays": 7767,
     "tracks": [
+        {
+            "song_name": "Scars To Your Beautiful",
+            "artists": [
+                "Alessia Cara"
+            ],
+            "album": "Know-It-All",
+            "played_at": "21/11/2026 - 20:15:59"
+        },
+        {
+            "song_name": "Right Above It",
+            "artists": [
+                "Lil Wayne",
+                "Drake"
+            ],
+            "album": "I Am Not A Human Being",
+            "played_at": "21/11/2026 - 20:10:43"
+        },
         {
             "song_name": "Wagon Wheel",
             "artists": [
@@ -1632,23 +1649,6 @@
             ],
             "album": "Santa Fe",
             "played_at": "15/11/2026 - 17:00:52"
-        },
-        {
-            "song_name": "float",
-            "artists": [
-                "mike.",
-                "Stevie Daniels"
-            ],
-            "album": "float",
-            "played_at": "15/11/2026 - 16:58:17"
-        },
-        {
-            "song_name": "Do You Even Know",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Running",
-            "played_at": "15/11/2026 - 16:55:12"
         }
     ]
 }

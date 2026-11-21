@@ -1,6 +1,14 @@
 {
-    "total_plays": 7764,
+    "total_plays": 7765,
     "tracks": [
+        {
+            "song_name": "Wagon Wheel",
+            "artists": [
+                "Darius Rucker"
+            ],
+            "album": "True Believers",
+            "played_at": "21/11/2026 - 14:29:33"
+        },
         {
             "song_name": "What Do You Mean?",
             "artists": [
@@ -1641,14 +1649,6 @@
             ],
             "album": "Running",
             "played_at": "15/11/2026 - 16:55:12"
-        },
-        {
-            "song_name": "Care 4 U",
-            "artists": [
-                "Last Sun"
-            ],
-            "album": "Care 4 U",
-            "played_at": "15/11/2026 - 16:51:46"
         }
     ]
 }

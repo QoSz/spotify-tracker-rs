@@ -1,6 +1,30 @@
 {
-    "total_plays": 7756,
+    "total_plays": 7759,
     "tracks": [
+        {
+            "song_name": "Don't Wake Me Up",
+            "artists": [
+                "Chris Brown"
+            ],
+            "album": "Fortune (Expanded Edition)",
+            "played_at": "21/11/2026 - 11:41:45"
+        },
+        {
+            "song_name": "Some Nights",
+            "artists": [
+                "fun."
+            ],
+            "album": "Some Nights",
+            "played_at": "21/11/2026 - 11:38:10"
+        },
+        {
+            "song_name": "Some Nights",
+            "artists": [
+                "fun."
+            ],
+            "album": "Some Nights",
+            "played_at": "21/11/2026 - 00:40:10"
+        },
         {
             "song_name": "Old Town Road (feat. Billy Ray Cyrus) - Remix",
             "artists": [
@@ -1624,32 +1648,6 @@
             ],
             "album": "Divinely Uninspired To A Hellish Extent",
             "played_at": "14/11/2026 - 22:03:33"
-        },
-        {
-            "song_name": "Suge",
-            "artists": [
-                "DaBaby"
-            ],
-            "album": "Baby On Baby",
-            "played_at": "14/11/2026 - 22:00:38"
-        },
-        {
-            "song_name": "Bad and Boujee (feat. Lil Uzi Vert)",
-            "artists": [
-                "Migos",
-                "Lil Uzi Vert"
-            ],
-            "album": "Culture",
-            "played_at": "14/11/2026 - 21:58:02"
-        },
-        {
-            "song_name": "Bad and Boujee (feat. Lil Uzi Vert)",
-            "artists": [
-                "Migos",
-                "Lil Uzi Vert"
-            ],
-            "album": "Culture",
-            "played_at": "14/11/2026 - 18:02:18"
         }
     ]
 }

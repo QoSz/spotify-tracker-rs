@@ -1,6 +1,14 @@
 {
-    "total_plays": 7759,
+    "total_plays": 7760,
     "tracks": [
+        {
+            "song_name": "Let Her Go",
+            "artists": [
+                "Passenger"
+            ],
+            "album": "All the Little Lights (Deluxe Version)",
+            "played_at": "21/11/2026 - 11:58:01"
+        },
         {
             "song_name": "Don't Wake Me Up",
             "artists": [
@@ -1640,14 +1648,6 @@
             ],
             "album": "Nervous System",
             "played_at": "14/11/2026 - 22:06:23"
-        },
-        {
-            "song_name": "Someone You Loved",
-            "artists": [
-                "Lewis Capaldi"
-            ],
-            "album": "Divinely Uninspired To A Hellish Extent",
-            "played_at": "14/11/2026 - 22:03:33"
         }
     ]
 }

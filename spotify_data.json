@@ -1,6 +1,15 @@
 {
-    "total_plays": 7788,
+    "total_plays": 7789,
     "tracks": [
+        {
+            "song_name": "Havana (feat. Young Thug)",
+            "artists": [
+                "Camila Cabello",
+                "Young Thug"
+            ],
+            "album": "Camila",
+            "played_at": "22/11/2026 - 13:58:27"
+        },
         {
             "song_name": "This Is How We Roll",
             "artists": [
@@ -1647,15 +1656,6 @@
             ],
             "album": "Around You",
             "played_at": "16/11/2026 - 06:28:06"
-        },
-        {
-            "song_name": "everything was fickle (feat. Arden Jones)",
-            "artists": [
-                "Newport",
-                "Arden Jones"
-            ],
-            "album": "everything was fickle (feat. Arden Jones)",
-            "played_at": "16/11/2026 - 06:25:45"
         }
     ]
 }

@@ -1,6 +1,187 @@
 {
-    "total_plays": 7767,
+    "total_plays": 7788,
     "tracks": [
+        {
+            "song_name": "This Is How We Roll",
+            "artists": [
+                "Florida Georgia Line",
+                "Luke Bryan"
+            ],
+            "album": "Here's To The Good Times...This Is How We Roll",
+            "played_at": "22/11/2026 - 13:43:52"
+        },
+        {
+            "song_name": "Take Care",
+            "artists": [
+                "Drake",
+                "Rihanna"
+            ],
+            "album": "Take Care (Deluxe)",
+            "played_at": "22/11/2026 - 13:40:18"
+        },
+        {
+            "song_name": "Summer",
+            "artists": [
+                "Calvin Harris"
+            ],
+            "album": "Motion",
+            "played_at": "22/11/2026 - 13:35:48"
+        },
+        {
+            "song_name": "Story of My Life",
+            "artists": [
+                "One Direction"
+            ],
+            "album": "Midnight Memories (Deluxe)",
+            "played_at": "22/11/2026 - 13:32:12"
+        },
+        {
+            "song_name": "Die A Happy Man",
+            "artists": [
+                "Thomas Rhett"
+            ],
+            "album": "Tangled Up",
+            "played_at": "22/11/2026 - 13:28:14"
+        },
+        {
+            "song_name": "Meant to Be (feat. Florida Georgia Line)",
+            "artists": [
+                "Bebe Rexha",
+                "Florida Georgia Line"
+            ],
+            "album": "All Your Fault: Pt. 2",
+            "played_at": "22/11/2026 - 13:24:33"
+        },
+        {
+            "song_name": "Meant to Be (feat. Florida Georgia Line)",
+            "artists": [
+                "Bebe Rexha",
+                "Florida Georgia Line"
+            ],
+            "album": "All Your Fault: Pt. 2",
+            "played_at": "22/11/2026 - 11:46:39"
+        },
+        {
+            "song_name": "Look Back at It",
+            "artists": [
+                "A Boogie Wit da Hoodie"
+            ],
+            "album": "Hoodie SZN",
+            "played_at": "22/11/2026 - 11:31:46"
+        },
+        {
+            "song_name": "Breakeven",
+            "artists": [
+                "The Script"
+            ],
+            "album": "The Script",
+            "played_at": "22/11/2026 - 11:28:54"
+        },
+        {
+            "song_name": "jar of hearts",
+            "artists": [
+                "Christina Perri"
+            ],
+            "album": "lovestrong.",
+            "played_at": "22/11/2026 - 11:24:39"
+        },
+        {
+            "song_name": "Congratulations",
+            "artists": [
+                "Post Malone",
+                "Quavo"
+            ],
+            "album": "Stoney (Deluxe)",
+            "played_at": "22/11/2026 - 11:20:40"
+        },
+        {
+            "song_name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+            "artists": [
+                "A$AP Rocky",
+                "Drake",
+                "2 Chainz",
+                "Kendrick Lamar"
+            ],
+            "album": "LONG.LIVE.A$AP (Deluxe Version)",
+            "played_at": "22/11/2026 - 11:17:06"
+        },
+        {
+            "song_name": "California Gurls",
+            "artists": [
+                "Katy Perry",
+                "Snoop Dogg"
+            ],
+            "album": "Teenage Dream: The Complete Confection",
+            "played_at": "22/11/2026 - 11:13:20"
+        },
+        {
+            "song_name": "Fake Love",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "22/11/2026 - 11:09:32"
+        },
+        {
+            "song_name": "Fake Love",
+            "artists": [
+                "Drake"
+            ],
+            "album": "More Life",
+            "played_at": "22/11/2026 - 01:31:47"
+        },
+        {
+            "song_name": "It Ain't Me (with Selena Gomez)",
+            "artists": [
+                "Kygo",
+                "Selena Gomez"
+            ],
+            "album": "It Ain't Me (with Selena Gomez)",
+            "played_at": "22/11/2026 - 01:20:28"
+        },
+        {
+            "song_name": "I Don't Care (with Justin Bieber)",
+            "artists": [
+                "Ed Sheeran & Justin Bieber",
+                "Justin Bieber"
+            ],
+            "album": "I Don't Care (with Justin Bieber)",
+            "played_at": "22/11/2026 - 01:16:55"
+        },
+        {
+            "song_name": "Started From the Bottom",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Nothing Was The Same",
+            "played_at": "22/11/2026 - 01:13:22"
+        },
+        {
+            "song_name": "Believer",
+            "artists": [
+                "Imagine Dragons"
+            ],
+            "album": "Evolve",
+            "played_at": "22/11/2026 - 01:10:35"
+        },
+        {
+            "song_name": "This Is What You Came For",
+            "artists": [
+                "Calvin Harris",
+                "Rihanna"
+            ],
+            "album": "This Is What You Came For",
+            "played_at": "22/11/2026 - 01:05:33"
+        },
+        {
+            "song_name": "This Is What You Came For",
+            "artists": [
+                "Calvin Harris",
+                "Rihanna"
+            ],
+            "album": "This Is What You Came For",
+            "played_at": "21/11/2026 - 20:35:54"
+        },
         {
             "song_name": "Scars To Your Beautiful",
             "artists": [
@@ -1475,180 +1656,6 @@
             ],
             "album": "everything was fickle (feat. Arden Jones)",
             "played_at": "16/11/2026 - 06:25:45"
-        },
-        {
-            "song_name": "car",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "hickey",
-            "played_at": "16/11/2026 - 06:22:36"
-        },
-        {
-            "song_name": "Spots",
-            "artists": [
-                "HARRY WAS HERE",
-                "benny mayne"
-            ],
-            "album": "Spots",
-            "played_at": "16/11/2026 - 06:18:31"
-        },
-        {
-            "song_name": "Tinted",
-            "artists": [
-                "N.D.A.Y.I."
-            ],
-            "album": "Tinted",
-            "played_at": "16/11/2026 - 06:15:49"
-        },
-        {
-            "song_name": "wildfire",
-            "artists": [
-                "origins"
-            ],
-            "album": "wildfire",
-            "played_at": "16/11/2026 - 06:10:08"
-        },
-        {
-            "song_name": "A New Day",
-            "artists": [
-                "Last Sun"
-            ],
-            "album": "A New Day",
-            "played_at": "16/11/2026 - 06:06:54"
-        },
-        {
-            "song_name": "Missing U Again",
-            "artists": [
-                "Diielex"
-            ],
-            "album": "Missing U Again",
-            "played_at": "16/11/2026 - 06:03:35"
-        },
-        {
-            "song_name": "Missing U Again",
-            "artists": [
-                "Diielex"
-            ],
-            "album": "Missing U Again",
-            "played_at": "15/11/2026 - 18:11:56"
-        },
-        {
-            "song_name": "side by side",
-            "artists": [
-                "drill clinton"
-            ],
-            "album": "u get me.",
-            "played_at": "15/11/2026 - 17:35:45"
-        },
-        {
-            "song_name": "Reaching Up",
-            "artists": [
-                "Harmless Night",
-                "Ren Ocean"
-            ],
-            "album": "Reaching Up",
-            "played_at": "15/11/2026 - 17:32:05"
-        },
-        {
-            "song_name": "Stay Now",
-            "artists": [
-                "Rules",
-                "Maverick Sabre"
-            ],
-            "album": "Stay Now",
-            "played_at": "15/11/2026 - 17:29:21"
-        },
-        {
-            "song_name": "Oh Darlin'",
-            "artists": [
-                "tomy wyne"
-            ],
-            "album": "Oh Darlin'",
-            "played_at": "15/11/2026 - 17:26:00"
-        },
-        {
-            "song_name": "Come Back To Me",
-            "artists": [
-                "Russ"
-            ],
-            "album": "Come Back To Me",
-            "played_at": "15/11/2026 - 17:23:24"
-        },
-        {
-            "song_name": "Tendencies",
-            "artists": [
-                "Lithe"
-            ],
-            "album": "Tendencies",
-            "played_at": "15/11/2026 - 17:20:25"
-        },
-        {
-            "song_name": "About You",
-            "artists": [
-                "Nohr",
-                "AMRAC"
-            ],
-            "album": "About You",
-            "played_at": "15/11/2026 - 17:18:32"
-        },
-        {
-            "song_name": "Easy On Me",
-            "artists": [
-                "Exit Coda",
-                "Six Hills"
-            ],
-            "album": "Easy On Me",
-            "played_at": "15/11/2026 - 17:16:10"
-        },
-        {
-            "song_name": "Home",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Blue Sky Mentality (Complete Edition)",
-            "played_at": "15/11/2026 - 17:13:27"
-        },
-        {
-            "song_name": "I Don't Do This",
-            "artists": [
-                "Small Town Kid"
-            ],
-            "album": "Running",
-            "played_at": "15/11/2026 - 17:10:56"
-        },
-        {
-            "song_name": "lovegoneby",
-            "artists": [
-                "Jonah Zed"
-            ],
-            "album": "LOVEGONEBY",
-            "played_at": "15/11/2026 - 17:08:06"
-        },
-        {
-            "song_name": "Echoes",
-            "artists": [
-                "Gavin Moss",
-                "RUSSI"
-            ],
-            "album": "Echoes",
-            "played_at": "15/11/2026 - 17:05:16"
-        },
-        {
-            "song_name": "Don't Go",
-            "artists": [
-                "PLVTO"
-            ],
-            "album": "Don't Go",
-            "played_at": "15/11/2026 - 17:03:15"
-        },
-        {
-            "song_name": "Santa Fe",
-            "artists": [
-                "GOBAITH"
-            ],
-            "album": "Santa Fe",
-            "played_at": "15/11/2026 - 17:00:52"
         }
     ]
 }

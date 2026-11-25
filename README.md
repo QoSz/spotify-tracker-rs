@@ -41,16 +41,16 @@ journalctl --user -u spotify-tracker -f
 <!-- STATS:START -->
 ## Lifetime Stats
 
-**7,809** songs listened to
+**7,814** songs listened to
 
-- **1724** unique artists
-- **1922** unique albums
-- **2353** unique songs
+- **1725** unique artists
+- **1923** unique albums
+- **2354** unique songs
 - **12.4** songs per day (average)
 
 ## Top Artists (All Time)
 
-1. Drake (365 plays)
+1. Drake (366 plays)
 2. MIND (281 plays)
 3. Nu Aspect (214 plays)
 4. Small Town Kid (213 plays)
@@ -67,7 +67,7 @@ journalctl --user -u spotify-tracker -f
 
 ## Listening Time
 
-- **56.9** hours listened (1,108 plays with known duration)
+- **57.1** hours listened (1,113 plays with known duration)
 - 6,701 older plays (imported from the legacy tracker) have no duration and are excluded
 
 ## This Year by Month
@@ -82,7 +82,7 @@ journalctl --user -u spotify-tracker -f
 | June | 589 | 0.0 |
 | July | 508 | 0.0 |
 | October | 530 | 26.1 |
-| November | 578 | 30.8 |
+| November | 583 | 31.0 |
 
 ---
 *Automatically updated by spotify-tracker (Rust)*

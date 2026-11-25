@@ -1,6 +1,96 @@
 {
-    "total_plays": 7826,
+    "total_plays": 7837,
     "tracks": [
+        {
+            "song_name": "About You",
+            "artists": [
+                "Nohr",
+                "AMRAC"
+            ],
+            "album": "About You",
+            "played_at": "25/11/2026 - 14:16:59"
+        },
+        {
+            "song_name": "Inwood Hill Park",
+            "artists": [
+                "6LACK"
+            ],
+            "album": "Since I Have A Lover",
+            "played_at": "25/11/2026 - 14:14:38"
+        },
+        {
+            "song_name": "Home",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality (Complete Edition)",
+            "played_at": "25/11/2026 - 14:11:35"
+        },
+        {
+            "song_name": "HOLD BACK",
+            "artists": [
+                "Jack Harlow"
+            ],
+            "album": "Sweet Action II",
+            "played_at": "25/11/2026 - 14:09:04"
+        },
+        {
+            "song_name": "Around You",
+            "artists": [
+                "WizTheMc"
+            ],
+            "album": "Around You",
+            "played_at": "25/11/2026 - 14:06:51"
+        },
+        {
+            "song_name": "Backends Fasho",
+            "artists": [
+                "Offset"
+            ],
+            "album": "KIARI",
+            "played_at": "25/11/2026 - 14:04:54"
+        },
+        {
+            "song_name": "Love Eyes",
+            "artists": [
+                "Dear Sunday"
+            ],
+            "album": "Draw 4",
+            "played_at": "25/11/2026 - 14:02:31"
+        },
+        {
+            "song_name": "My Honey",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "My Honey",
+            "played_at": "25/11/2026 - 13:58:59"
+        },
+        {
+            "song_name": "Overthink (feat. Elmiene)",
+            "artists": [
+                "Wale",
+                "Elmiene"
+            ],
+            "album": "Overthink (feat. Elmiene)",
+            "played_at": "25/11/2026 - 13:56:57"
+        },
+        {
+            "song_name": "Maze",
+            "artists": [
+                "h41dn"
+            ],
+            "album": "Maze",
+            "played_at": "25/11/2026 - 13:53:37"
+        },
+        {
+            "song_name": "Eyes Open",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Eyes Open",
+            "played_at": "25/11/2026 - 13:49:20"
+        },
         {
             "song_name": "Fickle",
             "artists": [
@@ -1577,97 +1667,6 @@
             ],
             "album": "Cabo Verde World Cup 2026",
             "played_at": "16/11/2026 - 09:31:53"
-        },
-        {
-            "song_name": "The Best",
-            "artists": [
-                "Tina Turner"
-            ],
-            "album": "All The Best",
-            "played_at": "16/11/2026 - 09:28:51"
-        },
-        {
-            "song_name": "Made in America",
-            "artists": [
-                "Toby Keith"
-            ],
-            "album": "Clancy's Tavern",
-            "played_at": "16/11/2026 - 09:23:27"
-        },
-        {
-            "song_name": "The Viking Row",
-            "artists": [
-                "RoxiLulla"
-            ],
-            "album": "The Viking Row",
-            "played_at": "16/11/2026 - 09:20:21"
-        },
-        {
-            "song_name": "Six Seven",
-            "artists": [
-                "Laurinha Costa",
-                "Dj Cabello",
-                "Dj Tchouzen",
-                "SoundMusic Original"
-            ],
-            "album": "Six Seven",
-            "played_at": "16/11/2026 - 09:18:47"
-        },
-        {
-            "song_name": "The Official FIFA World Cup 26™ Theme",
-            "artists": [
-                "FIFA Sound"
-            ],
-            "album": "The Official FIFA World Cup 26™ Theme",
-            "played_at": "16/11/2026 - 09:17:14"
-        },
-        {
-            "song_name": "Skyscraper - Wizz Dumb Remix",
-            "artists": [
-                "Demi Lovato"
-            ],
-            "album": "Unbroken",
-            "played_at": "16/11/2026 - 09:15:19"
-        },
-        {
-            "song_name": "Bouncing Off The Walls",
-            "artists": [
-                "Sugarcult"
-            ],
-            "album": "Start Static",
-            "played_at": "16/11/2026 - 09:11:43"
-        },
-        {
-            "song_name": "1985",
-            "artists": [
-                "Bowling For Soup"
-            ],
-            "album": "A Hangover You Don't Deserve",
-            "played_at": "16/11/2026 - 09:09:29"
-        },
-        {
-            "song_name": "Kygo Jo",
-            "artists": [
-                "Lundenesrussen"
-            ],
-            "album": "Kygo Jo",
-            "played_at": "16/11/2026 - 09:06:23"
-        },
-        {
-            "song_name": "Stacy's Mom",
-            "artists": [
-                "Fountains Of Wayne"
-            ],
-            "album": "Welcome Interstate Managers",
-            "played_at": "16/11/2026 - 09:02:56"
-        },
-        {
-            "song_name": "Fat Lip",
-            "artists": [
-                "Sum 41"
-            ],
-            "album": "All Killer, No Filler",
-            "played_at": "16/11/2026 - 08:59:45"
         }
     ]
 }

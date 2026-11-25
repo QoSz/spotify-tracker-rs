@@ -1,6 +1,40 @@
 {
-    "total_plays": 7789,
+    "total_plays": 7793,
     "tracks": [
+        {
+            "song_name": "Eachother",
+            "artists": [
+                "PLVTO"
+            ],
+            "album": "Eachother",
+            "played_at": "25/11/2026 - 09:00:37"
+        },
+        {
+            "song_name": "Mystery Lady",
+            "artists": [
+                "Masego",
+                "Don Toliver"
+            ],
+            "album": "Studying Abroad: Extended Stay",
+            "played_at": "25/11/2026 - 08:58:02"
+        },
+        {
+            "song_name": "Go Around",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "Running",
+            "played_at": "25/11/2026 - 08:54:20"
+        },
+        {
+            "song_name": "Central Park",
+            "artists": [
+                "Vwillz",
+                "mike."
+            ],
+            "album": "York",
+            "played_at": "25/11/2026 - 08:51:53"
+        },
         {
             "song_name": "Havana (feat. Young Thug)",
             "artists": [
@@ -1623,39 +1657,6 @@
             ],
             "album": "Jensen Huang",
             "played_at": "16/11/2026 - 06:37:43"
-        },
-        {
-            "song_name": "Jensen Huang",
-            "artists": [
-                "Dtrue"
-            ],
-            "album": "Jensen Huang",
-            "played_at": "16/11/2026 - 06:35:26"
-        },
-        {
-            "song_name": "I Just Wanna Feel Something",
-            "artists": [
-                "Lithe",
-                "pre kai ro"
-            ],
-            "album": "I Just Wanna Feel Something",
-            "played_at": "16/11/2026 - 06:33:18"
-        },
-        {
-            "song_name": "lovely",
-            "artists": [
-                "Yara Lina."
-            ],
-            "album": "lovely",
-            "played_at": "16/11/2026 - 06:30:37"
-        },
-        {
-            "song_name": "Around You",
-            "artists": [
-                "WizTheMc"
-            ],
-            "album": "Around You",
-            "played_at": "16/11/2026 - 06:28:06"
         }
     ]
 }

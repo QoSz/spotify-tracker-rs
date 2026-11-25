@@ -1,6 +1,14 @@
 {
-    "total_plays": 7842,
+    "total_plays": 7843,
     "tracks": [
+        {
+            "song_name": "Eachother",
+            "artists": [
+                "PLVTO"
+            ],
+            "album": "Eachother",
+            "played_at": "25/11/2026 - 17:06:07"
+        },
         {
             "song_name": "Central Park",
             "artists": [
@@ -1660,14 +1668,6 @@
             ],
             "album": "Midnight Sun",
             "played_at": "16/11/2026 - 17:55:47"
-        },
-        {
-            "song_name": "HYPNOTIZE",
-            "artists": [
-                "XG"
-            ],
-            "album": "THE CORE - 核",
-            "played_at": "16/11/2026 - 17:52:44"
         }
     ]
 }

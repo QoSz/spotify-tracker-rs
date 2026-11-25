@@ -1,6 +1,88 @@
 {
-    "total_plays": 7816,
+    "total_plays": 7826,
     "tracks": [
+        {
+            "song_name": "Fickle",
+            "artists": [
+                "Newport"
+            ],
+            "album": "Fickle",
+            "played_at": "25/11/2026 - 13:45:07"
+        },
+        {
+            "song_name": "ME AGAIN!",
+            "artists": [
+                "Never Ending Fall"
+            ],
+            "album": "MOMENTUM!",
+            "played_at": "25/11/2026 - 13:41:58"
+        },
+        {
+            "song_name": "one life",
+            "artists": [
+                "charlieonnafriday"
+            ],
+            "album": "one life",
+            "played_at": "25/11/2026 - 13:38:15"
+        },
+        {
+            "song_name": "everything was fickle (feat. Arden Jones)",
+            "artists": [
+                "Newport",
+                "Arden Jones"
+            ],
+            "album": "everything was fickle (feat. Arden Jones)",
+            "played_at": "25/11/2026 - 13:35:20"
+        },
+        {
+            "song_name": "8:55 - Jend Remix",
+            "artists": [
+                "Jend",
+                "Byron Bennett"
+            ],
+            "album": "8:55 (Jend Remix)",
+            "played_at": "25/11/2026 - 13:32:11"
+        },
+        {
+            "song_name": "Trance Dance",
+            "artists": [
+                "ODIE"
+            ],
+            "album": "Trance Dance",
+            "played_at": "25/11/2026 - 13:29:04"
+        },
+        {
+            "song_name": "sunlight",
+            "artists": [
+                "Kublaii"
+            ],
+            "album": "sunlight",
+            "played_at": "25/11/2026 - 13:25:25"
+        },
+        {
+            "song_name": "Juice",
+            "artists": [
+                "Schur"
+            ],
+            "album": "Juice",
+            "played_at": "25/11/2026 - 13:22:32"
+        },
+        {
+            "song_name": "A COLD PLAY",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "BEFORE I FORGET",
+            "played_at": "25/11/2026 - 13:19:10"
+        },
+        {
+            "song_name": "A COLD PLAY",
+            "artists": [
+                "The Kid LAROI"
+            ],
+            "album": "BEFORE I FORGET",
+            "played_at": "25/11/2026 - 11:36:56"
+        },
         {
             "song_name": "Ripple - soft version",
             "artists": [
@@ -1586,89 +1668,6 @@
             ],
             "album": "All Killer, No Filler",
             "played_at": "16/11/2026 - 08:59:45"
-        },
-        {
-            "song_name": "Runaway (U & I) - Kaskade Remix",
-            "artists": [
-                "Galantis",
-                "Kaskade"
-            ],
-            "album": "Runaway (U & I) [Kaskade Remix]",
-            "played_at": "16/11/2026 - 08:56:54"
-        },
-        {
-            "song_name": "Live While We're Young",
-            "artists": [
-                "One Direction"
-            ],
-            "album": "Take Me Home (Expanded Edition)",
-            "played_at": "16/11/2026 - 08:51:45"
-        },
-        {
-            "song_name": "Shapeshifting on a Saturday Night",
-            "artists": [
-                "Avery Cochrane"
-            ],
-            "album": "Male Validation and Other Drugs",
-            "played_at": "16/11/2026 - 08:48:32"
-        },
-        {
-            "song_name": "Peanut Butter Jelly",
-            "artists": [
-                "Galantis"
-            ],
-            "album": "Pharmacy",
-            "played_at": "16/11/2026 - 08:45:13"
-        },
-        {
-            "song_name": "Take Me Home (feat. Bebe Rexha)",
-            "artists": [
-                "Cash Cash",
-                "Bebe Rexha"
-            ],
-            "album": "Blood, Sweat & 3 Years",
-            "played_at": "16/11/2026 - 08:41:57"
-        },
-        {
-            "song_name": "Hello",
-            "artists": [
-                "Martin Solveig",
-                "Dragonette"
-            ],
-            "album": "Smash",
-            "played_at": "16/11/2026 - 08:38:39"
-        },
-        {
-            "song_name": "Geronimo",
-            "artists": [
-                "Sheppard"
-            ],
-            "album": "Bombs Away",
-            "played_at": "16/11/2026 - 08:34:05"
-        },
-        {
-            "song_name": "Mayonaka no Door~stay with me - Single ver.",
-            "artists": [
-                "Miki Matsubara"
-            ],
-            "album": "Light Mellow Miki Matsubara",
-            "played_at": "16/11/2026 - 08:24:53"
-        },
-        {
-            "song_name": "Mine, Lord Willing",
-            "artists": [
-                "Pynk Beard"
-            ],
-            "album": "Mine, Lord Willing",
-            "played_at": "16/11/2026 - 08:20:26"
-        },
-        {
-            "song_name": "I Wanna Be Sedated",
-            "artists": [
-                "The Offspring"
-            ],
-            "album": "I Wanna Be Sedated",
-            "played_at": "16/11/2026 - 08:18:13"
         }
     ]
 }

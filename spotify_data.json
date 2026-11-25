@@ -1,6 +1,59 @@
 {
-    "total_plays": 7803,
+    "total_plays": 7809,
     "tracks": [
+        {
+            "song_name": "TOO SOON (feat. Babyface)",
+            "artists": [
+                "Jack Harlow",
+                "Babyface"
+            ],
+            "album": "TOO SOON (feat. Babyface)",
+            "played_at": "25/11/2026 - 09:51:40"
+        },
+        {
+            "song_name": "luther (with sza)",
+            "artists": [
+                "Kendrick Lamar",
+                "SZA"
+            ],
+            "album": "GNX",
+            "played_at": "25/11/2026 - 09:49:25"
+        },
+        {
+            "song_name": "Rein Me In (with Olivia Dean)",
+            "artists": [
+                "Sam Fender",
+                "Olivia Dean"
+            ],
+            "album": "People Watching (Deluxe Edition)",
+            "played_at": "25/11/2026 - 09:46:35"
+        },
+        {
+            "song_name": "Bis Der Himmel Leiser Wird",
+            "artists": [
+                "NOVEMBER KID",
+                "Anna Grey"
+            ],
+            "album": "Bis Der Himmel Leiser Wird",
+            "played_at": "25/11/2026 - 09:41:02"
+        },
+        {
+            "song_name": "Jump",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Jump",
+            "played_at": "25/11/2026 - 09:38:50"
+        },
+        {
+            "song_name": "Pretty Little Fears (feat. J. Cole)",
+            "artists": [
+                "6LACK",
+                "J. Cole"
+            ],
+            "album": "East Atlanta Love Letter",
+            "played_at": "25/11/2026 - 09:34:12"
+        },
         {
             "song_name": "Music All Over Her Body",
             "artists": [
@@ -1611,54 +1664,6 @@
             ],
             "album": "一点点喜欢",
             "played_at": "16/11/2026 - 07:52:52"
-        },
-        {
-            "song_name": "撲通撲通",
-            "artists": [
-                "joysaaaa"
-            ],
-            "album": "撲通撲通",
-            "played_at": "16/11/2026 - 07:44:51"
-        },
-        {
-            "song_name": "浅显易懂",
-            "artists": [
-                "杜治民"
-            ],
-            "album": "浅显易懂",
-            "played_at": "16/11/2026 - 07:42:00"
-        },
-        {
-            "song_name": "山海不说话（我路过山 山不说话）",
-            "artists": [
-                "陳鴨梨Charlie"
-            ],
-            "album": "山海不说话（我路过山 山不说话）",
-            "played_at": "16/11/2026 - 07:38:42"
-        },
-        {
-            "song_name": "Jensen Huang",
-            "artists": [
-                "Dtrue"
-            ],
-            "album": "Jensen Huang",
-            "played_at": "16/11/2026 - 07:35:18"
-        },
-        {
-            "song_name": "Sultans Of Swing",
-            "artists": [
-                "Dire Straits"
-            ],
-            "album": "Dire Straits",
-            "played_at": "16/11/2026 - 07:22:20"
-        },
-        {
-            "song_name": "Under the Bridge",
-            "artists": [
-                "Red Hot Chili Peppers"
-            ],
-            "album": "Blood Sugar Sex Magik (Deluxe Edition)",
-            "played_at": "16/11/2026 - 07:16:38"
         }
     ]
 }

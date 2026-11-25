@@ -1,6 +1,47 @@
 {
-    "total_plays": 7837,
+    "total_plays": 7842,
     "tracks": [
+        {
+            "song_name": "Central Park",
+            "artists": [
+                "Vwillz",
+                "mike."
+            ],
+            "album": "York",
+            "played_at": "25/11/2026 - 15:38:28"
+        },
+        {
+            "song_name": "Soul Searching",
+            "artists": [
+                "LYOD"
+            ],
+            "album": "Soul Searching",
+            "played_at": "25/11/2026 - 15:35:38"
+        },
+        {
+            "song_name": "a little more time",
+            "artists": [
+                "ROLE MODEL"
+            ],
+            "album": "a little more time",
+            "played_at": "25/11/2026 - 15:33:20"
+        },
+        {
+            "song_name": "Love Me Right",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "Love Me Right",
+            "played_at": "25/11/2026 - 15:29:57"
+        },
+        {
+            "song_name": "Love Me Right",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "Love Me Right",
+            "played_at": "25/11/2026 - 14:54:27"
+        },
         {
             "song_name": "About You",
             "artists": [
@@ -1627,46 +1668,6 @@
             ],
             "album": "THE CORE - 核",
             "played_at": "16/11/2026 - 17:52:44"
-        },
-        {
-            "song_name": "Risk It All",
-            "artists": [
-                "Bruno Mars"
-            ],
-            "album": "The Romantic",
-            "played_at": "16/11/2026 - 17:50:01"
-        },
-        {
-            "song_name": "O Arkansas - Live from the Gillioz Theatre",
-            "artists": [
-                "Lyal Strickland"
-            ],
-            "album": "O Arkansas (Live from the Gillioz Theatre)",
-            "played_at": "16/11/2026 - 17:45:40"
-        },
-        {
-            "song_name": "Little Bit Lost",
-            "artists": [
-                "Lua Flora"
-            ],
-            "album": "Little Bit Lost",
-            "played_at": "16/11/2026 - 17:40:56"
-        },
-        {
-            "song_name": "Little Bit Lost",
-            "artists": [
-                "Lua Flora"
-            ],
-            "album": "Little Bit Lost",
-            "played_at": "16/11/2026 - 10:43:15"
-        },
-        {
-            "song_name": "Cabo Verde World Cup 2026",
-            "artists": [
-                "AK Design"
-            ],
-            "album": "Cabo Verde World Cup 2026",
-            "played_at": "16/11/2026 - 09:31:53"
         }
     ]
 }

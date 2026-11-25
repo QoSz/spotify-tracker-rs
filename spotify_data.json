@@ -1,6 +1,22 @@
 {
-    "total_plays": 7814,
+    "total_plays": 7816,
     "tracks": [
+        {
+            "song_name": "Ripple - soft version",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Blue Sky Mentality (Complete Edition)",
+            "played_at": "25/11/2026 - 10:35:28"
+        },
+        {
+            "song_name": "Bloom",
+            "artists": [
+                "oskar med k"
+            ],
+            "album": "Bloom",
+            "played_at": "25/11/2026 - 10:32:44"
+        },
         {
             "song_name": "Say My Name",
             "artists": [
@@ -1653,22 +1669,6 @@
             ],
             "album": "I Wanna Be Sedated",
             "played_at": "16/11/2026 - 08:18:13"
-        },
-        {
-            "song_name": "Mamma Mia",
-            "artists": [
-                "ABBA"
-            ],
-            "album": "Abba",
-            "played_at": "16/11/2026 - 08:13:56"
-        },
-        {
-            "song_name": "Does Your Mother Know",
-            "artists": [
-                "ABBA"
-            ],
-            "album": "ABBA Gold",
-            "played_at": "16/11/2026 - 08:10:30"
         }
     ]
 }

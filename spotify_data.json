@@ -1,6 +1,23 @@
 {
-    "total_plays": 7843,
+    "total_plays": 7845,
     "tracks": [
+        {
+            "song_name": "CRACCED - A COLORS SHOW",
+            "artists": [
+                "BigXthaPlug",
+                "COLORS"
+            ],
+            "album": "CRACCED - A COLORS SHOW",
+            "played_at": "25/11/2026 - 20:44:45"
+        },
+        {
+            "song_name": "Sometimes",
+            "artists": [
+                "Juice WRLD"
+            ],
+            "album": "Fighting Demons (Deluxe)",
+            "played_at": "25/11/2026 - 20:42:20"
+        },
         {
             "song_name": "Eachother",
             "artists": [
@@ -1651,23 +1668,6 @@
             ],
             "album": "Where Are You Going?",
             "played_at": "17/11/2026 - 12:51:03"
-        },
-        {
-            "song_name": "alright (feat. The Kid LAROI)",
-            "artists": [
-                "EKKSTACY",
-                "The Kid LAROI"
-            ],
-            "album": "EKKSTACY",
-            "played_at": "17/11/2026 - 12:48:19"
-        },
-        {
-            "song_name": "Midnight Sun",
-            "artists": [
-                "Zara Larsson"
-            ],
-            "album": "Midnight Sun",
-            "played_at": "16/11/2026 - 17:55:47"
         }
     ]
 }

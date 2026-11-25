@@ -1,6 +1,88 @@
 {
-    "total_plays": 7793,
+    "total_plays": 7803,
     "tracks": [
+        {
+            "song_name": "Music All Over Her Body",
+            "artists": [
+                "Finn Askew"
+            ],
+            "album": "Music All Over Her Body",
+            "played_at": "25/11/2026 - 09:30:18"
+        },
+        {
+            "song_name": "Over My Dead Body",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Take Care (Deluxe)",
+            "played_at": "25/11/2026 - 09:27:52"
+        },
+        {
+            "song_name": "YUKON",
+            "artists": [
+                "Justin Bieber"
+            ],
+            "album": "SWAG LIVE FROM COACHELLA (Weekend I)",
+            "played_at": "25/11/2026 - 09:23:27"
+        },
+        {
+            "song_name": "Sandman",
+            "artists": [
+                "A$AP Rocky"
+            ],
+            "album": "LIVE.LOVE.A$AP",
+            "played_at": "25/11/2026 - 09:20:39"
+        },
+        {
+            "song_name": "Brave",
+            "artists": [
+                "Texture"
+            ],
+            "album": "Brave",
+            "played_at": "25/11/2026 - 09:17:26"
+        },
+        {
+            "song_name": "I Choose You (Day)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "25/11/2026 - 09:14:59"
+        },
+        {
+            "song_name": "think about",
+            "artists": [
+                "zone"
+            ],
+            "album": "think about",
+            "played_at": "25/11/2026 - 09:11:39"
+        },
+        {
+            "song_name": "How I Feel",
+            "artists": [
+                "ItsArius",
+                "Lynnic",
+                "Lighthouse"
+            ],
+            "album": "How I Feel",
+            "played_at": "25/11/2026 - 09:08:54"
+        },
+        {
+            "song_name": "Call Me",
+            "artists": [
+                "Onlyfriends"
+            ],
+            "album": "Call Me",
+            "played_at": "25/11/2026 - 09:05:47"
+        },
+        {
+            "song_name": "Summer In Manila (Oakland Pt.3)",
+            "artists": [
+                "Karri"
+            ],
+            "album": "Summer In Manila (Oakland Pt.3)",
+            "played_at": "25/11/2026 - 09:03:22"
+        },
         {
             "song_name": "Eachother",
             "artists": [
@@ -1577,86 +1659,6 @@
             ],
             "album": "Blood Sugar Sex Magik (Deluxe Edition)",
             "played_at": "16/11/2026 - 07:16:38"
-        },
-        {
-            "song_name": "The Chain - 2004 Remaster",
-            "artists": [
-                "Fleetwood Mac"
-            ],
-            "album": "Rumours (Super Deluxe)",
-            "played_at": "16/11/2026 - 07:12:21"
-        },
-        {
-            "song_name": "Have You Ever Seen The Rain",
-            "artists": [
-                "Creedence Clearwater Revival"
-            ],
-            "album": "Pendulum (Expanded Edition)",
-            "played_at": "16/11/2026 - 07:07:58"
-        },
-        {
-            "song_name": "Up Around The Bend",
-            "artists": [
-                "Creedence Clearwater Revival"
-            ],
-            "album": "Cosmo's Factory",
-            "played_at": "16/11/2026 - 07:05:25"
-        },
-        {
-            "song_name": "Under the Bridge",
-            "artists": [
-                "Red Hot Chili Peppers"
-            ],
-            "album": "Blood Sugar Sex Magik (Deluxe Edition)",
-            "played_at": "16/11/2026 - 06:58:05"
-        },
-        {
-            "song_name": "The Chain - 2004 Remaster",
-            "artists": [
-                "Fleetwood Mac"
-            ],
-            "album": "Rumours (Super Deluxe)",
-            "played_at": "16/11/2026 - 06:53:48"
-        },
-        {
-            "song_name": "Have You Ever Seen The Rain",
-            "artists": [
-                "Creedence Clearwater Revival"
-            ],
-            "album": "Pendulum (Expanded Edition)",
-            "played_at": "16/11/2026 - 06:49:24"
-        },
-        {
-            "song_name": "Fortunate Son",
-            "artists": [
-                "Creedence Clearwater Revival"
-            ],
-            "album": "Willy And The Poor Boys (Expanded Edition)",
-            "played_at": "16/11/2026 - 06:46:51"
-        },
-        {
-            "song_name": "Jensen Huang",
-            "artists": [
-                "Dtrue"
-            ],
-            "album": "Jensen Huang",
-            "played_at": "16/11/2026 - 06:41:16"
-        },
-        {
-            "song_name": "Jensen Huang",
-            "artists": [
-                "Dtrue"
-            ],
-            "album": "Jensen Huang",
-            "played_at": "16/11/2026 - 06:39:30"
-        },
-        {
-            "song_name": "Jensen Huang",
-            "artists": [
-                "Dtrue"
-            ],
-            "album": "Jensen Huang",
-            "played_at": "16/11/2026 - 06:37:43"
         }
     ]
 }

@@ -1,6 +1,39 @@
 {
-    "total_plays": 7845,
+    "total_plays": 7849,
     "tracks": [
+        {
+            "song_name": "Thoughts from a Balcony",
+            "artists": [
+                "Mac Miller"
+            ],
+            "album": "Macadelic",
+            "played_at": "25/11/2026 - 22:00:52"
+        },
+        {
+            "song_name": "All I Had",
+            "artists": [
+                "DRMS"
+            ],
+            "album": "Change My Mind",
+            "played_at": "25/11/2026 - 20:54:47"
+        },
+        {
+            "song_name": "LIFE IS A GAMBLE",
+            "artists": [
+                "Tame Tiger"
+            ],
+            "album": "LIFE IS A GAMBLE",
+            "played_at": "25/11/2026 - 20:52:07"
+        },
+        {
+            "song_name": "Only You (with Burna Boy)",
+            "artists": [
+                "J. Cole",
+                "Burna Boy"
+            ],
+            "album": "The Fall-Off",
+            "played_at": "25/11/2026 - 20:49:24"
+        },
         {
             "song_name": "CRACCED - A COLORS SHOW",
             "artists": [
@@ -1636,38 +1669,6 @@
             ],
             "album": "Headlights",
             "played_at": "17/11/2026 - 13:08:10"
-        },
-        {
-            "song_name": "Chasing California",
-            "artists": [
-                "RZGLD"
-            ],
-            "album": "Winter Waves",
-            "played_at": "17/11/2026 - 13:02:48"
-        },
-        {
-            "song_name": "Moonlight",
-            "artists": [
-                "Louis Metric"
-            ],
-            "album": "Del Mar Desperado",
-            "played_at": "17/11/2026 - 12:59:20"
-        },
-        {
-            "song_name": "Amends",
-            "artists": [
-                "Marlon Funaki"
-            ],
-            "album": "Overdue",
-            "played_at": "17/11/2026 - 12:56:19"
-        },
-        {
-            "song_name": "Rouge",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Where Are You Going?",
-            "played_at": "17/11/2026 - 12:51:03"
         }
     ]
 }

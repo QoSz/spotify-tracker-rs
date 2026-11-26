@@ -1,6 +1,39 @@
 {
-    "total_plays": 7863,
+    "total_plays": 7867,
     "tracks": [
+        {
+            "song_name": "Never Someone Like You",
+            "artists": [
+                "Why U So",
+                "Enginse"
+            ],
+            "album": "Never Someone Like You",
+            "played_at": "26/11/2026 - 20:21:15"
+        },
+        {
+            "song_name": "INTERSTATE",
+            "artists": [
+                "Newport"
+            ],
+            "album": "INTERSTATE",
+            "played_at": "26/11/2026 - 20:19:18"
+        },
+        {
+            "song_name": "STARCHASER",
+            "artists": [
+                "Kiremi"
+            ],
+            "album": "STARCHASER",
+            "played_at": "26/11/2026 - 20:16:42"
+        },
+        {
+            "song_name": "Grin",
+            "artists": [
+                "BAYNK"
+            ],
+            "album": "SENESCENCE",
+            "played_at": "26/11/2026 - 20:13:32"
+        },
         {
             "song_name": "What Can I Do",
             "artists": [
@@ -1639,38 +1672,6 @@
             ],
             "album": "Evening Demos",
             "played_at": "18/11/2026 - 08:34:45"
-        },
-        {
-            "song_name": "PAY AS YOU GO",
-            "artists": [
-                "Ruby Waters"
-            ],
-            "album": "PAY AS YOU GO",
-            "played_at": "18/11/2026 - 08:32:57"
-        },
-        {
-            "song_name": "PAY AS YOU GO",
-            "artists": [
-                "Ruby Waters"
-            ],
-            "album": "PAY AS YOU GO",
-            "played_at": "18/11/2026 - 08:32:15"
-        },
-        {
-            "song_name": "Change",
-            "artists": [
-                "LAUREL"
-            ],
-            "album": "PALPITATIONS",
-            "played_at": "18/11/2026 - 08:19:18"
-        },
-        {
-            "song_name": "who’s your boyfriend",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "hickey",
-            "played_at": "18/11/2026 - 08:15:42"
         }
     ]
 }

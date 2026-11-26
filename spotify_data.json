@@ -1,6 +1,48 @@
 {
-    "total_plays": 7858,
+    "total_plays": 7863,
     "tracks": [
+        {
+            "song_name": "What Can I Do",
+            "artists": [
+                "H:dn"
+            ],
+            "album": "What Can I Do",
+            "played_at": "26/11/2026 - 20:10:49"
+        },
+        {
+            "song_name": "Never Leave You Alone",
+            "artists": [
+                "Alexander Nate"
+            ],
+            "album": "Never Leave You Alone",
+            "played_at": "26/11/2026 - 20:08:27"
+        },
+        {
+            "song_name": "Call Me Back",
+            "artists": [
+                "Gavin Moss",
+                "RUSSI",
+                "ZILO"
+            ],
+            "album": "Call Me Back",
+            "played_at": "26/11/2026 - 20:04:17"
+        },
+        {
+            "song_name": "1970",
+            "artists": [
+                "Schur"
+            ],
+            "album": "Cactus",
+            "played_at": "26/11/2026 - 20:01:43"
+        },
+        {
+            "song_name": "Float Through The Ceiling",
+            "artists": [
+                "DWLLRS"
+            ],
+            "album": "Float Through The Ceiling",
+            "played_at": "26/11/2026 - 19:58:28"
+        },
         {
             "song_name": "Enough",
             "artists": [
@@ -1629,47 +1671,6 @@
             ],
             "album": "hickey",
             "played_at": "18/11/2026 - 08:15:42"
-        },
-        {
-            "song_name": "sunlight",
-            "artists": [
-                "Kublaii"
-            ],
-            "album": "sunlight",
-            "played_at": "18/11/2026 - 08:12:56"
-        },
-        {
-            "song_name": "Orbiter",
-            "artists": [
-                "Noah Kahan"
-            ],
-            "album": "The Great Divide: The Last Of The Bugs",
-            "played_at": "17/11/2026 - 17:01:49"
-        },
-        {
-            "song_name": "GO",
-            "artists": [
-                "BLACKPINK"
-            ],
-            "album": "DEADLINE",
-            "played_at": "17/11/2026 - 16:57:09"
-        },
-        {
-            "song_name": "Mystical Magical",
-            "artists": [
-                "Benson Boone"
-            ],
-            "album": "Mystical Magical",
-            "played_at": "17/11/2026 - 16:54:00"
-        },
-        {
-            "song_name": "Stateside + Zara Larsson",
-            "artists": [
-                "PinkPantheress",
-                "Zara Larsson"
-            ],
-            "album": "Fancy Some More?",
-            "played_at": "17/11/2026 - 16:46:53"
         }
     ]
 }

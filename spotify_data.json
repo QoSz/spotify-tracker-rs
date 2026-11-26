@@ -1,6 +1,14 @@
 {
-    "total_plays": 7849,
+    "total_plays": 7853,
     "tracks": [
+        {
+            "song_name": "I Guess It’s Fuck Me",
+            "artists": [
+                "Drake"
+            ],
+            "album": "Her Loss",
+            "played_at": "26/11/2026 - 11:04:00"
+        },
         {
             "song_name": "Thoughts from a Balcony",
             "artists": [
@@ -271,6 +279,31 @@
             ],
             "album": "BEFORE I FORGET",
             "played_at": "25/11/2026 - 11:36:56"
+        },
+        {
+            "song_name": "Landed in Brooklyn",
+            "artists": [
+                "Khantrast"
+            ],
+            "album": "Chinatowns Favorite",
+            "played_at": "25/11/2026 - 11:24:19"
+        },
+        {
+            "song_name": "Rewind",
+            "artists": [
+                "YLA Howe"
+            ],
+            "album": "Rewind",
+            "played_at": "25/11/2026 - 11:04:13"
+        },
+        {
+            "song_name": "Moon & Stars (feat. Maggie Lindemann)",
+            "artists": [
+                "$NOT",
+                "Maggie Lindemann"
+            ],
+            "album": "- TRAGEDY +",
+            "played_at": "25/11/2026 - 11:02:08"
         },
         {
             "song_name": "Ripple - soft version",
@@ -1637,38 +1670,6 @@
             ],
             "album": "Find A Way",
             "played_at": "17/11/2026 - 16:31:21"
-        },
-        {
-            "song_name": "Who We Are",
-            "artists": [
-                "thebandfriday"
-            ],
-            "album": "Who We Are",
-            "played_at": "17/11/2026 - 16:28:29"
-        },
-        {
-            "song_name": "i don’t want your garden",
-            "artists": [
-                "Hazlett"
-            ],
-            "album": "last night you said you missed me",
-            "played_at": "17/11/2026 - 16:25:41"
-        },
-        {
-            "song_name": "i don’t want your garden",
-            "artists": [
-                "Hazlett"
-            ],
-            "album": "last night you said you missed me",
-            "played_at": "17/11/2026 - 13:45:13"
-        },
-        {
-            "song_name": "Headlights",
-            "artists": [
-                "In Color"
-            ],
-            "album": "Headlights",
-            "played_at": "17/11/2026 - 13:08:10"
         }
     ]
 }

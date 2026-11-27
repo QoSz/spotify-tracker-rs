@@ -1,6 +1,32 @@
 {
-    "total_plays": 7868,
+    "total_plays": 7871,
     "tracks": [
+        {
+            "song_name": "GEEKIN (feat. Lil Yachty)",
+            "artists": [
+                "Nemzzz",
+                "Lil Yachty"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "27/11/2026 - 11:28:47"
+        },
+        {
+            "song_name": "COLD",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "RENT'S DUE (DELUXE)",
+            "played_at": "27/11/2026 - 11:28:02"
+        },
+        {
+            "song_name": "GASS (feat. Travis Scott)",
+            "artists": [
+                "Nemzzz",
+                "Travis Scott"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "27/11/2026 - 11:25:45"
+        },
         {
             "song_name": "Never Someone Like You",
             "artists": [
@@ -1646,32 +1672,6 @@
             ],
             "album": "Driver",
             "played_at": "18/11/2026 - 08:47:17"
-        },
-        {
-            "song_name": "Sex & Drugs",
-            "artists": [
-                "Temper City"
-            ],
-            "album": "Sex & Drugs",
-            "played_at": "18/11/2026 - 08:44:38"
-        },
-        {
-            "song_name": "White Lies",
-            "artists": [
-                "Billy Sharp"
-            ],
-            "album": "White Lies",
-            "played_at": "18/11/2026 - 08:41:30"
-        },
-        {
-            "song_name": "Hesitate - Reimagined",
-            "artists": [
-                "Meltt",
-                "Bayonne",
-                "New Constellations"
-            ],
-            "album": "Hesitate (Reimagined)",
-            "played_at": "18/11/2026 - 08:38:15"
         }
     ]
 }

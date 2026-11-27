@@ -1,6 +1,15 @@
 {
-    "total_plays": 7875,
+    "total_plays": 7876,
     "tracks": [
+        {
+            "song_name": "Redemption (feat. Nemzzz)",
+            "artists": [
+                "Kidwild",
+                "Nemzzz"
+            ],
+            "album": "Redemption (feat. Nemzzz)",
+            "played_at": "27/11/2026 - 13:19:57"
+        },
         {
             "song_name": "Escape",
             "artists": [
@@ -1667,14 +1676,6 @@
             ],
             "album": "NEGATIVE",
             "played_at": "18/11/2026 - 10:05:53"
-        },
-        {
-            "song_name": "Your Number",
-            "artists": [
-                "thebandfriday"
-            ],
-            "album": "Take Flight",
-            "played_at": "18/11/2026 - 09:00:23"
         }
     ]
 }

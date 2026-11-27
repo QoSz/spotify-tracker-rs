@@ -1,6 +1,41 @@
 {
-    "total_plays": 7871,
+    "total_plays": 7875,
     "tracks": [
+        {
+            "song_name": "Escape",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "Escape",
+            "played_at": "27/11/2026 - 13:08:51"
+        },
+        {
+            "song_name": "Spinnin (feat. Nemzzz) - Segway Remix",
+            "artists": [
+                "ONEFOUR",
+                "Nemzzz",
+                "Segway"
+            ],
+            "album": "Look At Me Now",
+            "played_at": "27/11/2026 - 13:05:07"
+        },
+        {
+            "song_name": "4AM",
+            "artists": [
+                "Nemzzz"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "27/11/2026 - 13:02:32"
+        },
+        {
+            "song_name": "GEEKIN (feat. Lil Yachty)",
+            "artists": [
+                "Nemzzz",
+                "Lil Yachty"
+            ],
+            "album": "LOCKED IN",
+            "played_at": "27/11/2026 - 13:00:03"
+        },
         {
             "song_name": "GEEKIN (feat. Lil Yachty)",
             "artists": [
@@ -1640,38 +1675,6 @@
             ],
             "album": "Take Flight",
             "played_at": "18/11/2026 - 09:00:23"
-        },
-        {
-            "song_name": "Nothing I Could Do",
-            "artists": [
-                "MORE&MORE"
-            ],
-            "album": "Nothing I Could Do",
-            "played_at": "18/11/2026 - 08:56:35"
-        },
-        {
-            "song_name": "Back To You",
-            "artists": [
-                "h41dn"
-            ],
-            "album": "Back To You",
-            "played_at": "18/11/2026 - 08:53:36"
-        },
-        {
-            "song_name": "Human Condition",
-            "artists": [
-                "49th & Main"
-            ],
-            "album": "Must Be Nice",
-            "played_at": "18/11/2026 - 08:50:17"
-        },
-        {
-            "song_name": "Driver",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Driver",
-            "played_at": "18/11/2026 - 08:47:17"
         }
     ]
 }

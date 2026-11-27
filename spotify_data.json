@@ -1,5 +1,5 @@
 {
-    "total_plays": 7867,
+    "total_plays": 7868,
     "tracks": [
         {
             "song_name": "Never Someone Like You",
@@ -75,6 +75,14 @@
             ],
             "album": "Float Through The Ceiling",
             "played_at": "26/11/2026 - 19:58:28"
+        },
+        {
+            "song_name": "Violent Crimes",
+            "artists": [
+                "Kanye West"
+            ],
+            "album": "ye",
+            "played_at": "26/11/2026 - 12:57:48"
         },
         {
             "song_name": "Enough",
@@ -1664,14 +1672,6 @@
             ],
             "album": "Hesitate (Reimagined)",
             "played_at": "18/11/2026 - 08:38:15"
-        },
-        {
-            "song_name": "SKIES R BLUE",
-            "artists": [
-                "Evening Elephants"
-            ],
-            "album": "Evening Demos",
-            "played_at": "18/11/2026 - 08:34:45"
         }
     ]
 }

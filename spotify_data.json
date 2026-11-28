@@ -1,6 +1,417 @@
 {
-    "total_plays": 7876,
+    "total_plays": 7926,
     "tracks": [
+        {
+            "song_name": "Open Your Eyes",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "Open Your Eyes",
+            "played_at": "28/11/2026 - 13:09:11"
+        },
+        {
+            "song_name": "Enough For Me",
+            "artists": [
+                "GRAHAM"
+            ],
+            "album": "MOODSWINGS",
+            "played_at": "28/11/2026 - 13:06:14"
+        },
+        {
+            "song_name": "Holdin’ On",
+            "artists": [
+                "Harry Hudson"
+            ],
+            "album": "Hey, I'm Here For You",
+            "played_at": "28/11/2026 - 13:04:02"
+        },
+        {
+            "song_name": "Can't Let Go",
+            "artists": [
+                "Will Swinton"
+            ],
+            "album": "Can't Let Go",
+            "played_at": "28/11/2026 - 13:00:58"
+        },
+        {
+            "song_name": "Can't Let Go",
+            "artists": [
+                "Will Swinton"
+            ],
+            "album": "Can't Let Go",
+            "played_at": "28/11/2026 - 12:52:17"
+        },
+        {
+            "song_name": "Superstar",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Superstar",
+            "played_at": "28/11/2026 - 12:32:51"
+        },
+        {
+            "song_name": "Eyes Open",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Eyes Open",
+            "played_at": "28/11/2026 - 12:30:17"
+        },
+        {
+            "song_name": "I Choose You (Night)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "28/11/2026 - 12:26:04"
+        },
+        {
+            "song_name": "Love Somebody",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "Love Somebody",
+            "played_at": "28/11/2026 - 12:24:06"
+        },
+        {
+            "song_name": "LAST TIME",
+            "artists": [
+                "Amir Obe"
+            ],
+            "album": "LOOKING FOR THE NEAREST EXIT",
+            "played_at": "28/11/2026 - 12:21:20"
+        },
+        {
+            "song_name": "The Unknown",
+            "artists": [
+                "GOBAITH"
+            ],
+            "album": "The Unknown",
+            "played_at": "28/11/2026 - 12:18:53"
+        },
+        {
+            "song_name": "ihatefireworks",
+            "artists": [
+                "BangerOfTheDay",
+                "Jonah Zed",
+                "Newport"
+            ],
+            "album": "ihatefireworks",
+            "played_at": "28/11/2026 - 12:15:49"
+        },
+        {
+            "song_name": "Promises",
+            "artists": [
+                "DRKTMS",
+                "luca!"
+            ],
+            "album": "Bupropion",
+            "played_at": "28/11/2026 - 12:13:15"
+        },
+        {
+            "song_name": "Gory Love",
+            "artists": [
+                "Calabasas"
+            ],
+            "album": "Gory Love",
+            "played_at": "28/11/2026 - 12:09:55"
+        },
+        {
+            "song_name": "Left Will Go Right",
+            "artists": [
+                "WizTheMc"
+            ],
+            "album": "YEBO",
+            "played_at": "28/11/2026 - 12:07:45"
+        },
+        {
+            "song_name": "sunlight",
+            "artists": [
+                "Kublaii"
+            ],
+            "album": "sunlight",
+            "played_at": "28/11/2026 - 12:05:32"
+        },
+        {
+            "song_name": "Limerence",
+            "artists": [
+                "Masego"
+            ],
+            "album": "Fix Your Face",
+            "played_at": "28/11/2026 - 12:02:39"
+        },
+        {
+            "song_name": "Move With Me",
+            "artists": [
+                "Locals Only Sound"
+            ],
+            "album": "Move With Me",
+            "played_at": "28/11/2026 - 11:59:58"
+        },
+        {
+            "song_name": "first week.",
+            "artists": [
+                "Daniel Jenkins"
+            ],
+            "album": "Over Love",
+            "played_at": "28/11/2026 - 11:56:59"
+        },
+        {
+            "song_name": "Switch",
+            "artists": [
+                "6LACK"
+            ],
+            "album": "East Atlanta Love Letter",
+            "played_at": "28/11/2026 - 11:54:01"
+        },
+        {
+            "song_name": "It’s Okay",
+            "artists": [
+                "Ian Martir"
+            ],
+            "album": "It's Okay",
+            "played_at": "28/11/2026 - 11:50:41"
+        },
+        {
+            "song_name": "Central Park",
+            "artists": [
+                "Vwillz",
+                "mike."
+            ],
+            "album": "York",
+            "played_at": "28/11/2026 - 11:47:41"
+        },
+        {
+            "song_name": "Hours In Silence",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "Her Loss",
+            "played_at": "28/11/2026 - 11:44:59"
+        },
+        {
+            "song_name": "Hours In Silence",
+            "artists": [
+                "Drake",
+                "21 Savage"
+            ],
+            "album": "Her Loss",
+            "played_at": "28/11/2026 - 01:46:04"
+        },
+        {
+            "song_name": "Erase Your Social",
+            "artists": [
+                "Lil Uzi Vert"
+            ],
+            "album": "The Perfect LUV Tape",
+            "played_at": "28/11/2026 - 01:28:45"
+        },
+        {
+            "song_name": "Around You",
+            "artists": [
+                "WizTheMc"
+            ],
+            "album": "Around You",
+            "played_at": "28/11/2026 - 01:25:32"
+        },
+        {
+            "song_name": "Side To Side",
+            "artists": [
+                "George Truly"
+            ],
+            "album": "Side To Side",
+            "played_at": "28/11/2026 - 01:23:34"
+        },
+        {
+            "song_name": "Something I Need",
+            "artists": [
+                "Offset"
+            ],
+            "album": "GMFU",
+            "played_at": "28/11/2026 - 01:20:46"
+        },
+        {
+            "song_name": "Do What You Like",
+            "artists": [
+                "Bex"
+            ],
+            "album": "Do What You Like",
+            "played_at": "28/11/2026 - 01:18:28"
+        },
+        {
+            "song_name": "White Lines",
+            "artists": [
+                "Schur"
+            ],
+            "album": "White Lines",
+            "played_at": "28/11/2026 - 01:15:30"
+        },
+        {
+            "song_name": "Echoes",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "Echoes",
+            "played_at": "28/11/2026 - 01:12:19"
+        },
+        {
+            "song_name": "Inside Out",
+            "artists": [
+                "Astrality",
+                "Tailor"
+            ],
+            "album": "Inside Out",
+            "played_at": "28/11/2026 - 01:09:32"
+        },
+        {
+            "song_name": "Sad People",
+            "artists": [
+                "Kid Cudi"
+            ],
+            "album": "Man On The Moon III: The Chosen",
+            "played_at": "28/11/2026 - 01:05:39"
+        },
+        {
+            "song_name": "Think it Over",
+            "artists": [
+                "New Constellations"
+            ],
+            "album": "Think it Over",
+            "played_at": "28/11/2026 - 01:02:50"
+        },
+        {
+            "song_name": "I Choose You (Night)",
+            "artists": [
+                "Small Town Kid"
+            ],
+            "album": "I Choose You",
+            "played_at": "28/11/2026 - 00:59:48"
+        },
+        {
+            "song_name": "Backends Fasho",
+            "artists": [
+                "Offset"
+            ],
+            "album": "KIARI",
+            "played_at": "28/11/2026 - 00:57:50"
+        },
+        {
+            "song_name": "What Can I Do",
+            "artists": [
+                "H:dn"
+            ],
+            "album": "What Can I Do",
+            "played_at": "28/11/2026 - 00:55:28"
+        },
+        {
+            "song_name": "Now I Know You",
+            "artists": [
+                "Bennett Coast"
+            ],
+            "album": "Where Are You Going?",
+            "played_at": "28/11/2026 - 00:53:06"
+        },
+        {
+            "song_name": "Cold Shoulder (feat. Don Toliver & Yebba)",
+            "artists": [
+                "Drake",
+                "Don Toliver",
+                "Yebba"
+            ],
+            "album": "HABIBTI (FOMO)",
+            "played_at": "28/11/2026 - 00:49:40"
+        },
+        {
+            "song_name": "The World Slows Down",
+            "artists": [
+                "NOVEMBER KID"
+            ],
+            "album": "The World Slows Down",
+            "played_at": "28/11/2026 - 00:45:52"
+        },
+        {
+            "song_name": "Eyes Open",
+            "artists": [
+                "MIND"
+            ],
+            "album": "Eyes Open",
+            "played_at": "28/11/2026 - 00:43:31"
+        },
+        {
+            "song_name": "OBSESSED",
+            "artists": [
+                "Newport"
+            ],
+            "album": "OBSESSED",
+            "played_at": "28/11/2026 - 00:39:17"
+        },
+        {
+            "song_name": "This Dance",
+            "artists": [
+                "Mizmo"
+            ],
+            "album": "This Dance",
+            "played_at": "28/11/2026 - 00:35:43"
+        },
+        {
+            "song_name": "Backseat",
+            "artists": [
+                "Balu Brigada"
+            ],
+            "album": "Portal",
+            "played_at": "28/11/2026 - 00:33:17"
+        },
+        {
+            "song_name": "Sex & Drugs",
+            "artists": [
+                "Temper City"
+            ],
+            "album": "Sex & Drugs",
+            "played_at": "28/11/2026 - 00:27:00"
+        },
+        {
+            "song_name": "No Love",
+            "artists": [
+                "Sainté",
+                "Miraa May"
+            ],
+            "album": "Out the Blue",
+            "played_at": "28/11/2026 - 00:23:52"
+        },
+        {
+            "song_name": "Just Slide (ft Jaden)",
+            "artists": [
+                "Harry Hudson",
+                "Jaden"
+            ],
+            "album": "Hey, I'm Here For You",
+            "played_at": "28/11/2026 - 00:20:48"
+        },
+        {
+            "song_name": "music when i'm high - stripped",
+            "artists": [
+                "Stevie Daniels"
+            ],
+            "album": "music when i'm high - stripped",
+            "played_at": "28/11/2026 - 00:18:16"
+        },
+        {
+            "song_name": "Superstar",
+            "artists": [
+                "Good Neighbours"
+            ],
+            "album": "Superstar",
+            "played_at": "28/11/2026 - 00:15:15"
+        },
+        {
+            "song_name": "Out My Mind",
+            "artists": [
+                "canyon."
+            ],
+            "album": "ADHD",
+            "played_at": "28/11/2026 - 00:12:42"
+        },
         {
             "song_name": "Redemption (feat. Nemzzz)",
             "artists": [
@@ -1262,420 +1673,6 @@
             ],
             "album": "HABIBTI (FOMO)",
             "played_at": "19/11/2026 - 16:04:58"
-        },
-        {
-            "song_name": "Cold Shoulder (feat. Don Toliver & Yebba)",
-            "artists": [
-                "Drake",
-                "Don Toliver",
-                "Yebba"
-            ],
-            "album": "HABIBTI (FOMO)",
-            "played_at": "19/11/2026 - 16:01:15"
-        },
-        {
-            "song_name": "Switch",
-            "artists": [
-                "6LACK"
-            ],
-            "album": "East Atlanta Love Letter",
-            "played_at": "19/11/2026 - 16:00:18"
-        },
-        {
-            "song_name": "Slow Motion",
-            "artists": [
-                "Lynnic",
-                "ItsArius",
-                "Lilly"
-            ],
-            "album": "SOMEWHERE",
-            "played_at": "19/11/2026 - 15:56:58"
-        },
-        {
-            "song_name": "Now I Know You",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Where Are You Going?",
-            "played_at": "19/11/2026 - 15:54:18"
-        },
-        {
-            "song_name": "Reverse Psychology",
-            "artists": [
-                "Temper City"
-            ],
-            "album": "Reverse Psychology",
-            "played_at": "19/11/2026 - 15:50:52"
-        },
-        {
-            "song_name": "come on home",
-            "artists": [
-                "Royel Otis"
-            ],
-            "album": "hickey",
-            "played_at": "19/11/2026 - 15:48:00"
-        },
-        {
-            "song_name": "lost in you",
-            "artists": [
-                "Phil Odd"
-            ],
-            "album": "lost in you",
-            "played_at": "19/11/2026 - 15:45:10"
-        },
-        {
-            "song_name": "How Can I Lose",
-            "artists": [
-                "George Truly"
-            ],
-            "album": "How Can I Lose",
-            "played_at": "19/11/2026 - 15:42:22"
-        },
-        {
-            "song_name": "coastline",
-            "artists": [
-                "Jonah Zed"
-            ],
-            "album": "coastline",
-            "played_at": "19/11/2026 - 15:39:57"
-        },
-        {
-            "song_name": "Juice",
-            "artists": [
-                "Schur"
-            ],
-            "album": "Juice",
-            "played_at": "19/11/2026 - 15:37:03"
-        },
-        {
-            "song_name": "Dive In",
-            "artists": [
-                "Finn Askew"
-            ],
-            "album": "Dive In",
-            "played_at": "19/11/2026 - 15:33:42"
-        },
-        {
-            "song_name": "Temporary (feat. Don Toliver)",
-            "artists": [
-                "6LACK",
-                "Don Toliver"
-            ],
-            "album": "Since I Have A Lover",
-            "played_at": "19/11/2026 - 15:31:29"
-        },
-        {
-            "song_name": "Make Them Know",
-            "artists": [
-                "Drake"
-            ],
-            "album": "ICEMAN",
-            "played_at": "19/11/2026 - 15:28:37"
-        },
-        {
-            "song_name": "Higher",
-            "artists": [
-                "Croixx"
-            ],
-            "album": "Higher",
-            "played_at": "19/11/2026 - 09:35:15"
-        },
-        {
-            "song_name": "Grain of Salt",
-            "artists": [
-                "EZMNY",
-                "G-Eazy",
-                "Ty Dolla $ign",
-                "rjtheweirdo",
-                "Bizzy Crook"
-            ],
-            "album": "Grain of Salt",
-            "played_at": "19/11/2026 - 09:20:43"
-        },
-        {
-            "song_name": "Flowers",
-            "artists": [
-                "oskar med k"
-            ],
-            "album": "feel",
-            "played_at": "19/11/2026 - 09:18:07"
-        },
-        {
-            "song_name": "Alone",
-            "artists": [
-                "SADEYEZ"
-            ],
-            "album": "Alone",
-            "played_at": "19/11/2026 - 09:15:49"
-        },
-        {
-            "song_name": "GUERILLAZ",
-            "artists": [
-                "H.LLS",
-                "Lucy Park"
-            ],
-            "album": "GUERILLAZ",
-            "played_at": "19/11/2026 - 09:13:29"
-        },
-        {
-            "song_name": "Overthink (feat. Elmiene)",
-            "artists": [
-                "Wale",
-                "Elmiene"
-            ],
-            "album": "Overthink (feat. Elmiene)",
-            "played_at": "19/11/2026 - 09:11:17"
-        },
-        {
-            "song_name": "Undercover",
-            "artists": [
-                "George Truly"
-            ],
-            "album": "Undercover",
-            "played_at": "19/11/2026 - 09:07:57"
-        },
-        {
-            "song_name": "Rein Me In (with Olivia Dean)",
-            "artists": [
-                "Sam Fender",
-                "Olivia Dean"
-            ],
-            "album": "People Watching (Deluxe Edition)",
-            "played_at": "19/11/2026 - 09:05:04"
-        },
-        {
-            "song_name": "Crocodile",
-            "artists": [
-                "Goth Babe"
-            ],
-            "album": "Lola",
-            "played_at": "19/11/2026 - 08:59:31"
-        },
-        {
-            "song_name": "Selfish",
-            "artists": [
-                "SAINt JHN"
-            ],
-            "album": "Collection One",
-            "played_at": "19/11/2026 - 08:55:52"
-        },
-        {
-            "song_name": "Lace",
-            "artists": [
-                "RIZ LA VIE"
-            ],
-            "album": "Lace",
-            "played_at": "19/11/2026 - 08:52:04"
-        },
-        {
-            "song_name": "Timezones",
-            "artists": [
-                "Schur"
-            ],
-            "album": "The Unsure Mixtape",
-            "played_at": "19/11/2026 - 08:48:55"
-        },
-        {
-            "song_name": "One Sided",
-            "artists": [
-                "Myles Lloyd"
-            ],
-            "album": "One Sided",
-            "played_at": "19/11/2026 - 08:45:29"
-        },
-        {
-            "song_name": "Postman",
-            "artists": [
-                "H:dn"
-            ],
-            "album": "Postman",
-            "played_at": "19/11/2026 - 08:42:34"
-        },
-        {
-            "song_name": "SHE GETS ME",
-            "artists": [
-                "Jack Harlow"
-            ],
-            "album": "Sweet Action II",
-            "played_at": "19/11/2026 - 08:39:50"
-        },
-        {
-            "song_name": "Something I Need",
-            "artists": [
-                "Offset"
-            ],
-            "album": "GMFU",
-            "played_at": "19/11/2026 - 08:37:35"
-        },
-        {
-            "song_name": "Being There",
-            "artists": [
-                "Bennett Coast"
-            ],
-            "album": "Being There",
-            "played_at": "19/11/2026 - 08:35:17"
-        },
-        {
-            "song_name": "So Cold",
-            "artists": [
-                "Balu Brigada"
-            ],
-            "album": "Portal",
-            "played_at": "18/11/2026 - 12:07:59"
-        },
-        {
-            "song_name": "Spots",
-            "artists": [
-                "HARRY WAS HERE",
-                "benny mayne"
-            ],
-            "album": "Spots",
-            "played_at": "18/11/2026 - 12:04:57"
-        },
-        {
-            "song_name": "16always",
-            "artists": [
-                "Jonah Zed"
-            ],
-            "album": "LOVEWONTWAIT",
-            "played_at": "18/11/2026 - 12:02:58"
-        },
-        {
-            "song_name": "If I Ever Talk To God",
-            "artists": [
-                "Landon Barker"
-            ],
-            "album": "If I Ever Talk To God",
-            "played_at": "18/11/2026 - 12:00:11"
-        },
-        {
-            "song_name": "Remedy",
-            "artists": [
-                "Marfa"
-            ],
-            "album": "Remedy",
-            "played_at": "18/11/2026 - 11:57:37"
-        },
-        {
-            "song_name": "tolerance",
-            "artists": [
-                "Asal"
-            ],
-            "album": "Kiss the Sun",
-            "played_at": "18/11/2026 - 11:54:05"
-        },
-        {
-            "song_name": "Ghost",
-            "artists": [
-                "Easy Giant"
-            ],
-            "album": "Ghost",
-            "played_at": "18/11/2026 - 11:49:35"
-        },
-        {
-            "song_name": "Fickle",
-            "artists": [
-                "Newport"
-            ],
-            "album": "Fickle",
-            "played_at": "18/11/2026 - 11:46:25"
-        },
-        {
-            "song_name": "feel like we used to",
-            "artists": [
-                "Zimmer90"
-            ],
-            "album": "Interior",
-            "played_at": "18/11/2026 - 11:43:16"
-        },
-        {
-            "song_name": "Paranoid",
-            "artists": [
-                "Montazona"
-            ],
-            "album": "Butterfly",
-            "played_at": "18/11/2026 - 11:40:27"
-        },
-        {
-            "song_name": "everything was fickle (feat. Arden Jones)",
-            "artists": [
-                "Newport",
-                "Arden Jones"
-            ],
-            "album": "everything was fickle (feat. Arden Jones)",
-            "played_at": "18/11/2026 - 11:36:09"
-        },
-        {
-            "song_name": "People Watching",
-            "artists": [
-                "Sam Fender"
-            ],
-            "album": "People Watching (Deluxe Edition)",
-            "played_at": "18/11/2026 - 11:33:01"
-        },
-        {
-            "song_name": "Starry Eyed",
-            "artists": [
-                "Good Neighbours"
-            ],
-            "album": "Blue Sky Mentality (Complete Edition)",
-            "played_at": "18/11/2026 - 11:28:03"
-        },
-        {
-            "song_name": "Close My Eyes",
-            "artists": [
-                "RZGLD"
-            ],
-            "album": "The Fool",
-            "played_at": "18/11/2026 - 11:25:53"
-        },
-        {
-            "song_name": "Too Right",
-            "artists": [
-                "tomy wyne"
-            ],
-            "album": "Too Right",
-            "played_at": "18/11/2026 - 11:23:12"
-        },
-        {
-            "song_name": "halloween",
-            "artists": [
-                "Garçons"
-            ],
-            "album": "rugged",
-            "played_at": "18/11/2026 - 11:20:18"
-        },
-        {
-            "song_name": "stranger",
-            "artists": [
-                "Jonah Zed"
-            ],
-            "album": "LOVEGONEBY",
-            "played_at": "18/11/2026 - 11:17:37"
-        },
-        {
-            "song_name": "Dance It Out",
-            "artists": [
-                "Zimmer90"
-            ],
-            "album": "Endless Summer",
-            "played_at": "18/11/2026 - 11:14:27"
-        },
-        {
-            "song_name": "i walk this earth all by myself",
-            "artists": [
-                "EKKSTACY"
-            ],
-            "album": "NEGATIVE",
-            "played_at": "18/11/2026 - 11:11:20"
-        },
-        {
-            "song_name": "i walk this earth all by myself",
-            "artists": [
-                "EKKSTACY"
-            ],
-            "album": "NEGATIVE",
-            "played_at": "18/11/2026 - 10:05:53"
         }
     ]
 }
